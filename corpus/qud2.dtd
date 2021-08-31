@@ -1,0 +1,33 @@
+<!--
+    1. Root may contain one QUD (Q0)
+    2. QUDs may contain e.g. focus and topic tags  and sub-QUDs
+       QUDs have a string attribute containing the formulated question
+    3. focus tags, topic tags etc. contain segments of plain text (corpus data), which correspond to
+        the content of brackets of e.g. a topic or focus     
+-->
+
+<!ELEMENT ROOT (QUD)>
+<!ELEMENT QUD ((DT|AT|CT|F|CMT|CON|QUD)+)>
+<!ATTLIST QUD string CDATA #REQUIRED>
+<!ELEMENT DT (CT|F|CMT|CON)+>
+<!ELEMENT AT (CT|F|CMT|CON)+>
+<!ELEMENT CT ((SEGMENT+)|(NAI*, SEGMENT+)|(SEGMENT+, NAI*))+>
+<!ELEMENT F ((SEGMENT+)|(NAI*, SEGMENT+)|(SEGMENT+, NAI*))+>
+<!ELEMENT CMT ((SEGMENT+)|(NAI*, SEGMENT+)|(SEGMENT+, NAI*))+>
+<!ELEMENT CON ((SEGMENT+)|(NAI*, SEGMENT+)|(SEGMENT+, NAI*))+>
+<!ELEMENT NAI (SEGMENT)>
+<!ELEMENT RES (#PCDATA)>
+<!ELEMENT SEGMENT (#PCDATA)>
+
+
+<!--
+    discourse topic:    DT (Discourse Topic)             Diskursthema
+    sentence topic:     AT (Assertion Topic)             Satzthema
+    contrastive topic:  CT (Contrastive Topic)            jetzt noch keine tiefen Gedanken
+    background:         CON (Context = Alte Infos)            gegeben in der QUD
+    focus:              F (Focus)              Antwort auf Frage
+    comment:            CMT (Comment = Neue Info)
+    non-at-issue:       NAI
+    >
+    SEGMENTS, die nicht in <NAI> embedded sind, sind at-issue
+<!Mann und Thompson List of RST relations>
