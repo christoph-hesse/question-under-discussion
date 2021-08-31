@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
+
+<ROOT>
+    <QUD string = "Was ist mit der Honda CB 1000 R?">
+        <!-- DT = technische Veränderungen -->
+        <QUD string="Was hat sich im Vergleich zur Vorgängerin verändert?">
+            <QUD string = "Was ist mit dem Styling und dem Motor?">
+                <QUD string = "Was ist mit dem Styling?">
+                    <RES><SEGMENT>Neben </SEGMENT></RES>
+                    <F id="1.1.1"><SEGMENT>dem Styling (, dem eine Änderungen erfahren hat)</SEGMENT></F>
+                </QUD>
+                <QUD string = "Was ist mit dem Motor?">
+                    <F id="1.1.2"><SEGMENT> hat </SEGMENT></F>
+                    <RES><SEGMENT>auch </SEGMENT></RES>
+                    <F id="1.1.2"><SEGMENT>der Motor Änderungen erfahren,</SEGMENT></F>
+        
+                    <QUD string = "Worauf basiert der Motor?">
+                        <CON><SEGMENT> basiert er </SEGMENT></CON>
+                        <RES><SEGMENT> nun </SEGMENT></RES>
+                        <RES><SEGMENT> doch </SEGMENT></RES>
+                    <F id="1.1.1"><SEGMENT>auf dem des Supersportlers Fireblade des Jahres 2004.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string="Was ist mit dem Gewicht des Motorrads?">
+                <F id="1.1.2"><SEGMENT> Wichtiger </SEGMENT></F>
+                <RES><SEGMENT> aber </SEGMENT></RES>
+                <RES><SEGMENT> noch </SEGMENT></RES>
+                <F id="1.1.2"><SEGMENT>ist die Schlankheitskur, die der CB 1000 R widerfuhr.</SEGMENT></F>
+                <QUD string="Um wieviel hat sich das Gewicht verringert?">
+                    <CON><SEGMENT>Sie hat im Vergleich zur Vorgängerin</SEGMENT></CON>
+                    <F><SEGMENT> zwölf Kilo abgespeckt </SEGMENT></F>
+                    <RES><SEGMENT>und</SEGMENT></RES>
+                    <QUD string="Wie viel wiegt das Motorrad?">
+                        <F id="1.1.2.1.1"><SEGMENT> bringt </SEGMENT></F>
+                        <RES><SEGMENT>nur noch </SEGMENT></RES>
+                        <F id="1.1.2.1.1"><SEGMENT>214 Kilo vollgetankt auf die Waage. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string="Womit wurde die CB 1000 R ausgestattet?">
+                <RES><SEGMENT>Zudem </SEGMENT></RES>
+                <F id="1.1.3.0"><SEGMENT>wurde </SEGMENT></F>
+                <CON><SEGMENT> sie </SEGMENT></CON>
+                <F id="1.1.3.0">
+                    <SEGMENT>mit </SEGMENT>
+                    <NAI><SEGMENT>den heutzutage üblichen</SEGMENT></NAI>
+                    <SEGMENT> elektronischen Helferlein ausgestattet: </SEGMENT>
+                </F>
+                <QUD string="Wie viele Fahrmodi gibt es?"> 
+                    <F id="1.1.3.1"><SEGMENT>Die drei voreingestellten Fahrmodi</SEGMENT></F>
+                    <QUD string="Welche Fahrmodi gibt es?"> 
+                        <F id="1.1.3.1.1.1"><SEGMENT> „Rain“,</SEGMENT></F>
+                        <F id="1.1.3.1.1.2"><SEGMENT> „Standard“ </SEGMENT></F>
+                        <RES><SEGMENT>und </SEGMENT></RES>
+                        <F id="1.1.3.1.1.3"><SEGMENT>„Sport“ </SEGMENT></F>
+                        <QUD string="Was sind die Funktionen der Fahrmodi?"> 
+                            <F id="1.1.3.1.1.1.1"><SEGMENT>variieren die Gasannahme </SEGMENT></F>
+                            <RES><SEGMENT>und </SEGMENT></RES>
+                            <F id="1.1.3.1.1.1.2"><SEGMENT>passen Traktionskontrolle </SEGMENT></F>
+                            <RES><SEGMENT>und </SEGMENT></RES>
+                            <F id="1.1.3.1.1.1.3"><SEGMENT>Motorbremsmoment entsprechend an. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                    <F id="1.1.3.1"><SEGMENT>In einem vierten Modus </SEGMENT></F>
+                    <QUD string="Was ermöglicht der vierte Modus?">
+                        <F><SEGMENT>kann der Fahrer die Einstellungen frei kombinieren.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Aussehen/Optik/Karosserie -->
+        <QUD string = "Was ist mit dem Aussehen?">
+
+            <QUD string = "Wovon sieht man von außen wenig?">
+                <F><SEGMENT> Vom Rahmen</SEGMENT></F>
+                <QUD string="Was hat sich am Rahmen verändert?">
+                    <QUD string="Woraus besteht der Rahmen (jetzt)?">
+                        <CON>der</CON>
+                        <RES><SEGMENT> nun </SEGMENT></RES>
+                        <F><SEGMENT> aus Stahlprofilen besteht, </SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <CON><SEGMENT> sieht man von außen wenig; </SEGMENT></CON>
+            </QUD>
+            <QUD string = "Wovon sieht man viel?">
+                <RES><SEGMENT> vielmehr </SEGMENT></RES>
+                <CON id="1.2.2"><SEGMENT> fangen </SEGMENT></CON><!-- idiomatisches Verb nicht im Fokus sondern Kontext: Blick des Betrachters fangen == auffällig, Erwartung, die schon im ersten Satzteil geweckt wird -->
+                <F id = "1.2.2.1"><SEGMENT> Kühlerblende, </SEGMENT></F>
+                <F id = "1.2.2.2"><SEGMENT> eine weitere Alublende unter dem Tank </SEGMENT></F>
+                <RES><SEGMENT> sowie </SEGMENT></RES>
+                <F id = "1.2.2.3"><SEGMENT> der massige Auspuffendtopf </SEGMENT></F>
+                <CON id="1.2.2"><SEGMENT> den Blick des Betrachters </SEGMENT></CON>
+                <RES><SEGMENT> und </SEGMENT></RES>
+
+                <QUD string = "Welchen Eindruck hinterlassen die auffälligen Komponenten?">
+                    <F><SEGMENT> vermitteln eine hohe Wertigkeit. </SEGMENT></F>
+                </QUD>
+
+                <CON><SEGMENT> Ein weiteres auffälliges optisches Moment ist </SEGMENT></CON> <!-- left branching -->
+                <F id = "1.2.2.4"><SEGMENT> das kurze Heck </SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id = "1.2.2.5">
+                    <SEGMENT> der an der </SEGMENT>
+                    <NAI><SEGMENT> hübschen </SEGMENT></NAI>
+                    <SEGMENT> Einarm-Schwinge befestigte Kennzeichenhalter, </SEGMENT>
+                </F>
+
+                <QUD string = "Wozu dient der Kennzeichenalter?">
+                    <CON><SEGMENT> der </SEGMENT></CON>
+                    <RES><SEGMENT> zudem </SEGMENT></RES>
+                    <F><SEGMENT> als Spritzschutz bei Nässe dient. </SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Komfort -->
+        <QUD string="Wie ist der Komfort?">
+            <QUD string = "Welche Art von Motorrad ist die CB 1000 R?">
+                <QUD string = "Was spürt man sofort?">
+                    <RES><SEGMENT>Dass</SEGMENT></RES>
+                    <CON><SEGMENT> Honda mit der CB 1000 R </SEGMENT></CON>
+                    <F id="1.3.1.1.0"><SEGMENT> keinen Sportler </SEGMENT></F>
+                    <F id="1.3.1.1.1"><SEGMENT> ohne Verkleidung </SEGMENT></F>
+                    <F id="1.3.1.1.0"><SEGMENT> auf die Räder gestellt hat,</SEGMENT></F>
+                    <CON id = "1.3.1.1"><SEGMENT> spürt man schon beim Aufsitzen </SEGMENT></CON>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <CON id = "1.3.1.2"><SEGMENT> den ersten Metern Fahrt. </SEGMENT></CON>
+                </QUD>
+                <QUD string="Was ist der Grund, dass sie kein Sportler ist? (Warum ist sie kein Sportler?)">
+                    <QUD string="Wie ist die Sitzposition?">
+                        <F id="1"><SEGMENT>Die Sitzposition ist sehr aufrecht,</SEGMENT></F>
+                        <QUD string="Was führt zu einer sehr aufrechten Sitzposition?">
+                            <F id="1.1"><SEGMENT>die Lenkerenden kommen den Händen weit entgegen</SEGMENT></F>
+                            <RES><SEGMENT>und</SEGMENT></RES>
+                            <F id="1.2"><SEGMENT>die Fußrasten sind recht weit vorn angebaut.</SEGMENT></F>
+                        </QUD>
+                        <QUD string="Was folgt aus der sehr aufrechten Sitzposition?">
+                            <CON><SEGMENT>Das führt zu</SEGMENT></CON>
+                            <F id="1"><SEGMENT>einer eher komfortablen denn aggressiven Sitzposition,</SEGMENT></F>
+                            <RES><SEGMENT>und</SEGMENT></RES>
+                            <RES><SEGMENT> nur </SEGMENT></RES>
+                            <F id="2"><SEGMENT>wenige Fahrer dürften sich ob dieser Position zunächst unwohl fühlen.</SEGMENT></F>
+                            <QUD string="Wie ist der Platz/Komfort für die Sozia/den Beifahrer?">
+                                <CON><SEGMENT>Die Sozia </SEGMENT></CON><!-- Beifahrer -->
+                                <F><SEGMENT>hat auf dem modern-kurzen Heck freilich weniger zu lachen. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+        </QUD>
+
+
+        <QUD string="Was ist mit dem Motor?">
+            <QUD string="Was passiert beim Druck auf den Anlasser?">
+                <CON><SEGMENT>Beim Druck auf den Anlasser</SEGMENT></CON>
+                <F><SEGMENT> erwacht ein brummig bollernder Vierzylinder zum Leben,</SEGMENT></F>
+                <QUD string="Was tut der Motor?">
+                    <CON><SEGMENT> der </SEGMENT></CON>
+                    <F id="1.4.1.1"><SEGMENT>sein Potenzial </SEGMENT></F>
+                    <RES><SEGMENT>bereits </SEGMENT></RES>
+                    <F id="1.4.1.1"><SEGMENT>ankündigt. </SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string="Was ist mit der Kupplung und dem Getriebe?">
+            <QUD string = "Was unterstreicht den Komforteindruck?">
+                <QUD string="Wie ist die Kupplung? (Warum ist die Kupplung komfortabel?">
+                    <CON id = "1.3.5.1"><SEGMENT> Die</SEGMENT></CON>
+                    <F id = "1.3.5.2"><SEGMENT> leichtgängige </SEGMENT></F>
+                    <CON id = "1.3.5.1"><SEGMENT> Kupplung </SEGMENT></CON>
+                </QUD>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <QUD string="Wie ist das Getriebe? (Warum ist das Getriebe komfortabel?">
+                    <CON id = "1.3.5.2"><SEGMENT> das </SEGMENT></CON>
+                    <F id = "1.3.5.3"><SEGMENT> erstklassig rastende</SEGMENT></F>
+                    <CON id = "1.3.5.2"><SEGMENT> Getriebe </SEGMENT></CON>
+                </QUD>
+                <CON><SEGMENT> unterstreichen den Komforteindruck; </SEGMENT></CON>
+            </QUD>
+
+            <QUD string = "Was bietet Honda bezüglich Kupplung und Getriebe noch (was es noch komfortabler macht)?">
+                <F><SEGMENT> wer die Variante mit Pluszeichen hinter dem Modellnamen ordert, </SEGMENT></F>
+
+                <QUD string = "Was bietet die Honda CB 1000 R+ bezüglich Kupplung und Getriebe noch (was es noch komfortabler macht)?">
+                    <F><SEGMENT> kommt zudem in den Genuss eines Quickshifters, </SEGMENT></F>
+
+                    <QUD string = "Was tut der Quickshifter?">
+                        <CON><SEGMENT> der </SEGMENT></CON>
+                        <RES><SEGMENT> nicht nur </SEGMENT></RES>
+                        <F id = "1.3.6.1.1.1"><SEGMENT> hoch(schaltet), </SEGMENT></F>
+                        <RES><SEGMENT> sondern auch </SEGMENT></RES>
+                        <F id = "1.3.6.1.1.2"><SEGMENT> runterschaltet, </SEGMENT></F>
+                        <RES><SEGMENT> ohne dass </SEGMENT></RES>
+                        <F id = "1.3.6.1.1.3"><SEGMENT> man die Kupplung ziehen muss. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string="Was ist mit dem Motor? (Was gibt es noch zum Motor zu sagen?)">
+            <QUD string = "Was ist positiv in Bezug auf das Fahrverhalten?">
+
+                <QUD string = "Wie passt sich das Fahrzeug an?">
+                    <CON><SEGMENT> Die neue CB 1000 R </SEGMENT></CON>
+                    <F id = "1.4.1.1.1"><SEGMENT> bereitet </SEGMENT></F>
+                    <RES><SEGMENT> also </SEGMENT></RES>
+                    <F id = "1.4.1.1.1"><SEGMENT> wenig Anpassungsprobleme: </SEGMENT></F>
+
+
+                    <QUD string = "Wie läuft der Motor?">
+                        <CON><SEGMENT> Der Vierzylinder </SEGMENT></CON>
+                        <F id = "1.4.1.1.1.1"><SEGMENT> läuft gewohnt vibrationsarm, </SEGMENT></F>
+                        <F id = "1.4.1.1.1.2"><SEGMENT> zieht mächtig voran </SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id = "1.4.1.1.1.3"><SEGMENT> dreht willig bis 12.000 Touren hoch. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Was ist negativ in Bezug auf das Fahrverhalten?">
+
+                <QUD string = "Wie verhält sich der Motor?">
+                    <RES><SEGMENT> Dabei </SEGMENT></RES>
+                    <F>
+                        <SEGMENT>legt er eine Eigenheit auf die Straße,</SEGMENT>
+                        <NAI><SEGMENT>die ein wenig erstaunt,</SEGMENT></NAI>
+                    </F>
+
+                    <QUD string = "Was ist diese Eigenheit?"><!-- at-issue -->
+                        <RES><SEGMENT> denn </SEGMENT></RES>
+                        <F id = "1.4.2.1.1.1.1"><SEGMENT> ab rund 4.000 Touren gibt er sich etwas verhalten, </SEGMENT></F>
+                        <F id = "1.4.2.1.1.1.2">
+                            <SEGMENT> erst bei 8.000 Umdrehungen</SEGMENT>
+                            <NAI><SEGMENT> mit Schmackes </SEGMENT></NAI>
+                            <SEGMENT>loszulegen</SEGMENT>
+                        </F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id = "1.4.2.1.1.1.3"><SEGMENT> seine 145 PS voll auszuspielen. </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Was passiert dadurch?">
+                        <QUD string = "Was fehlt dem Fahrzeug?">
+                            <RES><SEGMENT> Damit </SEGMENT></RES>
+                            <F>
+                                <SEGMENT>fehlt beim ambitionierten Landstraßenwedeln in jener Drehzahlspanne zwischen 4.000 und 8.000 Touren ein wenig die Dynamik,</SEGMENT>
+                                <NAI><SEGMENT>die man von einer 1000er erwarten sollte.</SEGMENT></NAI>
+                            </F>
+        
+                            <QUD string = "Wo ist dieser Mangel bemerkbar?">
+                                <CON><SEGMENT> Das </SEGMENT></CON>
+                                <F id="1.7.2.1.3.1"><SEGMENT>macht sich auf ebenen Landstraßen kaum bemerkbar,</SEGMENT></F>
+                                <F id="1.7.2.1.3.2"><SEGMENT>könnte </SEGMENT></F>
+                                <RES><SEGMENT>aber </SEGMENT></RES>
+                                <F id="1.7.2.1.3.2"><SEGMENT> bergauf (spürbar werden)</SEGMENT></F>
+                                <RES><SEGMENT>und </SEGMENT></RES>
+                                <F id="1.7.2.1.3.3"><SEGMENT> (könnte) nach engen Kehren – etwa in den Bergen – </SEGMENT></F>
+                                <RES><SEGMENT>durchaus</SEGMENT></RES>
+                                <F id="1.7.2.1.3.3"><SEGMENT> spürbar werden. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+
+                </QUD>
+
+            </QUD>
+
+            <QUD string="Wie ist die Gesamtbeschleunigung?">
+                <CON><SEGMENT>Was die Gesamtbeschleunigung angeht,</SEGMENT></CON>
+                <F><SEGMENT> liegt der Motor auf dem Niveau des Vorgängers. </SEGMENT></F>
+            </QUD>
+    
+            <QUD string="Wie ist der Verbrauch des Motors?">
+                <RES><SEGMENT>Dabei </SEGMENT></RES>
+                <F><SEGMENT>gibt er sich recht genügsam </SEGMENT></F>
+                <RES><SEGMENT>und </SEGMENT></RES>
+    
+                <QUD string="Was bedeutet genügsamer Verbrauch konkret?">
+                    <QUD string="Wie ist der Verbrauch laut Hersteller?">
+                        <F ><SEGMENT>lässt sich auf entspannten Touren unter fünf Liter fahren;</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Wie war der Verbrauch bei der Testfahrt?">
+                        <CON><SEGMENT>wir kamen auf einen Testverbrauch </SEGMENT></CON>
+                        <F><SEGMENT>von 5,3 Liter auf 100 Kilometer.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string="Was ist mit dem Fahrwerk?">
+            <CON><SEGMENT>Das Fahrwerk </SEGMENT></CON>
+            <F id="1.10.1"><SEGMENT>ist mannigfaltig einstellbar </SEGMENT></F>
+            <RES><SEGMENT>und </SEGMENT></RES>
+            <F id="1.10.2"><SEGMENT>unterstreicht den Komfortanspruch der CB 1000 R.</SEGMENT></F>
+            <QUD string="Wie geht das Motorrad mit Fahrbahnunebenheiten um?">
+                <CON><SEGMENT>Kleinere und größere Verwerfungen der Fahrbahn </SEGMENT></CON>
+                <F><SEGMENT>werden souverän weggebügelt,</SEGMENT></F>
+            </QUD>
+            <QUD string="Wie ist es bei Kurvenfahrten?">
+                <CON><SEGMENT>in Kurvenfahrten</SEGMENT></CON>
+                <F id="1.10.2.1"><SEGMENT> vermittelt es jede Menge Sicherheit </SEGMENT></F>
+                <RES><SEGMENT>und</SEGMENT></RES>
+                <F id="1.10.2.2"><SEGMENT> Berechenbarkeit. </SEGMENT></F>
+            </QUD>
+        </QUD>
+
+        <QUD string="Was ist mit den Bremsen?">
+            <QUD string="Welche Bremsen kommen zum Einsatz?">
+                <F id="1.11.1"><SEGMENT>Griffige </SEGMENT></F>
+                <RES><SEGMENT>und </SEGMENT></RES>
+                <F id="1.11.2"><SEGMENT>gut dosierbare </SEGMENT></F>
+                <F id="1.11.3"><SEGMENT>Vierkolben-Bremsen stehen dem Vortrieb bei Bedarf wirksam entgegen, </SEGMENT></F>
+            </QUD>
+            <QUD string="Was ist mit dem ABS?">
+                <RES><SEGMENT>wobei </SEGMENT></RES>
+                <F><SEGMENT>dem ABS die Schräglagentauglichkeit abgeht.</SEGMENT></F>
+            </QUD>
+        </QUD>
+
+        <QUD string="Was ist mit dem Display?">
+            <CON><SEGMENT>Das LC-Display </SEGMENT></CON>
+            <F id="1.12.1"><SEGMENT>ist jederzeit gut ablesbar, </SEGMENT></F>
+            <F id="1.12.2"><SEGMENT>klar gegliedert </SEGMENT></F>
+            <RES><SEGMENT>und </SEGMENT></RES>
+            <F id="1.12.3"><SEGMENT>liefert fortwährend den genauen Status der elektronischen Systeme.</SEGMENT></F>
+        </QUD>
+
+        <QUD string = "Wie lassen sich die Fahrmodi steuern/auswählen?">
+            <F><SEGMENT> Über einen Kippschalter an der linken Armatur  </SEGMENT></F>
+            <CON><SEGMENT> lassen sich die Modi verändern. </SEGMENT></CON>
+        </QUD>
+
+        <QUD string="Was ist mit den Blinkern?">
+            <CON><SEGMENT>Die Blinker</SEGMENT></CON>
+            <F>
+                <SEGMENT> verfügen</SEGMENT>
+                <NAI><SEGMENT> leider </SEGMENT></NAI>
+                <SEGMENT>nicht über einen automatischen Rücksteller. </SEGMENT>
+            </F>
+        </QUD>
+
+        <QUD string="Was ist optisch ansprechend an der Karosserie/von außen?">
+            <CON><SEGMENT>Optisches Bonbon </SEGMENT></CON>
+            <F id="1.15.1"><SEGMENT>ist der große Kühler vor dem Reihenvierer </SEGMENT></F>
+            <QUD string = "Was sind die Vorteile des Kühlers?">
+                <F id = "1.5.1.5.1.1"><SEGMENT> mit seinen matt schimmernden Blenden an den Seiten, </SEGMENT></F>
+                <CON><SEGMENT> der </SEGMENT></CON>
+                <F id = "1.5.1.5.1.2"><SEGMENT> der Honda optische Eigenständigkeit verleiht. </SEGMENT></F>
+            </QUD>
+
+            <QUD string = "Was sorgt für die optische Eigenständigkeit vorne?">
+                <CON><SEGMENT> Von vorne erledigt dies </SEGMENT></CON>
+                <QUD string="Was ist mit dem Scheinwerfer?">
+                    <F id="1.16.1"><SEGMENT> der Rundscheinwerfer</SEGMENT></F>
+                    <F id="1.16.2"><SEGMENT> mit zweigeteiltem Reflektor </SEGMENT></F>
+                    <RES><SEGMENT>und </SEGMENT></RES>
+                    <F id="1.16.3"><SEGMENT>LED-Leuchteinheiten.</SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string="Wie ist das Preis-Leistungsverhalten?">
+            <QUD string="Wie ist der Preis der Honda CB 1000 R+ im Vergleich zur Honda CB 1000 R?">
+                <CON id="1.17.1.1"><SEGMENT> Wer die </SEGMENT></CON>
+                <F><SEGMENT>1.500 Euro teure[re] </SEGMENT></F> <!-- "teurere"-->
+                <CON id="1.17.1.1"><SEGMENT>Plus-Variante geordert hat,</SEGMENT></CON>
+            </QUD>
+            <QUD string="Was bekommt man (bei der Honda CB 1000 R+) für diesen Preis (Leistung)?">
+                <F><SEGMENT> bekommt neben dem Blipper</SEGMENT></F>
+                <F><SEGMENT>ein Schutzgitter für den Kühler, </SEGMENT></F>
+                <F><SEGMENT>Heizgriffe </SEGMENT></F>
+                <RES><SEGMENT>sowie </SEGMENT></RES>
+                <F><SEGMENT> eine metallene Sitzbankabdeckung.</SEGMENT></F>
+            </QUD>
+
+            <QUD string="Was ist der Preis der Honda CB 1000 R+?">
+                <RES><SEGMENT> Dann </SEGMENT></RES>
+                <F><SEGMENT>liegt man bei 14.495 Euro,</SEGMENT></F>
+            </QUD>
+            <QUD string="Was bekommt man (bei der Honda CB 1000 R) für diesen Preis (Leistung)?">
+                <F id="1.17.2.2.1"><SEGMENT> bekommt dafür </SEGMENT></F>
+                <RES><SEGMENT>aber </SEGMENT></RES>
+                <F id="1.17.2.2.1"><SEGMENT>ein wertiges,</SEGMENT></F>
+                <F id="1.17.2.2.2"><SEGMENT>schickes </SEGMENT></F>
+                <RES><SEGMENT>und  </SEGMENT></RES>
+                <F id="1.17.2.2.3"><SEGMENT>stilvolles Fahrgerät für fast alle Lebenslagen.</SEGMENT></F>
+                <QUD string="Was tut die CB 1000 R damit?">
+                    <RES><SEGMENT> Und </SEGMENT></RES>
+                    <RES><SEGMENT> damit </SEGMENT></RES>
+                    <F id="1.17.2.2.1"><SEGMENT>entspricht die CB 1000 R </SEGMENT></F>
+                    <RES><SEGMENT> ja </SEGMENT></RES>
+                    <F id="1.17.2.2.1"><SEGMENT>exakt der Honda-Philosophie.</SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+    </QUD>
+</ROOT>

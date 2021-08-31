@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
+
+<ROOT>
+    <QUD string="Was ist mit dem Porsche Macan?">
+        <QUD string="Welche Modelle des Macan gibt es?">
+            <QUD string="Wie steht Porsche zum Diesel?"><!-- Diesel ist passe -->
+                <QUD string="Wie lang hielt die Diesel-Ära bei Porsche an?"><!-- Diesel nicht von langer Dauer -->
+                    <CON id="1.1.1"><SEGMENT>Die Diesel-Ära</SEGMENT></CON>
+                    <F id="1.1.1"><SEGMENT> hielt </SEGMENT></F>
+                    <CON id="1.1.1"><SEGMENT>bei Porsche </SEGMENT></CON>
+                    <F id="1.1.1"><SEGMENT>nicht besonders lange an </SEGMENT></F>
+                    <RES><SEGMENT>und </SEGMENT></RES>
+                </QUD>>
+                <QUD string="Welche Veränderungen gab es in der Macan-Reihe?"><!-- Auch bei anderen Fahrzeugen kein Diesel -->
+                    <F id="1.2.1"><SEGMENT> mit dem Facelift </SEGMENT></F>
+                    <CON><SEGMENT> im vergangenen Jahr </SEGMENT></CON>
+                    <F id="1.2.2"><SEGMENT> wurde der Selbstzünder </SEGMENT></F><!-- Dieselmotor -->
+                    <RES><SEGMENT> auch </SEGMENT></RES><!-- "und auch" -->
+                    <F id="1.2.2"><SEGMENT> im Mittelklasse-SUV Macan wieder gestrichen. </SEGMENT></F>
+                </QUD>
+            </QUD>
+            <QUD string="Welche Macan-Modelle mit Benzinmontoren gibt es?">
+                <RES><SEGMENT> Seither </SEGMENT></RES>
+                <CON><SEGMENT> rollte der Hochbeiner </SEGMENT></CON>
+                <RES><SEGMENT> ausschließlich </SEGMENT></RES>
+                <QUD string="V4-Benzinmontoren?">
+                    <F><SEGMENT> als vierzylindriger Macan</SEGMENT></F>
+                    <QUD string="Wie viel PS hat der vierzylindrige Porsche Macan?">
+                        <F><SEGMENT>mit 180 kW/245 PS </SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string="V6-Benzinmontoren?">
+                    <RES><SEGMENT>oder</SEGMENT></RES>
+                    <F id="1.1.3.1.1"><SEGMENT> als S-Modell </SEGMENT></F>
+                    <QUD string="Wie viel PS hat das sechszylindrige S-Modell?"> 
+                        <F id="1.1.3.1.1.1"><SEGMENT>mit 260 kW/354 PS starkem </SEGMENT></F>
+                    </QUD>
+                    <F id="1.1.3.1.1"><SEGMENT>2,9-Liter-V6</SEGMENT></F>
+                    <NAI><SEGMENT> vom Band in Leipzig. </SEGMENT></NAI>
+                </QUD>
+                <QUD string="V6-Turbo?">
+                    <CON id="1.1.3"><SEGMENT> Jetzt, </SEGMENT></CON>
+                    <F><SEGMENT> anderthalb Jahre vor dem Aus der aktuellen Generation, </SEGMENT></F>
+                    <CON id="1.1.3"><SEGMENT> legt Porsche noch einmal nach: </SEGMENT></CON>
+                    <QUD string = "Was legt Porsche nach?">
+                        <CON><SEGMENT> Ab sofort gibt es </SEGMENT></CON>
+                        <F><SEGMENT> den Macan </SEGMENT></F>
+                        <RES><SEGMENT> auch </SEGMENT></RES>
+                        <F id="1.1.3.2"><SEGMENT> wieder als </SEGMENT></F>
+                        <QUD string="Was ist der Preis des Turbo-Modells?">
+                            <F><SEGMENT>mindestens 91.922 Euro teures </SEGMENT></F>
+                        </QUD>
+                        <F id="1.1.3.2"><SEGMENT>Turbo-Modell.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string="Antrieb des Testmodells/Turbo-Modells?">
+            <QUD string = "Woher kennt man den Turbo-Antrieb? (Ist der Motor neu?)">
+                <CON><SEGMENT>Der Turbo-Antrieb </SEGMENT></CON>
+                <F id="1.1.3.3.1.1"><SEGMENT>ist ein alter Bekannter</SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id="1.1.3.3.1.2"><SEGMENT>eng verwandt mit dem Macan-S-Motor.</SEGMENT></F>
+                <QUD string = "Was ist am Turbo-Antrieb anders als am Macan-S-Motor?">
+
+                    <QUD string="Kontrast/Tradeoff innerhalb des Macan-S-Motors aka Manko?">
+                        <QUD string="Was ist charakteristisch für den Macan-S-Motor?"><!-- Besser: überhaupt ein Turbolader -->
+                            <CON><SEGMENT> Der ist </SEGMENT></CON>
+                            <RES><SEGMENT> freilich </SEGMENT></RES><!-- "zwar" -->
+                            <RES><SEGMENT> auch </SEGMENT></RES><!-- bezogen auf den Macan-S-Motor -->
+                            <F><SEGMENT> turbogeladen, </SEGMENT></F>
+                        </QUD>
+                        <QUD string="Wie viele Turbolader hat der Macan-S-Motor?"><!-- Schlechter: nur ein Turbolader -->
+                            <RES><SEGMENT>allerdings </SEGMENT></RES>
+                            <F id="1"><SEGMENT> wird </SEGMENT></F>
+                            <CON><SEGMENT> das Dreiliter-Triebwerk</SEGMENT></CON>
+                            <F id="1"><SEGMENT> von nur einem einzigen Lader mit Frischluft versorgt. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+
+                    <QUD string="Kontrast/Tradeoff innerhalb des Turbo-Motors aka Manko?"><!-- Zwei Turbolader, aber dafür weniger Hubraum -->
+                        <QUD string = "Wie hat sich der Hubraum in der Turbo-Version gegenüber dem Macan-S-Motor verändert?"><!-- Schlechter: weniger Hubraum -->
+                            <CON><SEGMENT> In der expliziten Turbo-Version </SEGMENT></CON>
+                            <F><SEGMENT> sinkt der Hubraum um 100 Kubikzentimer, </SEGMENT></F>
+                        </QUD>
+                        <QUD string = "Wie werden die 100 Kubikzentimeter kompensiert?"><!-- Besser: zwei Turbolader -->
+                            <QUD string = "Wie viele Turbolader hat die Turbo-Version?">
+                            <RES><SEGMENT> dafür aber </SEGMENT></RES>
+                            <F><SEGMENT> sorgt ein zweiter Turbolader für Druck. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                    
+                    <QUD string="Was ist das Ergebnis des Tradeoffs zwischen Turboladern und Hubraum?"> 
+                        <CON><SEGMENT>Das Ergebnis: </SEGMENT></CON>
+                        <QUD string="Wie viel PS hat die Turbo-Version?"> 
+                            <CON><SEGMENT>Der 2,9-Liter-V6 </SEGMENT></CON>
+                            <F>
+                                <SEGMENT>entwickelt</SEGMENT>
+                                <NAI><SEGMENT> – wie beispielsweise auch im Panamera 4S –</SEGMENT></NAI>
+                                <SEGMENT> 324 kW/440 PS </SEGMENT>
+                            </F>
+                        </QUD>
+                        <QUD string="Wie groß ist das Drehmoment der Turbo-Version?">
+                            <RES><SEGMENT>und</SEGMENT></RES>
+                            <F><SEGMENT> stemmt 550 Newtonmeter Drehmoment auf die Kurbelwelle;</SEGMENT></F>
+                            <QUD string="Wie groß ist das Drehmoment der Turbo-Version im Vergleich zum S-Modell?">
+                                <F><SEGMENT> das sind 70 Newtonmeter mehr als das S-Modell aufbringt.</SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+
+            <QUD string="Was ist mit der Drehzahl der Turbo-Version?"> 
+                <QUD string="Wie viele U/min braucht die Turbo-Version für die volle Kraft?">
+                    <RES><SEGMENT>Dass </SEGMENT></RES>
+                    <CON><SEGMENT>die volle Kraft </SEGMENT></CON>
+                    <F id="1">
+                        <NAI><SEGMENT> erst </SEGMENT></NAI>
+                        <SEGMENT> bei </SEGMENT>
+                        <NAI><SEGMENT> verhältnismäßig </SEGMENT></NAI>
+                        <SEGMENT> hohen 1.800 Touren anliegt, </SEGMENT>
+                    </F>
+                    <QUD string="Wie viele U/min braucht das S-Modell im Vergleich zur Turbo-Version?"> 
+                        <CON><SEGMENT>der S </SEGMENT></CON>
+                        <F id="1.1.4.1.1"><SEGMENT>stellt seinen maximalen Durchzug</SEGMENT></F>
+                        <RES><SEGMENT> schon </SEGMENT></RES>
+                        <F id="1.1.4.1.1"><SEGMENT>bei knapp über 1.300 U/min bereit,</SEGMENT></F>
+                    </QUD>
+                    <F id="2"><SEGMENT> merkt man nicht. </SEGMENT></F>
+                </QUD>
+                <QUD string="Wie geht die Turbo-Version/der Macan mit einem Turboloch um?"> 
+                    <CON><SEGMENT> Ein etwaiges Turboloch</SEGMENT></CON>
+                    <F id="1"><SEGMENT> überspielt der Macan mit großer Drehfreude </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="2.1"><SEGMENT> (überspielt der Macan mit) dem superflink agierenden (Getriebe) </SEGMENT></F>
+                    <F id="2.2"><SEGMENT> Siebengang-Doppelkupplungsgetriebe. </SEGMENT></F>                    
+                </QUD>
+            </QUD>
+
+            <QUD string="Wie läuft der Motor?">
+                
+                <QUD string = "Was ist mit der Beschleunigung?">
+                    <QUD string = "Wie schnell beschleunigt der V6?">
+                        <F id = "1.1.5.1"><SEGMENT> Fast schon sauger-ähnlich zieht der V6 an </SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES><!-- kausal -->
+                        <F id="1.1.5.2"><SEGMENT>wuppt den </SEGMENT></F>
+                        <QUD string="Was ist das Gewicht der Turbo-Version?">
+                            <F><SEGMENT>rund zwei Tonnen schweren </SEGMENT></F>
+                        </QUD>
+                        <F id="1.1.5.2"><SEGMENT>Porsche im schnellsten Fall in 4,3 Sekunden auf Tempo 100.</SEGMENT></F>
+                    </QUD>
+
+                    <QUD string="Wie ist diese Beschleunigung zu bewerten?">
+                        <CON><SEGMENT> Das </SEGMENT></CON>
+                        <F id="1.1.5.2.1"><SEGMENT> ist verdammt flott,</SEGMENT></F><!-- emphatisches, Steigerungs-"verdammt" = sehr -->
+                        <F id="1.1.5.2.2"><SEGMENT> fühlt sich in dem SUV </SEGMENT></F>
+                        <RES><SEGMENT>aber</SEGMENT></RES>
+                        <F id="1.1.5.2.2"><SEGMENT> nicht so brachial an, wie in einem kleinen, engen Sportwagen.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+                
+                <QUD string="Was ist mit der Höchstgeschwindigkeit?"> 
+                    <CON><SEGMENT> Die Vmax </SEGMENT></CON>
+                    <F><SEGMENT>gibt Porsche mit 270 km/h an.</SEGMENT></F>
+                    <QUD string="Wie ist die Höchstgeschwindigkeit zu bewerten?">
+                        <F>
+                            <SEGMENT> Das ist </SEGMENT>
+                            <NAI><SEGMENT> ohne Frage </SEGMENT></NAI>
+                            <SEGMENT>mehr als genug,</SEGMENT>
+                        </F>
+                        <RES><SEGMENT> doch </SEGMENT></RES>
+                        <F><SEGMENT>reicht es nicht, um den Turbo zum schnellsten Macan zu machen:</SEGMENT></F>
+                        <QUD string="Unter welchen Bedingungen war der alte Macan schneller?">
+                            <CON><SEGMENT>Vor der Modellpflege gab es für das Turbo-Modell</SEGMENT></CON>
+                            <RES><SEGMENT> noch </SEGMENT></RES>
+                            <F><SEGMENT>ein Performance-Paket, </SEGMENT></F>
+                            <QUD string="Wozu führte das Performance Paket?">
+                                <CON><SEGMENT> das </SEGMENT></CON>
+                                <QUD string="Welchen Hubraum hatte der Macan mit diesem Paket?">
+                                    <F id="1.1.5.3.3.1.1"><SEGMENT> dem damaligen 3,6-Liter-Sechszylinder </SEGMENT></F>
+                                </QUD>
+                                <QUD string="Welche Leistung hatte der Macan mit diesem Paket?">
+                                    <RES><SEGMENT>ebenfalls</SEGMENT></RES>
+                                    <F id="1.1.5.3.3.1.2"><SEGMENT> 324 kW/440 PS entlockte</SEGMENT></F>
+                                    <RES><SEGMENT> und </SEGMENT></RES>
+                                </QUD>
+                                <QUD string="Welche Höchstgeschwindigkeit hatte der Macan mit diesem Paket verglichen mit dem neuen Macan?">
+                                    <CON><SEGMENT> den (alten) Macan </SEGMENT></CON>
+                                    <RES> noch </SEGMENT></RES><!-- "damals beim alten Macan" + "nochmal 2 km/h mehr" -->
+                                    <F id="1.1.5.3.3.1.3"><SEGMENT> zwei km/h schneller werden ließ. </SEGMENT></F><!-- Vmax neuer Macan - Vmax alter Macan mit Perfromance-Paket -->
+                                </QUD>
+                                
+                                <QUD string="Wie wichtig ist das?">
+                                    <QUD string="Was ist klar in Bezug auf die Geschwindigkeit?">
+                                        <RES><SEGMENT>Dass </SEGMENT></RES>
+                                        <CON><SEGMENT> das </SEGMENT></CON>
+                                        <F><SEGMENT> außer beim Autoquartett keine Rolle spielt,</SEGMENT></F>
+                                        <CON><SEGMENT> ist klar.</SEGMENT></CO>
+                                    </QUD>
+                                </QUD>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+
+                    
+                </QUD>
+            </QUD>
+
+            <QUD string = "Was ist mit dem Verbesserungsbedarf?">
+
+                <QUD string = "Wie steht Porsche zu einem möglichen Performance-Upgrade für den neuen Turbo?">
+                    <CON><SEGMENT> Einem möglichen Performance-Upgrade für den neuaufgelegten Turbo </SEGMENT></CON>
+                    <F><SEGMENT> hat Porsche bereits eine Absage erteilt. </SEGMENT></F>
+    
+                    <QUD string = "Warum hat Porsche diese Entscheidung getroffen?">
+                        <F id = "1.3.1.1.1"><SEGMENT> Zu groß wäre der Aufwand, </SEGMENT></F>
+                        <F id="1.3.1.1.2"><SEGMENT> befindet sich der Macan</SEGMENT></F>
+                        <RES><SEGMENT> doch </SEGMENT></RES><!-- "weil" -->
+                        <F id="1.3.1.1.2"><SEGMENT>auf der Zielgeraden</SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id = "1.3.1.1.3"><SEGMENT> Generation II lauert fast schon in den Startlöchern. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+    
+                <QUD string = "Was sind die Gründe für einen Performance-Upgrade?">
+                    <RES><SEGMENT> Dass </SEGMENT></RES>
+                    <CON><SEGMENT>er</SEGMENT></CON>
+                    <RES><SEGMENT> bereits </SEGMENT></RES>
+                    <F id = "1.3.2.1"><SEGMENT> fast sechs Jahre auf dem Buckel hat, </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id = "1.3.2.2">
+                        <SEGMENT> die Basis - </SEGMENT>
+                        <NAI><SEGMENT> der Macan nutzt den Unterbau des Audi-Q5-Vorgängers! –  </SEGMENT></NAI>
+                        <SEGMENT> noch älter ist, </SEGMENT>
+                    </F>
+    
+                    <QUD string = "Wo ist das Alter des Macan bemerkbar?">
+                        <CON id = "1.3.2.1.1"><SEGMENT> merkt man </SEGMENT></CON>
+                        <F><SEGMENT> dem Zuffenhausener in manchen Bereichen </SEGMENT></F>
+                        <RES><SEGMENT> auch </SEGMENT></RES>
+                        <CON id = "1.3.2.1.1"><SEGMENT> an: </SEGMENT></CON>
+    
+                        <QUD string = "An welchen Bereichen merkt man das Alter des Macan?">
+                            <RES><SEGMENT> Vor allem </SEGMENT></RES>
+                            <CON><SEGMENT> der Blick auf </SEGMENT></CON>
+                            <F id = "1.3.2.1.1.1"><SEGMENT> das Kombiinstrument mit zwei klassischen Rundinstrumenten </SEGMENT></F>
+                            <RES><SEGMENT> und </SEGMENT></RES>
+                            <F id = "1.3.2.1.1.2"><SEGMENT> einem nach heutigen Maßstäben fast schon verschwindend kleinen Bordcomputer auf der rechten Seite,</SEGMENT></F>
+                        </QUD>
+    
+                        <QUD string = "Welchen Effekt hat der Blick auf den Bordcomputer?">
+                            <F id = "1.3.2.1.2.1"><SEGMENT> irritiert im ersten Moment, </SEGMENT></F>
+                            <RES><SEGMENT> und </SEGMENT></RES>
+                            <QUD string="Was ist irritierend am Bordcomputer?">
+                                <F id = "1.3.2.1.2.2">
+                                    <SEGMENT> macht einem bewusst, wie schnell wir uns an große, digitale Instrumente – </SEGMENT>
+                                    <NAI><SEGMENT> oder ein Head-up-Display – </SEGMENT></NAI>>
+                                    <SEGMENT> gewöhnt haben. </SEGMENT>
+                                </F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string="Wie ist das Infotainment?">
+            <RES><SEGMENT> Immerhin:</SEGMENT></RES>
+            <CON><SEGMENT> In Sachen Infotainment </SEGMENT></CON>
+            <F id="1.3.1"><SEGMENT>hatte Porsche beim Facelift nochmal kräftig aufgerüstet </SEGMENT></F>
+            <RES><SEGMENT>und </SEGMENT></RES>
+            <F id="1.3.1"><SEGMENT>extra die Lüftungsdüsen in der Mittelkonsole versetzt, </SEGMENT></F>
+            <QUD string = "Was sollte durch die Versetzung der Lüftungsdrüsen erreicht werden?">
+                <F><SEGMENT> um einen 11-Zoll-Touchscreen unterzubringen. </SEGMENT></F> <!-- "um zu" hier sehr schwer als RES zu trennen -->
+            </QUD>
+            <QUD string="Smartphone kabellos ins Infortainment integrieren?">
+                <QUD string="Was wurde ausgeschlossen?">
+                    <RES><SEGMENT>Und </SEGMENT></RES>
+                    <RES><SEGMENT>obwohl </SEGMENT></RES>
+                    <F id="1.3.1"><SEGMENT>bei der Modellpflege eine induktive Ladeschale fürs Handy </SEGMENT></F>
+                    <RES><SEGMENT>noch</SEGMENT></RES><!-- temporal -->
+                    <F id="1.3.1"><SEGMENT> ausgeschlossen wurde, </SEGMENT></F>
+                </QUD>
+
+                <QUD string="Was wurde trotzdem nachgelegt?">
+                    <CON id="1.3.1.1"><SEGMENT>hat Porsche in den vergangenen Monaten</SEGMENT></CON>
+                    <RES id="1.3.1.1.99"><SEGMENT> auch </SEGMENT></RES>
+                    <CON id="1.3.1.1"><SEGMENT> hier </SEGMENT></CON>
+                    <RES id="1.3.1.1.99"><SEGMENT> nochmal </SEGMENT></RES>
+                    <CON id="1.3.1.1"><SEGMENT> nachgelegt: </SEGMENT></CON>
+                    <F id="1.3.1.1.1"><SEGMENT>Versteckt unter der Mittelarmlehne tankt das Smartphone jetzt kabellos Strom </SEGMENT></F>
+                    <RES><SEGMENT>und</SEGMENT></RES>
+                    <F id="1.3.1.1.2">
+                        <NAI id="1.3.1.1.2.99"><SEGMENT> sogar </SEGMENT></NAI>
+                        <SEGMENT> Apple CarPlay ist </SEGMENT>
+                        <NAI id="1.3.1.1.2.99"><SEGMENT> inzwischen </SEGMENT></NAI>
+                        <SEGMENT> ohne Stecker nutzbar.</SEGMENT>
+                    </F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string="Wie ist das Fahrerlebnis/Fahrgefühl?">
+
+            <QUD string="Was hat sich nach dem Facelift verändert?">
+                <RES><SEGMENT> Nicht nur </SEGMENT></RES>
+                <F id="1.4.1.1.1.1"><SEGMENT>der neue Turbo-Motor ist topfit, </SEGMENT></F>
+                <RES><SEGMENT> auch </SEGMENT></RES>
+                <F id="1.4.1.1.1.2"><SEGMENT>fahrerisch gibt sich</SEGMENT></F>
+                <CON><SEGMENT> das Schwergewicht seit dem Facelift </SEGMENT></CON>
+                <F id="1.4.1.1.1.2"><SEGMENT>durchtrainierter denn je.</SEGMENT></F>
+                <QUD string="Wie zeigt sich, dass der Turbo durchtrainierter denn je ist?">
+                    <F><SEGMENT> Davon profitiert </SEGMENT></F>
+                    <RES><SEGMENT>auch </SEGMENT></RES>
+                    <CON><SEGMENT>der Turbo, </SEGMENT></CON>
+                    <QUD string="Wie zeigt sich, dass der Turbo durchtrainierter denn je ist beim Fahrgefühl?">
+                        <CON><SEGMENT>der</SEGMENT></CON>
+                        <F id="1.4.1.1.1.1.1.1">
+                            <SEGMENT> mit </SEGMENT>
+                            <NAI><SEGMENT>begeisternder</SEGMENT></NAI>
+                            <SEGMENT> Leichtigkeit </SEGMENT>
+                        </F>
+                        <RES><SEGMENT> und</SEGMENT></RES>
+                        <F id="1.4.1.1.1.1.1.2"><SEGMENT> Präzision durch die Kurve pfeilt </SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id="1.4.1.1.1.1.1.3"><SEGMENT>den Fahrer schnell vergessen lässt, wie viel Gewicht der Macan mit sich rumschleppt.</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Wie zeigt sich, dass der Turbo durchtrainierter denn je ist bei den Bremsen?">
+                        <RES><SEGMENT>Damit </SEGMENT></RES>
+                        <CON><SEGMENT>die Masse sicher wieder zum Stillstand kommt, verbaut Porsche beim Turbo </SEGMENT></CON>
+                        <F id="1.4.1.1.1.1.2.1"><SEGMENT>hinter den serienmäßigen 20-Zöllern </SEGMENT></F>
+                        <F id="1.4.1.1.1.1.2.2"><SEGMENT>immer die kräftig zupackenden </SEGMENT></F>
+                        <F id="1.4.1.1.1.1.2.3"><SEGMENT>mit Wolframcarbid beschichteten Bremsen (Porsche Surface Coated Brake);</SEGMENT></F>
+                        <QUD string="Welche Option gibt es bezüglich der Bremsen?">
+                            <CON id="1.5.3.2.1"><SEGMENT> optional </SEGMENT></CON>
+                            <F id="1.4.1.1.1.1.2.1"><SEGMENT>stehen </SEGMENT></F>
+                            <RES><SEGMENT>auch </SEGMENT></RES>
+                            <CON id="1.5.3.2.1"><SEGMENT> hier </SEGMENT></CON>
+                            <F id="1.4.1.1.1.1.2.1"><SEGMENT> die bekannten Keramik-Stopper </SEGMENT></F>
+                            <QUD string="Was ist der Preis der Keramikstopper?">
+                                <F><SEGMENT>für rund 5.000 Euro extra</SEGMENT></F>
+                            </QUD>
+                            <F id="1.4.1.1.1.1.2.1"><SEGMENT> zur Wahl. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+
+                </QUD>
+
+
+            <QUD string="Was lässt sich feinjustieren?">
+                <RES><SEGMENT>Wie gehabt,</SEGMENT></RES>
+                <F id="1.4.2.1"><SEGMENT> lassen sich die Feder-Dämpfer-Abstimmung </SEGMENT></F>
+                <RES><SEGMENT>und </SEGMENT></RES>
+                <F id="1.4.2.2"><SEGMENT>das Ansprechverhalten des </SEGMENT></F>
+                <!-- Feder-Dämpfer-Abstimmung könnte den Verbruch reduzieren, jedoch nicht mehr als folgende Untergrenze -->
+                <QUD string="Wie ist der Verbrauch auf 100km?">
+                    <F><SEGMENT>sich mindestens zehn Liter pro 100 Kilometer einverleibenden</SEGMENT></F>
+                </QUD>
+                <F id="1.4.2.2"><SEGMENT> Motors feinjustierten,</SEGMENT></F>
+                <!-- "deshalb" -->
+                <QUD string="Wie wirkt sich die Feder-Dämpfer-Abstimmung auf/in Fahrmodi aus?"><!-- A: positiv -->
+                    <QUD string="Welche Fahrmodi gibt es (noch)?">
+                        <F id="1.4.3"><SEGMENT> ("silent operator") im Sport-</SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id="1.4.3"><SEGMENT>erst recht (bissiger im) Sport-Plus-Modus </SEGMENT></F>
+                        <QUD string="Wie ist der Porsche im Sport und Sport-Plus-Modus?"><!-- positive Wertung -->
+                            <F id="1.4.3"><SEGMENT>wird </SEGMENT></F>
+                            <CON id="1.4.3"><SEGMENT>der Porsche</SEGMENT></CON>
+                            <F id="1.4.3"><SEGMENT> deutlich bissiger. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+            
+            <!-- Annahme: bissiger Sport-Modus? Ist bestimmt laut -->
+            <QUD string="Was ist mit dem Motor-Lärm?">
+                <QUD string="Wie laut ist das Auto?">
+                    <F id="1.4.4"><SEGMENT>Richtig laut </SEGMENT></F>
+                    <RES><SEGMENT>dagegen</SEGMENT></RES><!-- bezieht sich auf Sport- und Sport-Plus-Modus; vielleicht auch allgemein -->
+                    <F id="1.4.4"><SEGMENT> gibt </SEGMENT></F>
+                    <CON><SEGMENT>er</SEGMENT></CON>
+                    <F id="1.4.4"><SEGMENT>sich nur selten: </SEGMENT></F><!-- nach Doppelpunkt nicht Details zu Aussage vor Doppelpunkt -->
+                </QUD>
+                <QUD string="Unter welcher Bedingung ist der Macan am lautesten?"><!-- wenn man die Soundtaste drückt ist er laut, aber nicht zu laut -->
+                    <RES><SEGMENT>Selbst</SEGMENT></RES>
+                    <F><SEGMENT> wer die Soundtaste in der Mittelkonsole drückt</SEGMENT></F><!-- künstlicher Sound/Lärm -->
+                    <QUD string="Wie laut wird der Macan beim Drücken der Soundtaste?"><!-- A: nicht so laut, dass es stören würde -->
+                        <F>
+                            <SEGMENT> zieht sich nicht den Zorn der Nachbarn zu</SEGMENT>
+                            <SEGMENT> – zumindest nicht wegen Lärmbelästigung.</SEGMENT>
+                        </F>
+                    </QUD>
+                </QUD>
+            </QUD>
+            
+        </QUD>
+
+    </QUD>
+</ROOT>

@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
+
+<!-- Fahrbericht zum Ford Ranger Raptor -->
+
+<ROOT>
+    <QUD string="Was ist mit dem Ford Ranger Raptor?">    
+        <QUD string="Wie hat sich der Ford Ranger Raptor verändert?">
+            <!-- DT = Reifen -->
+            <QUD string="Welche Reifen hat der Ford Ranger Raptor?">
+                <F id = "1.1.1.1"><SEGMENT> Auf jeder Seite ist </SEGMENT></F>
+                <CON><SEGMENT> er </SEGMENT></CON>
+                <F id = "1.1.1.1"><SEGMENT> eine Handbreit gewachsen, </SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id="1.1"><SEGMENT>in die verbreiterten Radhäuser </SEGMENT></F>
+                <F id="1.1.1"><SEGMENT>passen exakt die dicken AT-Reifen vom Format 285/70 R17.</SEGMENT></F>
+                <QUD string="Wie sind die Reifen?">
+                    <CON><SEGMENT>  Sie </SEGMENT></CON>
+                    <F id = "1.1.1.1 (1)">
+                        <SEGMENT> sind, </SEGMENT>
+                        <NAI><SEGMENT> wie es sich für ein Geländefahrzeug gehört, </SEGMENT></NAI>
+                        <SEGMENT> grobstollig </SEGMENT>
+                    </F>
+                    <RES><SEGMENT>und </SEGMENT></RES>
+                    <F id="1.1.1.1 (2)"><SEGMENT>versprechen innige Verzahnung mit losem Untergrund.</SEGMENT></F>
+                </QUD>
+                <QUD string="Was hat BF Goodrich für die Reifen getan?">
+                    <CON><SEGMENT>BF Goodrich </SEGMENT></CON>
+                    <F><SEGMENT>hat die Größe eigens für den Raptor aufgelegt, </SEGMENT></F>
+                </QUD>
+                <QUD string="Wie ist die Bewertung der Reifen?">
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id = "1.1.1.1.1.1.1.1"><SEGMENT> uns sind </SEGMENT></F>
+                    <CON><SEGMENT> sie </SEGMENT></CON>
+                    <F id = "1.1.1.1.1.1.1.1"><SEGMENT> eine Verbeugung wert: </SEGMENT></F>
+                    <QUD string="Warum sind die Reifen eine Verbeugung wert?">
+                        <F>
+                            <SEGMENT id="1.2.1"> auf der Straße </SEGMENT>
+                            <NAI id="1.2.3"><SEGMENT> viel + comperative(-er) </SEGMENT></NAI><!-- split-not-at-issue -->
+                            <SEGMENT id="1.2.1"> ruhig(er) </SEGMENT>
+                            <NAI id="1.2.3"><SEGMENT> als gedacht </SEGMENT></NAI>
+                        </F>
+                        <RES><SEGMENT>und </SEGMENT></RES>
+                        <F>
+                            <NAI><SEGMENT>selbst </SEGMENT></NAI>
+                            <SEGMENT id="1.2.2"> im Sand tauglich.</SEGMENT>
+                        </F>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <!-- DT = Radaufhängung -->
+            <QUD string="Was kommt den Geländeeigenschaften zugute?">
+                <CON id="1.1.1.4"><SEGMENT>Den Geländeeigenschaften kommt </SEGMENT></CON>
+                <F><SEGMENT>die mit der Dimension der Pneus gewachsene Bodenfreiheit</SEGMENT></F>
+                <CON id="1.1.1.4"><SEGMENT> zugute, </SEGMENT></CON>
+                <QUD string="Was erlaubt die Bodenfreiheit?">
+                    <RES><SEGMENT> und </SEGMENT></RES><!-- kausales und -->
+                    <F><SEGMENT>der Raptor durchwatet damit Teiche bis 85 Zentimeter Tiefe.</SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <!-- DT = Fahrwerk und Unterboden -->
+            <QUD string="Was ist mit dem Fahrwerk?">
+                <QUD string="Was ist die Krönung?">
+                    <CON><SEGMENT>Die Krönung ist </SEGMENT></CON><!-- Theorie würde schlussfolgern, dass die Krönung Topic ist; Topic ist aber das Fahrwerk -->
+                    <F>
+                        <NAI><SEGMENT> freilich </SEGMENT></NAI><!-- Schnittmenge (10 Dinge, die geändert wurden und (2) gefallen und (3) bei dieser Art von Fahrzeug besonders entscheidend sind -->
+                        <SEGMENT>das überarbeitete Fahrwerk </SEGMENT>
+                    </F>
+                    <!-- DT = Leiterrahmen und Unterboden -->
+                    <QUD string="Was wurde überarbeitet?">
+                        <F id="1.1.2.1.1"><SEGMENT>mit verstärktem Leiterrahmen, </SEGMENT></F>
+                        <F id="1.1.2.1.2"><SEGMENT>(mit) Unterfahrschutz aus kräftigem Stahlblech </SEGMENT></F>
+                        <RES><SEGMENT>und </SEGMENT></RES>
+                        <!-- DT = Stoßdämpfer -->
+                        <F id = "1.1.2.1.3"><SEGMENT> Fox-Stoßdämpfern, </SEGMENT></F>
+                        <QUD string ="Was machen die Fox-Stoßdämpfer?">
+                            <CON><SEGMENT> die </SEGMENT></CON>
+                            <F>
+                                <SEGMENT> mit den Schraubenfedern </SEGMENT>
+                                <NAI><SEGMENT> prächtig </SEGMENT></NAI>
+                                <SEGMENT> harmonieren.</SEGMENT>
+                            </F>
+                        </QUD>
+                        <QUD string="Was ermöglicht das überarbeitete Fahrwerk?">
+                            <QUD string = "Was ist mit der Fahrt über Unebenheiten?">
+                                <CON><SEGMENT> Der Raptor </SEGMENT></CON>
+                                <F>
+                                    <SEGMENT> ist </SEGMENT>
+                                    <NAI><SEGMENT> selbst </SEGMENT></NAI>
+                                    <SEGMENT> mit brutalem Prügeln über die gröbsten Unebenheiten nicht zum Durchschlagen zu bewegen, </SEGMENT>
+                                </F>
+                            </QUD>
+
+                            <QUD string = "Was ist mit der Fahrt auf asphartierten Straßen?">
+                                <F id ="1.2.1.1.1.1.1.2.1"><SEGMENT> auf asphaltierter Straße bleibt </SEGMENT></F>
+                                <CON><SEGMENT> er </SEGMENT></CON>
+                                <F id ="1.2.1.1.1.1.1.2.1"><SEGMENT> ruhig </SEGMENT></F>
+                                <RES><SEGMENT> und </SEGMENT></RES>
+                                <F id ="1.2.1.1.1.1.1.2.2"><SEGMENT> komfortabel. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                    
+                    <QUD string="--Was ist mit der Fahrt über verschiedene Untergründe?--">
+                        <!-- DT = Hinter-/Allradantrieb -->
+                        <QUD string="Welche Antriebe stehen zur Verfügung?">
+                            <QUD string="Mit welchem Antrieb ist der Ranger auf asphaltierten Straßen unterwegs?">
+                                <RES><SEGMENT> Dort </SEGMENT></RES><!-- irreführend, weil Hinter-/Allrad auch auf nicht-asphaltierten Straßen verfügbar -->
+                                <CON id="1.1.2.3.1"><SEGMENT> ist der Ranger </SEGMENT></CON>
+                                <F id="1.1.2.3.1 (1)"><SEGMENT>mit Hinterradantrieb</SEGMENT></F>
+                                <CON id="1.1.2.3.1"><SEGMENT> unterwegs </SEGMENT></CON>
+                                <RES><SEGMENT>oder </SEGMENT></RES>
+                                <RES><SEGMENT>auch </SEGMENT></RES>
+                                <F id="1.1.2.3.1 (2)"><SEGMENT>mit permanentem Allrad.</SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                        <!-- DT = Fahrmodi -->
+                        <QUD string="Welche Fahrmodi gibt es?">
+                            <QUD string="Was gibt es für die Fahrt abseits der Straße?">
+                                <CON><SEGMENT>Für die Fahrt abseits der Straße gibt es </SEGMENT></CON>
+                                <F id="1.1.2.4.1"><SEGMENT>zusätzlich eine Achssperre hinten,</SEGMENT></F>
+                                <F id="1.1.2.4.2"><SEGMENT>eine Geländereduktion </SEGMENT></F>
+                                <RES><SEGMENT>und </SEGMENT></RES>
+                                <F id="1.1.2.4.3"><SEGMENT>vier Modi,</SEGMENT></F>
+                                <QUD string="Welche Straße-Programme/Modi ergänzen die vier 'abseits-der-Straße' Modi?">
+                                    <F id="1.1.2.4.1.2 (1)"><SEGMENT>welche die für die Straße wählbaren Programme Normal (ergänzen)</SEGMENT></F>
+                                    <RES><SEGMENT> und </SEGMENT></RES>
+                                    <F id="1.1.2.4.1.2 (2)"><SEGMENT>Sport ergänzen, </SEGMENT></F>
+                                </QUD>
+                                <QUD string="Welche Modi werden default angezeigt?"><!-- werden nicht alle angezeigt -->
+                                    <QUD string="Wie können die Modi angezeigt werden?">
+                                        <RES><SEGMENT>aber </SEGMENT></RES>
+                                        <F>
+                                            <NAI><SEGMENT>leider erst </SEGMENT></NAI>
+                                            <SEGMENT>auf Knopfdruck im Display angezeigt werden:</SEGMENT>
+                                        </F>
+                                    </QUD>
+                                </QUD>
+                                <QUD string="Welche vier Modi abseits der Straße gibt es?">
+                                    <F id="1.1.2.4.1.4.1"><SEGMENT> Gras/Schotter/Schnee, </SEGMENT></F>
+                                    <F id="1.1.2.4.1.4.2"><SEGMENT>Schlamm/Sand,</SEGMENT></F>
+                                    <F id="1.1.2.4.1.4.3"><SEGMENT> Fels</SEGMENT></F>
+                                    <RES><SEGMENT> und </SEGMENT></RES>
+                                    <F id="1.1.2.4.1.4.4"><SEGMENT>Baja.</SEGMENT></F>
+                                </QUD>
+                                <QUD string ="Was ist mit dem Modus Baja?">
+                                    <QUD string="Was tut der Modus Baja?">
+                                        <CON><SEGMENT>Letztgenannter </SEGMENT></CON>
+                                        <F><SEGMENT>setzt die Traktionskontrolle außer Kraft;</SEGMENT></F>
+                                    </QUD>
+                                    <QUD string="Worauf bezieht sich der Name?">
+                                        <CON><SEGMENT> der Name bezieht sich auf </SEGMENT></CON>
+                                        <F><SEGMENT> die Rally Baja 1000 in Mexiko,</SEGMENT></F>
+                                        <QUD string="Wofür ist die Rally Baja 1000 bekannt?">
+                                            <RES><SEGMENT> dort </SEGMENT></RES>
+                                            <F><SEGMENT>hetzen die Autos volles Rohr über die Dünen.</SEGMENT></F><!-- Wüste -->
+                                        </QUD>
+                                    </QUD>
+                                </QUD>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Getriebe -->
+        <QUD string="Was ist mit dem Getriebe?/Was zeichnet das Getriebe aus?">
+            <CON id = "1.3.1.1"><SEGMENT> Die Automatik </SEGMENT></CON>
+            <F id ="1.3.1.2"><SEGMENT> ist den Wühlarbeiten jederzeit gewachsen, </SEGMENT></F>
+            <RES><SEGMENT> und </SEGMENT></RES>
+            <CON id = "1.3.1.3"><SEGMENT> sie </SEGMENT></CON>
+            <F id = "1.3.1.4"><SEGMENT> überzeugt mit sanften Schaltvorgängen </SEGMENT></F>
+            <RES><SEGMENT> und </SEGMENT></RES>
+            <F id = "1.3.1.5"><SEGMENT> kurzen Reaktionszeiten. </SEGMENT></F>
+            
+            <QUD string="Was für ein Getriebe hat das Auto?">
+                <QUD string="Woher stammt/kommt das Getriebe?">
+                    <QUD string="Wieviele Gänge hat das Getriebe?">
+                        <F id="1.2.2"><SEGMENT>Das Zehnganggetriebe</SEGMENT></F>
+                    </QUD>
+                    <F id="1.2.2.1"><SEGMENT> kommt vom großen Bruder F 150,</SEGMENT></F>
+                </QUD>
+                <QUD string="Woraus besteht das Getriebe?">
+                    <CON><SEGMENT>es besteht laut Ford aus </SEGMENT></CON>
+                    <F><SEGMENT>hochfestem Stahl mit Verbundwerkstoffen</SEGMENT></F>
+                </QUD>
+                <QUD string="Wie schaltet das Getriebe?">
+                    <QUD string="Was ist die Standard-/Defaultschaltung des Getriebes?">
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F><SEGMENT>passt seine Schaltstrategie adaptiv an.</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Wie können die Gänge noch gewechselt werden?">
+                        <CON id="1.2.3"><SEGMENT>Wer will, kann</SEGMENT></CON>
+                        <RES><SEGMENT> auch </SEGMENT></RES>
+                        <F><SEGMENT>mit den Paddeln aus Magnesium </SEGMENT></F>
+                        <CON id="1.2.3"><SEGMENT>die Gänge wechseln.</SEGMENT></CON>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string="Was ist mit dem Innenraum?">
+            <QUD string="Wie wirkt der Raptor im Innenraum?">
+                <RES><SEGMENT>Überhaupt </SEGMENT></RES>
+                <CON><SEGMENT>wirkt der Raptor im Innenraum</SEGMENT></CON>
+                <F><SEGMENT> wie ein SUV,</SEGMENT></F>
+                <QUD string="Warum wirkt er wie ein SUV?">
+                    <F id="1.3.1.1.1"><SEGMENT>er hat gefällige Instrumente,</SEGMENT></F>
+                    <F id="1.3.1.1.2"><SEGMENT>eine Heerschar von Assistenten</SEGMENT></F>
+                    <RES><SEGMENT>und</SEGMENT></RES>
+                    <F id="1.3.1.1.3"><SEGMENT> ein Connect-System, </SEGMENT></F>
+                    <QUD string = "Was macht/bietet/kann das Connect-System?">
+                        <CON><SEGMENT> das </SEGMENT></CON>
+                        <RES><SEGMENT> unter anderem </SEGMENT></RES>
+                        <F><SEGMENT> die Fahrzeugortung erlaubt. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+            <QUD string="Wie ist der Platz?">
+                <QUD string="Wieviel Platz hat man auf den Vordersitzen? / Wie sitzt man vorne?">
+                    <CON><SEGMENT>Vorn </SEGMENT></CON>
+                    <F><SEGMENT>sitzen die Passagiere ausgezeichnet,</SEGMENT></F>
+                </QUD>
+                <QUD string="Wieviel Platz hat man auf den Rücksitzen? / Wie sitzt man hinten?">
+                    <RES><SEGMENT> aber </SEGMENT></RES>
+                    <CON><SEGMENT>wer auf der Rücksitzbank Platz nehmen muss,</SEGMENT></CON>
+                    <F>
+                        <NAI id="1"><SEGMENT> ärgert sich über </SEGMENT></NAI>
+                        <NAI id="2"><SEGMENT> den klassenüblich </SEGMENT></NAI>
+                        <SEGMENT> knappen Beinraum </SEGMENT>
+                        <NAI id="2"><SEGMENT> der Doppelkabiner </SEGMENT></NAI>
+                    </F>
+                    <QUD string="Warum ist der Platz hinten knapp?">
+                        <RES><SEGMENT>– sonst</SEGMENT></RES>
+                        <F><SEGMENT> bliebe für die Ladefläche noch weniger übrig als 156 × 157 Zentimeter.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+        <!-- DT = Kritikpunkt Motor -->
+        <QUD string="Was ist mit dem Motor?">
+            <QUD string="Was erwartet man von dem Auto?">
+                <QUD string="Wozu motiviert das Auto?">
+                    <CON>
+                        <SEGMENT>Von einem solchen Auto,</SEGMENT>
+                        <SEGMENT>das</SEGMENT>
+                    </CON>
+                    <F id="1.4.1.1"><SEGMENT>den Spieltrieb herausfordert,</SEGMENT></F>
+                </QUD>
+                <F id="1.4.1">
+                    <SEGMENT>möchte man einen dem Aussehen angemessenen</SEGMENT>
+                    <NAI><SEGMENT> herzhaften </SEGMENT></NAI>
+                    <SEGMENT> Biss erwarten.</SEGMENT>
+                </F>
+                <QUD string="Was fehlt dem Motor?">
+                    <F><SEGMENT> Das ist der eingangs genannte kleine Makel – </SEGMENT></F>
+                    <QUD string = "Warum ist das ein kleiner Makel?">
+                        <CON id = "1.5.2.1.1.1.1"><SEGMENT> klein </SEGMENT></CON>
+                        <RES><SEGMENT> deswegen, </SEGMENT></RES>
+                        <RES><SEGMENT> weil </SEGMENT></RES>
+                        <CON id = "1.5.2.1.1.1.2"><SEGMENT> dem Motor </SEGMENT></CON>
+                        <F><SEGMENT> die Größe fehlt. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+            <QUD string="Was ist mit der Leistung des Motors?">
+                <QUD string="Was macht Ford in Bezug auf den Motor?">
+                    <F id="1.4.2.2"><SEGMENT>Ford hat ins Regal gegriffen</SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="1.4.2.2 (1.0)"><SEGMENT>(aus)stattet den Raptor</SEGMENT></F>
+
+                    <QUD string="Mit was ausstatten?">
+                        <RES><SEGMENT> ausschließlich </SEGMENT></RES><!-- ambiguous "nur Diesel" oder "nur 2L Hubraum" -->
+                        <F id="1.4.2.2 (1.1)">
+                            <SEGMENT id="2">mit einem Diesel(motor) </SEGMENT>
+                        </F>
+                        <F id="1.4.2.2 (1.2)">
+                            <SEGMENT id="3">von zwei Liter Hubraum</SEGMENT>
+                        </F>
+                    </QUD>
+                    
+                    <F id="1.4.2.2 (1.0)"><SEGMENT>aus,</SEGMENT></F>
+
+                    <QUD string="Was gibt's zu diesem Dieselmotor noch zu sagen?">
+                        <CON><SEGMENT> der </SEGMENT></CON>
+                        <F id="1.4.2.2 (2)"><SEGMENT>über zwei Turbolader beatmet wird</SEGMENT></F><!-- Fakt wie Dieselmotor und Hubraum -->
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <RES><SEGMENT> auch </SEGMENT></RES>
+                        <F id="1.4.2.2 (3)"><SEGMENT>den (Ford) Edge antreibt.</SEGMENT></F><!-- Randkommentar (NAI): selbe Dieselmotor wie im Ford Edge (ein SUV) -->
+                    </QUD>
+                </QUD>
+
+                <QUD string="Wie ist der Geräuschpegel des Motors und die Laufruhe?">
+                    <F id="1.4.2.3 (1)"><SEGMENT>Mit freundlichem Knurren </SEGMENT></F>
+                    <RES><SEGMENT>und</SEGMENT></RES>
+                    <F id="1.4.2.3 (2)"><SEGMENT> laufruhig verrichtet er seine Arbeit,</SEGMENT></F>
+                </QUD>
+
+                <QUD string="Wieviel PS?">
+                    <QUD string="Wo sind die Grenzen dieses Motors?">
+                        <F><SEGMENT>Bäume ausreißen</SEGMENT></F>
+                        <CON>
+                            <SEGMENT> kann er </SEGMENT>
+                            <NAI><SEGMENT>freilich</SEGMENT></NAI>
+                            <SEGMENT> nicht.</SEGMENT>
+                        </CON>
+                    </QUD>
+                    <QUD string="Warum kann man damit keine Bäume ausreißen?">
+                        <CON><SEGMENT>Im Raptor ist die Leistung</SEGMENT></CON>
+                        <F><SEGMENT> auf 213 PS (156 kW) beschränkt,</SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+                <QUD string="Wie ist das Drehmoment?">
+                    <RES><SEGMENT>und</SEGMENT></RES>
+                    <RES><SEGMENT> wenngleich </SEGMENT></RES>
+                    <F>
+                        <SEGMENT>Ford </SEGMENT>
+                        <NAI><SEGMENT>stolz</SEGMENT></NAI>
+                        <SEGMENT> darauf hinweist, dass er 500 Nm Drehmoment abliefert </SEGMENT>
+                    </F>
+                </QUD>
+                <!-- DT = Fazit: Reales Problem -->
+                <QUD string="Womit wird der Motor Probleme haben?">
+                    <F id = "1.5.2.1.1.1.1.1.1.1.1.1.1.1.1.1"><SEGMENT> mit Ladung </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id = "1.5.2.1.1.1.1.1.1.1.1.1.1.1.1.2"><SEGMENT> Anhänger </SEGMENT></F>
+                    <F><SEGMENT>– an der Autobahnsteigung </SEGMENT></F>
+                    <CON><SEGMENT>wird ihm die Luft ausgehen.</SEGMENT></CON>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Konkurrenz -->
+        <QUD string="Was ist mit der Konkurrenz?">
+            <QUD string="Was braucht der Raptor?">
+                <CON><SEGMENT>Der Raptor braucht </SEGMENT></CON>
+                <F id="1.5.1 (1)"><SEGMENT>die Hälfte mehr Zylinder </SEGMENT></F>
+                <RES><SEGMENT>und </SEGMENT></RES>
+                <F id="1.5.1 (2)"><SEGMENT>Hubraum,</SEGMENT></F>
+                <QUD string="Warum braucht der Raptor das?">
+                    <QUD string="Welche Motoren hat die Konkurrenz?">
+                        <RES><SEGMENT> denn </SEGMENT></RES>
+                        <CON id="1"><SEGMENT>die Konkurrenz von Volkswagen</SEGMENT></CON>
+                        <RES><SEGMENT>und</SEGMENT></RES>
+                        <CON id="1"><SEGMENT>(die Konkurrenz von) Mercedes</SEGMENT></CON>
+                        <F>
+                            <SEGMENT> kommt mit </SEGMENT>
+                            <NAI><SEGMENT>wuchtigen </SEGMENT></NAI>
+                            <SEGMENT>Sechszylindern daher,</SEGMENT>
+                        </F>
+                    </QUD>
+                    <QUD string="Wie ist die Höchstgeschwindigkeit des Raptors und der Konkurrenz?">
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id="1.5.1.1.1"><SEGMENT>beide (Volkswagen und Mercedes) laufen mit rund 200 km/h</SEGMENT></F>
+                        <F id="1.5.1.1.2">
+                            <NAI><SEGMENT> deutlich </SEGMENT></NAI>
+                            <SEGMENT>schneller als die 170, die Ford dem Raptor zugesteht</SEGMENT>
+                        </F>
+                        <QUD string="Wann braucht der Raptor das?"><!-- A: wenn er als Spaßmobil angeboten wird -->
+                            <QUD string="Was braucht der Raptor?"><!-- A: hohe Höchstgeschwindigkeit ist nicht wichtig -->
+                                <F id="1.5.1.2.1"><SEGMENT> – nicht,</SEGMENT></F>
+                                <RES><SEGMENT> dass</SEGMENT></RES>
+                                <CON id="1.5.1.2.2"><SEGMENT> man </SEGMENT></CON>
+                                <F id="1.5.1.2.1"><SEGMENT>das</SEGMENT></F>
+                                <CON id="1.5.1.2.2"><SEGMENT> brauchte,</SEGMENT></CON>
+                            </QUD>
+
+                            <RES><SEGMENT> aber </SEGMENT></RES><!-- Kontrast -->
+
+                            <RES id="1.1"><SEGMENT>wenn </SEGMENT></RES><!-- wann braucht der Raptor das? -->
+                            <CON><SEGMENT>das Auto</SEGMENT></CON>
+                            <RES id="1.1"><SEGMENT> schon </SEGMENT></RES>
+                            <F id="1.2"><SEGMENT>als Spaßmobil angeboten wird, </SEGMENT></F>
+
+                            <RES id="1.1"><SEGMENT>(dann) </SEGMENT></RES>
+                            <F id="1.3"><SEGMENT> fehlt gegenüber den anderen etwas.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+
+                <QUD string="Was ist im direkten Vergleich bemerkbar?">
+                    <CON><SEGMENT>Im direkten Vergleich </SEGMENT></CON>
+                    <F>
+                        <SEGMENT>ist der Winzmotor des Ford</SEGMENT>
+                        <NAI id="2.1"><SEGMENT> noch </SEGMENT></NAI>
+                        <SEGMENT>nicht</SEGMENT>
+                        <NAI id="2.1"><SEGMENT> einmal </SEGMENT></NAI>
+                        <SEGMENT>zum Dieselsparen gut.</SEGMENT>
+                    </F>
+                </QUD>
+
+            </QUD>
+        </QUD>
+
+        <!-- DT = Fazit: Hauptkritikpunkte -->
+        <QUD string="Verbesserungsvorschläge/Wünsche des Autors?">
+            <QUD string="Verbesserung des Motor/größerer Motor?">
+                <QUD string="Warum braucht man kein Prohpet zu sein?">
+                    <CON id="1"><SEGMENT>Man braucht kein Prophet zu sein,</SEGMENT></CON>
+                    <RES><SEGMENT>um</SEGMENT></RES>
+                    <CON id="1"><SEGMENT>vorherzusagen,</SEGMENT></CON>
+                    <RES><SEGMENT>dass</SEGMENT></RES>
+                    <F>
+                        <NAI><SEGMENT> über kurz oder lang </SEGMENT></NAI>
+                        <SEGMENT>ein größerer (Motor) kommen wird.</SEGMENT>
+                    </F>
+                </QUD>
+            </QUD>
+            <QUD string="Verbesserung der Anhängelast?">
+                <QUD string="Um was darf man bei der Gelegenheit bitten?">
+                    <CON id="2"><SEGMENT> Bei der Gelegenheit dürfen wir </SEGMENT></CON>
+                    <NAI><SEGMENT> auch noch </SEGMENT></NAI>
+                    <RES><SEGMENT> um </SEGMENT></RES> <!-- um zu -->
+                    <F><SEGMENT> etwas mehr Anhängelast </SEGMENT></F>
+                    <CON id="2"><SEGMENT> bitten, </SEGMENT></CON>
+    
+                    <QUD string="Wie ist die Anhängelast der Konkurrenz im Vergleich zum Raptor?">
+                        <QUD string = "Was für Anhängelast hat die Konkurrenz?">
+                            <F id="1.6.2.1 (1)">
+                                <SEGMENT>die Konkurrenz hat </SEGMENT>
+                                <NAI><SEGMENT> auch </SEGMENT></NAI><!-- Konkurrenz hat 3,5 t, aber der Ford nicht: nicht das Standard "auch" denn dann müsste der Ford auch 3,5 Tonnen haben -->
+                                <SEGMENT>3,5 Tonnen</SEGMENT>
+                            </F>
+                        </QUD>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <QUD string = "Was für Anhängelast hat der Ford Raptor?">
+                            <F id="1.6.2.1 (2)">
+                                <SEGMENT>nicht</SEGMENT>
+                                <NAI><SEGMENT> nur </SEGMENT></NAI>
+                                <SEGMENT> jene 2,5 (Tonnen), </SEGMENT>
+                            </F>
+                            <CON><SEGMENT> die Ford seinem Raptor zutraut.</SEGMENT></CON>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+            <QUD string="Verbesserung beim Preis?">
+                <F id="1.6.2.2 (1)"><SEGMENT>In einer Hinsicht dürfte es etwas weniger sein:</SEGMENT></F><!-- mehr Motor, mehr Anhängelast -->
+                <QUD string="Wie ist der Basispreis?">
+                    <CON><SEGMENT> Der Basispreis </SEGMENT></CON>
+                    <QUD string="Was ist der Basispreis?">
+                        <F id="1.6.2.2.1 (1)"><SEGMENT>von fast 67.000 Euro</SEGMENT></F>
+                    </QUD>
+                    <F id="1.6.2.2.1.w"><SEGMENT>ist,</SEGMENT></F>
+                    <NAI><SEGMENT> mit Blick auf jene Sechszylinder, </SEGMENT></NAI><!-- Konkurrenz, die für den Preis Sechzylinder bietet -->
+                    <F id="1.6.2.2.1.w"><SEGMENT> reichlich selbstbewusst.</SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+    </QUD>
+</ROOT>

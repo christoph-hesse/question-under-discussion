@@ -1,0 +1,585 @@
+<?xml version="1.0"?>
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
+
+<ROOT>
+    <QUD string="Was ist mit dem Audi A1 Sportback?">
+        <!-- DT = technische Details -->
+        <QUD string="Welche technischen Details und Veränderungen am Audi A1 Sportback stechen hervor?">
+            <QUD string = "Was ist aus Audis Polo-Ableger A1 geworden?">
+                <F id="1.1.1"><SEGMENT> Aus Audis </SEGMENT></F>
+
+                <QUD string="Wie wirkte der alte A1/A1 der ersten Generation?">
+                    <F id="1.1.2"><SEGMENT> unscheinbar-knuffigen </SEGMENT></F>
+                </QUD>
+
+                <QUD string="Mit welchem Konkurrenten ist der A1 vergleichbar?">
+                    <F id="1.1.3"><SEGMENT> Polo-Ableger A1 </SEGMENT></F>
+                </QUD>
+
+                <F id="1.1.1"><SEGMENT> ist </SEGMENT></F>
+
+                <QUD strig = "Die wievielte Generation des A1 ist das?">
+                    <QUD strig = "Wie viel ist die neue Generation gewachsen?">
+                        <F><SEGMENT> mit der leicht auf knapp über vier Meter gewachsenen </SEGMENT></F>
+                    </QUD>
+                    <F><SEGMENT>Generation zwei </SEGMENT></F>
+                </QUD>
+                
+                <QUD string="Wie wirkt der neue A1/A1 der zweiten Generation?">
+                    <F id="1.1.2"><SEGMENT> ein durchgestylter Aufreißer mit Platz-da-Attitüde</SEGMENT></F>
+                </QUD>
+                
+                <F id="1.1.1"><SEGMENT> geworden. </SEGMENT></F>
+            </QUD>
+
+            <!-- DT = Preis -->
+            <QUD string = "Was ist mit dem Preis?">
+
+                <QUD string = "Wie hat sich das Image-Plus auf den Preis ausgewirkt?">
+                    <CON id = "1.1.2.1.1"><SEGMENT> Das Image-Plus schlägt sich </SEGMENT></CON>
+                    <RES><SEGMENT> auch </SEGMENT></RES>
+                    <CON id = "1.1.2.1.1"><SEGMENT> im Preis nieder: </SEGMENT></CON>
+
+                    <QUD string = "Wie viele Türen hat das Auto?">
+                        <F><SEGMENT> Für den ab sofort </SEGMENT></F>
+                        <RES><SEGMENT> immer </SEGMENT></RES>
+                        <F><SEGMENT> viertürigen Kleinwagen, </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Ab wann ist das Auto verfügbar?">
+                        <CON><SEGMENT> der </SEGMENT></CON>
+                        <RES><SEGMENT> bereits </SEGMENT></RES>
+                        <F id = "1.1.2.1.2.1"><SEGMENT> bestellbar ist </SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <RES><SEGMENT> noch </SEGMENT></RES>
+                        <F id = "1.1.2.1.2.2"><SEGMENT> Ende des Jahres zum Händler rollt, </SEGMENT></F>
+                    </QUD>
+
+                    <F id = "1.1.2.1.3.1"><SEGMENT> verlangt </SEGMENT></F>
+                    <CON><SEGMENT> Audi </SEGMENT></CON>
+                    <RES><SEGMENT> zunächst </SEGMENT></RES>
+                    <F id = "1.1.2.1.3.1"><SEGMENT> mindestens 21.150 Euro – </SEGMENT></F>
+
+                    <QUD string = "Wie ist der Preis im Vergleich zum VW Polo?">
+                        <F><SEGMENT> 2.100 Euro mehr </SEGMENT></F>
+                        <CON><SEGMENT> als für einen vergleichbaren VW Polo fällig werden. </SEGMENT></CON>
+                    </QUD>
+
+                </QUD>
+            </QUD>
+
+            <!-- DT = Design -->
+            <QUD string="Was ist mit dem Design?">
+                <QUD string="Wie ist das Design beim VW Polo?">
+                    <QUD string="Was tut Volkswagen?">
+                        <CON><SEGMENT> Der Wolfsburger </SEGMENT></CON>
+                        <F id="1.3.1"><SEGMENT> stellt </SEGMENT></F>
+                        <RES><SEGMENT> immer noch </SEGMENT></RES>
+                        <F id="1.3.1"><SEGMENT> die technische Basis bereit, </SEGMENT></F>
+                    </QUD>
+                    <QUD string="Wie wurde das Design der jüngsten VW-Polo-Generation verändert?">
+                        <RES><SEGMENT> doch </SEGMENT></RES>
+                        <RES><SEGMENT> während</SEGMENT></RES>
+                        <CON><SEGMENT> die jüngste VW-Polo-Generation </SEGMENT></CON>
+                        <RES><SEGMENT> nur </SEGMENT></RES>
+                        <F><SEGMENT> leicht aufgehübscht wurde,</SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string="Wie ist das Design beim Audi A1?">
+                    <QUD string = "Was hat der Ingoldstädter Chef-Designer getan?">
+                        <F id = "1.1.3.3.1"><SEGMENT> hat sich </SEGMENT></F>
+                        <CON><SEGMENT> der Ingolstädter Chef-Designer Marc Lichte </SEGMENT></CON>
+                        <F id = "1.1.3.3.1"><SEGMENT> ausgetobt. </SEGMENT></F>
+    
+                        <QUD string = "Was sind die neuen Änderungen am Auto bezüglich des Aussehens/Designs?">
+                            <F id = "1.1.3.3.1.1"><SEGMENT> Böser Blick, </SEGMENT></F>
+                            <F id = "1.1.3.3.1.2"><SEGMENT> scharfe Kanten, </SEGMENT></F>
+                            <F id = "1.1.3.3.1.3"><SEGMENT> knallige Farben </SEGMENT></F>
+                            <RES><SEGMENT> und </SEGMENT></RES>
+                            <F id = "1.1.3.3.1.4"><SEGMENT> eine Frontschürze, </SEGMENT></F>
+                            <QUD string = "Was zeichnet die Frontschütze aus?">
+                                <CON><SEGMENT> die </SEGMENT></CON>
+                                <F id="1.3.3.1.1.1.1"><SEGMENT> eines Sportmodells würdig wäre, </SEGMENT></F>
+                                <F id="1.3.3.1.1.1.2"><SEGMENT>gepaart mit Anleihen aus der Geschichte. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+    
+                        <QUD string="Woran erinnern die C-Säule und die Lüftungsschlitze?"> 
+                            <QUD string="Wie ist die C-Säule?">
+                                <F id="1.3.3.1.1.2.1"><SEGMENT> Die breite,</SEGMENT></F>
+                                <F id="1.3.3.1.1.2.2"><SEGMENT> schräg stehende </SEGMENT></F>
+                                <CON><SEGMENT>C-Säule </SEGMENT></CON>
+                            </QUD>
+                            <QUD string="Was ist mit den Lüftungsschlitzen?">
+                                <RES><SEGMENT>und </SEGMENT></RES>
+                                <CON><SEGMENT>die Lüftungsschlitze </SEGMENT></CON>
+                                <F><SEGMENT>zwischen Kühler und Motorhaube </SEGMENT></F>
+                            </QUD>
+                            <F id="1.3.3.1.1.2.1">
+                                <SEGMENT>erinnern an die legendären Modelle Ur- </SEGMENT>
+                            </F>
+                            <RES><SEGMENT>und</SEGMENT></RES>
+                            <F id="1.3.3.1.1.2.2"><SEGMENT> Sport quattro. </SEGMENT></F>
+                        </QUD>
+                        <QUD string="Was ist anders als bei der Ur- und Sport quattro?">
+                            <QUD string="Was ist geschenkt?"> <!-- Rhetorische Frage ,"offensichtlich" -->
+                                <RES><SEGMENT>Dass </SEGMENT></RES>
+                                <F id="1.3.3.1.1.3"><SEGMENT>die Lufteinlässe</SEGMENT></F>
+                                <RES><SEGMENT> nur </SEGMENT></RES>
+                                <F id="1.3.3.1.1.3"><SEGMENT>Fake sind?</SEGMENT></F>
+                                <CON><SEGMENT>Geschenkt.</SEGMENT></CON>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+
+            </QUD>
+
+            <QUD string="Was ist mit dem Cockpit?">
+                <F id="1.4.1"><SEGMENT>Kaum Bezug zur Vergangenheit gibt’s</SEGMENT></F>
+                <F id="1.4.2"><SEGMENT> im sportlich eingerichteten </SEGMENT></F>
+                <CON><SEGMENT>Cockpit: </SEGMENT></CON>
+                <QUD string="In wie fern hat das Cockpit kaum Bezug zur Vergangenheit und ist sprotlich eingerichtet?">
+                    <QUD string="Was gibt es nicht im Cockpit?">
+                        <F><SEGMENT>Analoge Instrumente </SEGMENT></F>
+                        <CON><SEGMENT>haben ausgedient, </SEGMENT></CON>
+                    </QUD>
+                    <QUD string="Was gibt es im Cockpit?">
+                        <RES><SEGMENT>stattdessen</SEGMENT></RES>
+                        <F id = "1.1.4.1.2.1"><SEGMENT> informiert immer </SEGMENT></F>
+                        <F id = "1.1.4.1.2.1.1"><SEGMENT> ein 10,25-Zoll-Display </SEGMENT></F>
+                        <F id = "1.1.4.1.2.1"><SEGMENT> über Tempo,  </SEGMENT></F>
+                        <F id = "1.1.4.1.2.2" ><SEGMENT> (informiert immer ein 10,25-Zoll-Display über) Drehzahl </SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id = "1.1.4.1.2.3"><SEGMENT> (informiert immer ein 10,25-Zoll-Display über) mehr. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string="Vor- und Nachteile der Ausstattung?">
+                
+                <QUD string="Nachteile/Knausigkeiten?">
+                    <QUD string="Was ist mit dem Infortainment-System?">
+                        <QUD string="Was ist mit dem Infotainment-Touchscreen?">
+                            <RES><SEGMENT>Schade, dass </SEGMENT></RES>
+                            <CON><SEGMENT>es einen Infotainment-Touchscreen</SEGMENT></CON>
+                            <RES><SEGMENT> nur </SEGMENT></RES>
+                            <F><SEGMENT>gegen Aufpreis gibt: </SEGMENT></F>
+                            <QUD string="Was ist üblich?">
+                                <RES><SEGMENT>Dass </SEGMENT></RES>
+                                <F id="1.4.3.1.1"><SEGMENT>man </SEGMENT></F>
+                                <F id="1.4.3.1.2"><SEGMENT>für das an die Oberklasse angelehnte High-End-System</SEGMENT></F>
+                                <F id="1.4.3.1.1"><SEGMENT> zur Kasse gebeten wird,</SEGMENT></F>
+                                <CON><SEGMENT> ist üblich. </SEGMENT></CON>
+                            </QUD>
+                            
+                        </QUD>
+                        <QUD string="Was gibt es in der Basis-Version?">
+                            <CON><SEGMENT>In der Basis-Version </SEGMENT></CON>
+                            <F id="1.4.4.1"><SEGMENT>sitzt in der Mittelkonsole </SEGMENT></F>
+                            <RES><SEGMENT>allerdings </SEGMENT></RES>
+                            <RES><SEGMENT>auch </SEGMENT></RES>
+                            <F id="1.4.4.1"><SEGMENT>keine Günstig-Version, </SEGMENT></F>
+                            <RES><SEGMENT>sondern </SEGMENT></RES>
+                            <RES><SEGMENT>nur </SEGMENT></RES>
+                            <F id="1.4.4.2">
+                                <SEGMENT>ein</SEGMENT>
+                                <NAI><SEGMENT>schnödes </SEGMENT></NAI>
+                                <SEGMENT>Ablagefach!</SEGMENT>
+                            </F>
+                            <QUD string="Was ist mit dem Radio?">
+                                <CON><SEGMENT>Das </SEGMENT></CON>
+                                <RES><SEGMENT> dagegen </SEGMENT></RES>
+                                <F id="1.4.4.1.1"><SEGMENT> serienmäßige </SEGMENT></F>
+                                <CON><SEGMENT>Radio </SEGMENT></CON>
+                                <F id="1.4.4.1.2"><SEGMENT>kann</SEGMENT></F>
+                                <RES><SEGMENT> dann </SEGMENT></RES>
+                                <RES><SEGMENT>nur </SEGMENT></RES>
+                                <F id="1.4.4.1.2"><SEGMENT>vom Fahrer </SEGMENT></F>
+                                <F id="1.4.4.1.2"><SEGMENT>über das Kombi-Instrument bedient werden. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+    
+                    <QUD string = "Was ist mit den Scheinwerfern?">
+                        <CON><SEGMENT> Das ist </SEGMENT></CON>
+                        <F id = "1.1.5.1.1.1">
+                            <SEGMENT> neben den serienmäßigen Halogenscheinwerfern </SEGMENT>
+                            <!-- NAI -->
+                            <QUD string="Was ist der Preis für LED Scheinwerfer?">
+                                <CON><SEGMENT>(LED</SEGMENT></CON>
+                                <F><SEGMENT> kostet knapp 1.000 Euro)</SEGMENT></F>
+                            </QUD>
+                            <!-- -->
+                        </F>
+                        <F id = "1.1.5.1.1.2"><SEGMENT> die zweite Knausrigkeit, </SEGMENT></F>
+
+                        <QUD string = "Was hätten die Ingoldstädter mit diesen zwei Knausrikeiten machen können?">
+                            <CON id = "1.1.5.1.1.1.1"><SEGMENT> die </SEGMENT></CON>
+                            <F id = "1.1.5.1.1.1.2"><SEGMENT> sich </SEGMENT></F>
+                            <CON id = "1.1.5.1.1.1.3"><SEGMENT> die Ingolstädter </SEGMENT></CON>
+                            <F id = "1.1.5.1.1.1.2">
+                                <NAI><SEGMENT> im Jahr 2018 </SEGMENT></NAI><!-- "heutzutage" -->
+                                <SEGMENT> hätten verkneifen können; </SEGMENT><!-- "im Jahr 2018" + "verkneifen" = Idiom: "nicht mehr zeitgemäß" -->
+                            </F>
+                        </QUD>
+                    </QUD>
+    
+                    <QUD string="Was ist mit den Materialien (und ihrer Verarbeitung)?">
+                        <RES><SEGMENT>  schließlich </SEGMENT></RES>
+                        <F><SEGMENT> sparen sie </SEGMENT></F>
+                        <RES><SEGMENT> schon </SEGMENT></RES>
+                        <CON><SEGMENT> an den Materialien. </SEGMENT></CON>
+                        
+                        <QUD string="Wie ist bei den Materialien gespart worden?">
+                            <CON><SEGMENT> die </SEGMENT></CON>
+                            <F id = "1.1.5.1.2.1"><SEGMENT> sind  </SEGMENT></F>
+                            <RES><SEGMENT> zwar </SEGMENT></RES>
+                            <F id = " 1.1.5.1.2.1"><SEGMENT> perfekt verarbeitet, </SEGMENT></F>
+                            <F id = "1.1.5.1.2.2"><SEGMENT> fühlen sich </SEGMENT></F>
+                            <RES><SEGMENT> aber </SEGMENT></RES>
+                            <F id = "1.1.5.1.2.2"><SEGMENT> nicht so hochwertig an wie sonst üblich </SEGMENT></F>
+                            <RES><SEGMENT> und </SEGMENT></RES>
+                            <F id = "1.1.5.1.2.3"><SEGMENT> holen einen schnell in die plastikharte Kleinwagen-Realität zurück. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                
+                </QUD>
+
+                <QUD string="Vorteile?">
+                    <QUD string="Wie ist der Platz?">
+                        <F id="1.6"><SEGMENT> Nichts zu meckern gibt’s </SEGMENT></F><!-- "gut"/positiv -->
+                        <RES><SEGMENT> dagegen </SEGMENT></RES>
+                        <CON><SEGMENT> am Platzangebot, </SEGMENT></CON>
+                        <RES><SEGMENT> zumindest </SEGMENT></RES>
+                        <F id="1.6"><SEGMENT>in Reihe eins.</SEGMENT></F><!-- auf den vorderen Sitzplätzen -->
+                        <QUD string="Wie ist der Sitzplatz vorne?">
+                            <CON><SEGMENT> Hier </SEGMENT></CON>
+                            <F id="1.6.1"><SEGMENT>sitzen</SEGMENT></F>
+                            <RES><SEGMENT> selbst </SEGMENT></RES>
+                            <F id="1.6.1"><SEGMENT>übergroße Fahrer tadellos, </SEGMENT></F>
+                        </QUD>
+                        <QUD string="Wie ist der Sitzplatz hinten?">
+                            <F id="1.6.2.1"><SEGMENT>auf der dreisitzigen Rückbank </SEGMENT></F>
+                            <F id="1.6.2.2"><SEGMENT>geht’s</SEGMENT></F>
+                            <RES><SEGMENT> dagegen </SEGMENT></RES>
+                            <F id="1.6.2.2"><SEGMENT>eng wie ehe und je zu.</SEGMENT></F>
+                        </QUD>
+                        <QUD string="Was ist mit dem Gepäckraum?">
+                            <F><SEGMENT> Ein bisschen gewachsen ist </SEGMENT></F>
+                            <CON><SEGMENT>der Gepäckraum,</SEGMENT></CON>
+                            <QUD string="Wie groß ist der Gepäckraum?">
+                                <F id="1.6.3.1.1"><SEGMENT> 65 Liter gehen jetzt mehr rein,</SEGMENT></F>
+                                <F id="1.6.3.1.2"><SEGMENT> macht 335 Liter </SEGMENT></F>
+                                <F id="1.6.3.1.3"><SEGMENT> bis 1.090 Liter. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <!-- DT = Motor -->
+            <QUD string="Was ist mit dem Motor?">
+                <QUD string = "Wie viele Modelle stehen zur Auswahl?">
+                    <QUD string = "Was sorgt für den Vortrieb?">
+                        <CON><SEGMENT> Für den Vortrieb </SEGMENT></CON>
+                        <F><SEGMENT> sorgen zum Start drei Benziner: </SEGMENT></F>
+                    </QUD>
+                </QUD>
+                
+                <!-- DT = 30 TFSI-Modell -->
+                <QUD string="Was ist mit dem 30 TFSI?">
+                    <QUD string="Was ist das Basis-Modell?">
+                        <QUD string="Welches Modell soll das Basis-Modell werden?">
+                            <RES><SEGMENT> Ehe </SEGMENT></RES>
+                            <CON><SEGMENT> das </SEGMENT></CON>
+                            <QUD string="Wie viel PS hat das Basis-Modell?">
+                                <F><SEGMENT> 70 kW/95 PS starke </SEGMENT></F>
+                            </QUD>
+                            <CON><SEGMENT> Basis-Modell </SEGMENT></CON>
+                            <F><SEGMENT> nachgereicht wird </SEGMENT></F>
+                            <QUD string="Wie ist der Preis des Basis-Modells?">
+                                <RES><SEGMENT>und </SEGMENT></RES>
+                                <CON><SEGMENT>den Preis </SEGMENT></CON>
+                                <F><SEGMENT>wahrscheinlich unter 20.000 Euro drückt,</SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                        <QUD string="Welches Modell ist bis dahin das Basis-Modell?">
+                            <CON id="1"><SEGMENT> markiert </SEGMENT></CON>
+                            <F><SEGMENT> der A1 30 TFSI </SEGMENT></F>
+                            <QUD string="Wie viel PS hat der A1 30 TFSI?">
+                                <F><SEGMENT>mit 85 kW/116 PS</SEGMENT></F>
+                            </QUD>
+                            <CON id="1"><SEGMENT> den Einstieg. </SEGMENT></CON>
+                        </QUD>
+                    </QUD>
+
+                    <QUD string="Wieviele Zylinder hat der 30 TFSI?">
+                        <QUD string = "Woher schöpft er seine Kraft?">
+                            <CON><SEGMENT> Er schöpft seine Kraft aus </SEGMENT></CON>
+                            <F><SEGMENT> einem laufruhigen Einliter-Dreizylinder, </SEGMENT></F>
+
+                            <QUD string = "Was ist ein Vorteil vom Einliter-Dreizylinder?">
+                                <CON><SEGMENT> der </SEGMENT></CON>
+                                <F><SEGMENT> dank Turboaufladung über jeden Hubraum-Mangel erhaben ist. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+
+                    <QUD string = "Welches Getriebe hat der A1 30 TFSI?">
+                        <F id = "1.1.7.1.2.3.1">
+                            <SEGMENT> Gepaart mit dem </SEGMENT>
+                            <NAI><SEGMENT>knackigen </SEGMENT></NAI>
+                            <SEGMENT>Sechsgang-Schaltgetriebe</SEGMENT>
+                        </F>
+                        <F id = "1.1.7.1.2.3.2"><SEGMENT> (optional auch mit Doppelkupplung) </SEGMENT></F>
+
+                        <QUD string = "Wie ist der 30 TFSI Motor zu bewerten?">
+                            <F id = "1.1.7.1.2.3.1.1"><SEGMENT> macht </SEGMENT></F>
+                            <CON id = "1.1.7.1.2.3.1.1"><SEGMENT> das Motörchen </SEGMENT></CON>
+                            <F id = "1.1.7.1.2.3.1.1"><SEGMENT> richtig Spaß, </SEGMENT></F>
+                            <RES><SEGMENT> und </SEGMENT></RES>
+                            <F id = "1.1.7.1.2.3.1.2"><SEGMENT> jenseits der 3.000 Touren legt sich </SEGMENT></F>
+                            <CON id = "1.1.7.1.2.3.1.2"><SEGMENT> der Dreiender </SEGMENT></CON>
+                            <F id = "1.1.7.1.2.3.1.2"><SEGMENT> richtig ins Zeug.  </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+
+                    <QUD string = "Was passiert bei hohen Drehzahlen?">
+                        <NAI><SEGMENT> Erstaunlich: </SEGMENT></NAI>
+                        <RES><SEGMENT> selbst </SEGMENT></RES>
+                        <CON><SEGMENT> bei hohen Drehzahlen </SEGMENT></CON>
+                        <F id = "1.1.7.1.2.4.1"><SEGMENT> knurrt das Aggregat recht zahm </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string="Was ist mit den Gängen?">
+                        <RES><SEGMENT>und</SEGMENT></RES>
+                        <F id="1.7.1.2.3.3"><SEGMENT> man vergisst gerne die Gänge fünf </SEGMENT></F>
+                        <RES><SEGMENT>und </SEGMENT></RES>
+                        <F id="1.7.1.2.3.3"><SEGMENT>sechs, </SEGMENT></F>
+                        <QUD string="Warum/Was ist der Grund/Woran liegt es, dass man die Gänge fünf und sechs vergisst?">
+                            <RES><SEGMENT>weil </SEGMENT></RES>
+                            <F><SEGMENT>der Motor im Vierten so gut am Gas hängt. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+
+                    <QUD string = "Was ist mit der Beschleunigung?">
+                        <F><SEGMENT> Den Standardsprint gibt Audi mit 9,4 Sekunden, </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Was ist mit der Maximalgeschwindigkeit?">
+                        <F><SEGMENT> die Vmax mit 203 km/h an. </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Was ist mit dem Verbrauch?">
+
+                        <QUD string = "Was ist der Verbrauch laut Hersteller?">
+                            <CON><SEGMENT> Der Verbrauch </SEGMENT></CON>
+                            <F><SEGMENT> bei 4,8 Liter liegen, </SEGMENT></F>
+                        </QUD>
+
+                        <QUD string = "Welchen Verbrauch hatte man bei der flotten Testfahrt?">
+                            <CON><SEGMENT>wir haben bei flotter Fahrweise bei der ersten Testrunde</SEGMENT></CON>
+                            <F><SEGMENT> gut sechs Liter auf dem Bordcomputer stehen gehabt.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+
+                </QUD>
+
+                <!-- DT = 35 TFSI-Modell -->
+                <QUD string="Was ist mit dem 35 TFSI?">
+                    <RES><SEGMENT>Darüber </SEGMENT></RES>
+                    <F id="1.7.1.3.1"><SEGMENT>rangiert der 1.5er im 35 TFSI </SEGMENT></F>
+                    <F id="1.7.1.3.2"><SEGMENT>– Volkswagens Allzweck-Triebwerk </SEGMENT></F>
+                    <QUD string="Was für ein Getriebe hat dieses Modell/Was zeichnet diesen Motor aus?">
+                        <F id="1.7.1.3.2.1"><SEGMENT> mit Zylinder-Abschaltung </SEGMENT></F>
+                        <RES><SEGMENT>und </SEGMENT></RES>
+                        <RES><SEGMENT>ebenfalls </SEGMENT></RES>
+                        <F id="1.7.1.3.2.2"><SEGMENT>wahlweise Handschaltung </SEGMENT></F>
+                        <RES><SEGMENT>oder </SEGMENT></RES>
+                        <F id="1.7.1.3.2.3"><SEGMENT>Siebengang-Doppelkupplungsgetriebe.</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Wieviele Zylinder hat der 35 TFSI?">
+                        <F id="1.7.1.3.2"><SEGMENT> Der Vierzylinder </SEGMENT></F>
+                    </QUD>
+                    <QUD string="Wie viel PS hat der 35 TFSI?">
+                        <F id="1.7.1.3.2.1"><SEGMENT>mit 110 kW/150 PS</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Wie ist der 35 TFSI zu bewerten?">
+                        <F id="1.7.1.3.2.2.1"><SEGMENT> ist ein guter Allrounder </SEGMENT></F>
+                        <RES><SEGMENT>und </SEGMENT></RES>
+                        <F id="1.7.1.3.2.2.2"><SEGMENT>bietet ausreichend Sportlichkeit </SEGMENT></F>
+                        <QUD string="Wie ist der Standardsprint mit diesem Motor?">
+                            <F><SEGMENT>(7,7 Sekunden auf 100),</SEGMENT></F>
+                        </QUD>
+                        <F id="1.7.1.3.2.2.3"><SEGMENT> ohne krawallig zu wirken.</SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Was ist mit dem Preis und dem Verbrauch?">
+                        <F id = "1.1.7.1.3.3.1"><SEGMENT> Angaben </SEGMENT></F>
+                        <CON id="1"><SEGMENT> zu Preis </SEGMENT></CON>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <CON id="1"><SEGMENT> Verbrauch </SEGMENT></CON>
+                        <F id = "1.1.7.1.3.3.1"><SEGMENT> macht Audi </SEGMENT></F>
+                        <RES><SEGMENT> allerdings </SEGMENT></RES>
+                        <F id = "1.1.7.1.3.3.1"><SEGMENT> noch nicht. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+                <!-- DT = 40 TFSI-Modell (Topmodell) -->
+                <QUD string="Was ist mit dem 40 TFSI?"><!-- 40er/Top-Modell ist das Test-Modell -->
+                    <QUD string = "Was ist mit/Was war bei der Testfahrt?">
+
+                        <QUD string = "Was ist mit dem Preis und dem Verbrauch?">
+    
+                            <QUD string = "Bei welchem Modell fehlen Informationen zum Preis und zum Vebrauch auch?">
+                                <CON><SEGMENT> Das </SEGMENT></CON>
+                                <F><SEGMENT> gilt auch für das derzeitige Top-Modell. </SEGMENT></F>
+                            </QUD>
+    
+                            <QUD string = "Was steht beim Top-Modell fest?"> <!-- Top-Modell = A1 40 TSFI? -->
+                                <CON id = "1.1.7.1.3.3.2.1"><SEGMENT> Fakt </SEGMENT></CON>
+                                <RES><SEGMENT> aber </SEGMENT></RES>
+                                <CON id = "1.1.7.1.3.3.2.1"><SEGMENT> ist: </SEGMENT></CON>
+                                <F><SEGMENT> Wer sich für den A1 40 TFSI entscheidet, sollte das monatliche Tankbudget aufstocken. </SEGMENT></F>
+                            </QUD>
+
+                            <QUD string = "Was ist mit dem Spaßpotential des 40 TFSI Motors?">
+                                <CON><SEGMENT>Das Spaßpotenzial des </SEGMENT></CON>
+                                <QUD string="Wie viel PS hat der 40 TFSI Motor?">
+                                    <F><SEGMENT>147 kW/200 PS starken</SEGMENT></F>
+                                </QUD>
+                                <F id="1.7.1.4.1"><SEGMENT> 2.0 TFSi treibt den rechten Fahrerfuß unwillkürlich nach unten </SEGMENT></F>
+                            </QUD>
+
+                            <QUD string="Was ist mit dem Verbrauch des 2.0 TFSI?">
+                                <RES><SEGMENT>und </SEGMENT></RES>
+                                <F><SEGMENT>den Durst nach oben –</SEGMENT></F>
+                                <QUD string="Wie hoch war der Verbrauch bei einer schnellen Testfahrt?"> 
+                                    <CON><SEGMENT> wir kamen auf unserer flotten Erprobungsrunde </SEGMENT></CON>
+                                    <F><SEGMENT>nahe an den zweistelligen Bereich heran. </SEGMENT></F>
+                                </QUD>
+                            </QUD>
+                        </QUD>
+
+                        <QUD string="Welche Vorteile gibt es?">
+                            <F id="1.7.1.3.4.1"><SEGMENT> Für einen Kleinwagen liegt </SEGMENT></F>
+                            <CON><SEGMENT>der A1 </SEGMENT></CON>
+                            <F id="1.7.1.3.4.1"><SEGMENT>ausgesprochen satt auf der Straße,</SEGMENT></F>
+                            <F id="1.7.1.3.4.2"><SEGMENT> lenkt präzise ein </SEGMENT></F> 
+                            <RES><SEGMENT>und </SEGMENT></RES>
+                            <F id="1.7.1.3.4.3"><SEGMENT>sein Fahrwerk mit optional adaptiven Dämpfern </SEGMENT></F>
+                            <F id="1.7.1.3.4.4"><SEGMENT>arbeitet fast </SEGMENT></F>
+                            <RES><SEGMENT>schon</SEGMENT></RES>
+                            <F id="1.7.1.3.4.4"><SEGMENT> Sportwagen-gleich verbindlich </SEGMENT></F>
+                            <QUD string="Wozu führt das (Fazit)?">
+                                <F><SEGMENT>– man muss sich recht beherrschen, um nicht der lustvollen Kurvenräuberei zu verfallen.</SEGMENT></F>
+                            </QUD>
+                        </QUD>
+    
+                        <QUD string="Welche Nachteile gibt es?">
+                            <RES><SEGMENT> Allerdings </SEGMENT></RES>
+                            <F id="1.7.1.3.5.1"><SEGMENT>meint </SEGMENT></F>
+                            <F id="1.7.1.3.5.2"><SEGMENT>der starke Vierzylinder </SEGMENT></F>
+                            <F id="1.7.1.3.5.1"><SEGMENT>es mitunter ein bisschen zu gut:</SEGMENT></F>
+                            <QUD string="Was passiert bei 1500 Umdrehungen?">
+                                <RES><SEGMENT> Wenn </SEGMENT></RES>
+                                <RES><SEGMENT> schon </SEGMENT></RES>
+                                <CON><SEGMENT>bei 1.500 Umdrehungen </SEGMENT></CON>
+                                <F id="1.7.1.3.5.1.1"><SEGMENT>die vollen 320 Newtonmeter über die Vorderachse herfallen,</SEGMENT></F>
+                                <F id="1.7.1.3.5.1.2"><SEGMENT> kriegen die Reifen die Kraft gar nicht so schnell auf die Straße; </SEGMENT></F>
+                                <QUD string="Was ist der Grund dafür?">
+                                    <F id="1.7.1.3.5.1.1"><SEGMENT> Allradantrieb ist für den A1 </SEGMENT></F>
+                                    <RES><SEGMENT>nämlich </SEGMENT></RES>
+                                    <F id="1.7.1.3.5.1.1"><SEGMENT>nicht vorgesehen. </SEGMENT></F>
+                                </QUD>
+                            </QUD>
+                            <QUD string="Was ist mit dem Getriebe?">
+                                <RES><SEGMENT>Auch </SEGMENT></RES>
+                                <F id="1.7.1.3.5.2.1"><SEGMENT>der serienmäßige Sechsgang-Doppelkuppler </SEGMENT></F>
+                                <F id="1.7.1.3.5.2.2"><SEGMENT> arbeitet mitunter etwas ruppig. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                        <QUD string="Welche Vorteile gibt es (trotzdem)?">
+                            <QUD string="Was ist mit Beschleunigung und Geschwindigkeit dieses Modells?">
+                                <QUD string = "Was passiert, wenn der Grip passt?">
+                                    <CON><SEGMENT> Passt der Grip, </SEGMENT></CON>
+                                    <QUD string="Wie schnell beschleunigt es auf 100km/h?">
+                                        <F id="1.7.1.3.6.2"><SEGMENT> schnellt der A1 in 6,5 Sekunden auf Landstraßentempo </SEGMENT></F>
+                                    </QUD>
+                                    <QUD string="Was ist die Höchstgeschwindigkeit?">
+                                        <RES><SEGMENT> und </SEGMENT></RES>
+                                        <F><SEGMENT> marschiert weiter bis auf 235 Sachen. </SEGMENT></F>
+                                    </QUD>
+                                </QUD>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Zukunftspläne -->
+        <QUD string="Welche Pläne hat Audi für die Zukunft des A1?">
+            <QUD string="Was ist mit einer Diesel-Version?">
+                <F><SEGMENT>Über einen möglichen Diesel verliert Audi keine Worte, </SEGMENT></F>
+                <QUD string="Welches vergleichbare Diesel Auto gibt es?">
+                    <F id="1.8.1.1.1"><SEGMENT>seinen Bruder Polo gibt es</SEGMENT></F>
+                    <RES><SEGMENT>zwar</SEGMENT></RES>
+                    <F id="1.8.1.1.1"><SEGMENT>mit Selbstzünder,</SEGMENT></F>
+                    <RES><SEGMENT> doch </SEGMENT></RES>
+                    <F id="1.8.1.1.2"><SEGMENT> seine Zukunft ist ungewiss;</SEGMENT></F>
+                </QUD>
+            </QUD>
+            <QUD string="Was ist mit einer Elektro-Version?">
+                <<QUD string = "Was sagt Audi zu Elektrofahrzeugen?">
+                    <RES><SEGMENT> auch </SEGMENT></RES>
+                    <CON><SEGMENT> zur Elektrifizierung </SEGMENT></CON>
+                    <F><SEGMENT> ist aus Ingolstadt nichts zu hören. </SEGMENT></F>
+                    <QUD string="Was kann man zu Elektro-Versionen vermuten?">
+                        <F><SEGMENT>Eine reine E-Version ist unwahrscheinlich,</SEGMENT></F>
+                        <QUD string="Was könnte es statt einer reinen E-Version geben?">
+                            <RES><SEGMENT> eher </SEGMENT></RES>
+                            <F><SEGMENT> könnten zur Bauzeitmitte Benziner mit 48-Volt-Unterstüzung einziehen.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Extras -->
+        <QUD string="Was ist mit Extras?">
+            <F id="1.9"><SEGMENT>Auf dem aktuellen Stand ist </SEGMENT></F>
+            <CON><SEGMENT> der A1 </SEGMENT></CON>
+            <F id="1.9"><SEGMENT>bei den Assistenzsystemen: </SEGMENT></F>
+            <QUD string="Welche Assistenzsysteme gibt es serienmäßig?">
+                <CON><SEGMENT>Serienmäßig </SEGMENT></CON>
+                <F id="1.9.1.1"><SEGMENT>sind der Spurhalter</SEGMENT></F>
+                <RES><SEGMENT>und </SEGMENT></RES>
+                <F id="1.9.1.2"><SEGMENT>ein Notbremsassistent an Bord,</SEGMENT></F>
+            </QUD>
+            <QUD string="Welche Assistenzsysteme gibt es gegen Aufpreis?">
+                <CON><SEGMENT> gegen Geld </SEGMENT></CON>
+                <F id="1.9.2.1"><SEGMENT>gibt es einen Tempomat mit Stop&Go-Funktion </SEGMENT></F>
+                <RES><SEGMENT>und </SEGMENT></RES>
+                <F id="1.9.2.2"><SEGMENT>einen automatischen Parkassistenten. </SEGMENT></F>
+            </QUD>
+            <QUD string="Was ist mit weiteren Extras?">
+                <QUD string="Was werden Kunden bzgl. der Extras tun?">
+                    <F id="1.9.3"><SEGMENT> Das dürften bei den meisten Kunden</SEGMENT></F>
+                    <RES><SEGMENT> aber </SEGMENT></RES>
+                    <RES><SEGMENT>längst </SEGMENT></RES>
+                    <F id="1.9.3"><SEGMENT>nicht die einzigen Extras von der langen Liste bleiben, </SEGMENT></F>
+                    <QUD string="Was ist unwahrscheinlich?">
+                        <QUD string="Was ist mit dem Preis des A1?">
+                            <RES><SEGMENT> und </SEGMENT></RES>
+                            <RES><SEGMENT>dass </SEGMENT></RES>
+                            <F><SEGMENT>ein A1 das Werk im spanischen Martorell für unter 30.000 Euro verlässt,</SEGMENT></F>
+                            <CON><SEGMENT> ist unwahrscheinlich. </SEGMENT></CON>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+    </QUD>
+</ROOT>
