@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!DOCTYPE ROOT SYSTEM "qud2_Version_neu.dtd">
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
 <ROOT> 
     <QUD string = "Was ist mit der Vespa GTS 300?">
         <!-- DT = Technisches -->
