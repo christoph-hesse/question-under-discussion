@@ -1,7 +1,7 @@
 # Christoph Hesse (2021): Corpus of test drive reports, annotated with Question-under-Discussion tree structures
 
 Tags:
-QUD   Question under discussion, question as string
+QUD   question under discussion, question as string
 
 F     focus constituent
 CON   context/background constituent
