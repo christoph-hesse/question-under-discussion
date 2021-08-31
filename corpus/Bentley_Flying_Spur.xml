@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
+
+
+<ROOT>
+    <!-- DT = Einleitung -->
+    <QUD string="Was ist mit dem Bentley Flying Spur?">
+        <CON>
+            <SEGMENT>Der</SEGMENT>
+            <NAI>
+                <SEGMENT>wuchtige</SEGMENT>
+            </NAI>
+            <SEGMENT>Bentley Flying Spur</SEGMENT>
+        </CON>
+        <F><SEGMENT>ist kein Monument der Beharrung,</SEGMENT></F>
+        <RES><SEGMENT>sondern</SEGMENT></RES>
+        <F><SEGMENT>die schnellste Limousine der Welt.</SEGMENT></F>
+    </QUD>
+
+    <!-- DT = Geschichte des Modells -->
+    <QUD string="Was tut Bentley zum 100. Geburtstag?">
+        <CON><SEGMENT>Zum 100. Geburtstag</SEGMENT></CON>
+        <F><SEGMENT>spendiert sich Bentley die Neuauflage einer Ikone.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Was tun die Briten im Unternehmenssitz Crewe?">
+        <CON><SEGMENT>Im Unternehmenssitz Crewe</SEGMENT></CON>
+        <F><SEGMENT>legen die Briten die dritte Generation der Luxuslimousine Flying Spur auf.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Was ist mit der Luxuslimousine Flying Spur?">
+        <CON><SEGMENT>Es ist jene Luxuskarosse,</SEGMENT></CON>
+        <F>
+            <SEGMENT>die seit 1958</SEGMENT>
+            <NAI>
+                <SEGMENT>mit gewissen Unterbrechungen</SEGMENT>
+            </NAI>
+            <SEGMENT>das Modellangebot krönt,</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Von wem wird der Flying Spur übertroffen?">
+        <RES><SEGMENT>nur</SEGMENT></RES>
+        <CON><SEGMENT>übertroffen</SEGMENT></CON>
+        <F><SEGMENT>vom Spitzenmodell Mulsanne</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Von wem wird der Flying Spur noch übertroffen?">
+        <F>
+            <SEGMENT>und den beiden Staatslimousinen,</SEGMENT>
+            <NAI>
+                <SEGMENT>die Bentley als Hoflieferant der Queen bereitstellt.</SEGMENT>
+            </NAI>
+        </F>
+    </QUD>
+
+    <QUD string="Was ist mit dem britischen Stolz?">
+        <F id="1"><SEGMENT>Da stört es</SEGMENT></F>
+        <CON><SEGMENT>den britischen Stolz</SEGMENT></CON>
+        <F id="1"><SEGMENT>kaum,</SEGMENT></F>  
+    </QUD> 
+
+    <QUD string="Was stört den britischen Stolz kaum?">
+        <F>
+            <SEGMENT>dass die Marke</SEGMENT>
+            <NAI>
+                <SEGMENT>seit 1998</SEGMENT>
+            </NAI>
+            <SEGMENT>zum VW-Konzern gehört</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Was bedeutet es, dass die Marke zum VW-Konzern gehört?">
+        <RES><SEGMENT>und</SEGMENT></RES>
+        <RES><SEGMENT>nun</SEGMENT></RES>
+        <F id="1"><SEGMENT>ein in Wolfsburg entwickelter W12-Zylinder</SEGMENT></F>
+        <QUD string="Wieviel Hubraum hat der W12-Zylinder?">
+            <F><SEGMENT>mit sechs Liter Hubraum</SEGMENT></F>
+        </QUD>
+        <F id="1"><SEGMENT>unter der langen Haube arbeitet.</SEGMENT></F>
+    </QUD>
+
+    <!-- DT = Preis -->
+    <QUD string="Wo liegt der Preis des Flying Spur?">
+        <CON>
+            <SEGMENT>Der Preis</SEGMENT>
+            <NAI>
+                <SEGMENT>des glamourösen Luxus, feiner Holzarbeiten und würzig duftenden Leders</SEGMENT>
+            </NAI>
+        </CON>
+        <F><SEGMENT>liegt bei wenigstens 214 000 Euro.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wie lässt sich der Flying Spur aufstocken?">
+        <CON><SEGMENT>Er</SEGMENT></CON>
+        <F>
+            <SEGMENT>lässt sich</SEGMENT>
+            <NAI>
+                <SEGMENT>freilich</SEGMENT>
+            </NAI>
+            <SEGMENT>mit Zutaten aus der Zubehörliste</SEGMENT>
+            <NAI>
+                <SEGMENT>ordentlich</SEGMENT>
+            </NAI>
+            <SEGMENT> aufstocken.</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Was tut die jüngste Generation des Bentleys?">
+        <CON><SEGMENT>Die jüngste Generation der englischen Luxuslimousine</SEGMENT></CON>
+        <F><SEGMENT>feiert jetzt Premiere</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wann wird die jüngste Generation des Bentleys ausgeliefert?">
+        <RES><SEGMENT>und</SEGMENT></RES>
+        <F><SEGMENT>wird Ende des Jahres ausgeliefert.</SEGMENT></F>
+    </QUD>
+
+    <!-- DT = Fahrzeugdetails (Design & Technik) -->
+    <QUD string="Wie ist das Konzept des Flying Spur?">
+        <CON><SEGMENT>Das Konzept</SEGMENT></CON>
+        <F><SEGMENT>ist stimmig,</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wie genau sieht das Konzept aus?">
+        <F><SEGMENT>anspruchsvolle Automobil-Technik trifft auf stilsicheres Interieur.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Was ist der Unterschied zu Daimler?">
+        <CON><SEGMENT>Anders als bei Daimler,</SEGMENT></CON>
+        <F>
+            <NAI>
+                <SEGMENT> wo ein Maybach leider zu sehr wie ein Mercedes aussah,</SEGMENT>
+            </NAI>
+            <SEGMENT> ist der Flying Spur eine Neuauflage für Genießer.</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Was ist mit der Karosserie?">
+        <CON><SEGMENT>Die Karosserie</SEGMENT></CON>
+        <F><SEGMENT>streckt sich mächtig.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wie lang ist die Limousine?">
+        <F><SEGMENT>5,32 Metermisst </SEGMENT></F>
+        <CON>
+            <SEGMENT>die</SEGMENT>
+            <NAI>
+                <SEGMENT>viertürige</SEGMENT>
+            </NAI>
+            <SEGMENT>Limousine in der Länge,</SEGMENT>
+        </CON>
+    </QUD>
+
+    <QUD string="Wie viel Meter liegen zwischen den Achsen?">
+        <CON><SEGMENT>zwischen den Achsen liegen</SEGMENT></CON>
+        <F><SEGMENT>knapp 3,20 Meter.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Was soll der Wendekreis des Flying Spur können?">
+        <RES><SEGMENT>Damit</SEGMENT></RES>
+        <CON><SEGMENT>der Wendekreis</SEGMENT></CON>
+        <RES><SEGMENT>dennoch</SEGMENT></RES>
+        <F><SEGMENT>mit straßenbaulichen Gegebenheiten harmoniert,</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Was bekommt der Flying Spur dafür?">
+        <F id="1"><SEGMENT>bekommt</SEGMENT></F>
+        <CON><SEGMENT>der Flying Spur</SEGMENT></CON>
+        <F id="1"><SEGMENT> eine Allradlenkung.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wie lenken die Räder bei Rangiertempo?">
+        <CON><SEGMENT>Bei Rangiertempo </SEGMENT></CON>
+        <F id="1"><SEGMENT>lenken</SEGMENT></F>
+        <QUD string="Wie groß sind die Räder?">
+            <F><SEGMENT>die dicken 21-Zoll-(Leichtmetallräder)</SEGMENT></F>
+        </QUD>
+        <QUD string="Aus welchem Material sind die Räder?">
+            <F><SEGMENT>Leichtmetallräder</SEGMENT></F>
+        </QUD>
+        <F id="1"><SEGMENT> gegen-,</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wie lenken die Räder bei schnellerer Fahrt?">
+        <CON><SEGMENT>bei schnellerer Fahrt</SEGMENT></CON>
+        <RES><SEGMENT>dann</SEGMENT></RES>
+        <F><SEGMENT> gleichsinnig.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wie groß ist dadurch der Durchmesser der Kehrtwende?">
+        <CON><SEGMENT>Das</SEGMENT></CON>
+        <F id="1"><SEGMENT>bringt</SEGMENT></F>
+        <CON><SEGMENT>den Durchmesser der Kehrtwende</SEGMENT></CON>
+        <F id="1"><SEGMENT>auf 11,05 Meter</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Was passiert dadurch bei flinken Fahrmanövern?">
+        <RES><SEGMENT>und</SEGMENT></RES>
+        <F><SEGMENT>verringert die Gierneigung</SEGMENT></F>
+        <CON><SEGMENT> bei flinken Fahrmanövern.</SEGMENT></CON>
+    </QUD>
+
+    <QUD string="Was ist mit der Kraft des Motors?">
+        <F id="1"><SEGMENT>Um</SEGMENT></F>
+        <CON>
+            <SEGMENT>die</SEGMENT>
+            <NAI>
+                <SEGMENT>wuchtige</SEGMENT>
+            </NAI>
+            <SEGMENT>Kraft des Sechsliter-W12</SEGMENT>
+        </CON>
+        <F id="1"><SEGMENT>auf die Straße zu bringen,</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Was gibt es, um die Kraft des Motors auf dien Straße zu bringen?">
+        <CON><SEGMENT>gibt es</SEGMENT></CON>
+        <F><SEGMENT> den permanenten Allradantrieb mit variabler Kraftverteilung.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wie viel PS leistet der Motor?">
+        <F><SEGMENT>635 PS</SEGMENT></F>
+        <CON><SEGMENT> leistet der Zwölfzylinder,</SEGMENT></CON>
+    </QUD>
+
+    <QUD string="Wie groß ist das Drehmoment?">
+        <F>
+            <SEGMENT>900 Newtonmeter Drehmoment stemmt er bei</SEGMENT>
+            <NAI>
+                <SEGMENT> sanften</SEGMENT>
+            </NAI>
+            <SEGMENT> 1350 Umdrehungen in der Minute.</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Was ist mit dem Poltern?">
+        <CON><SEGMENT>Das Poltern</SEGMENT></CON>
+        <F><SEGMENT> liegt ihm fern.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Was passiert, wenn der Flying Spur die Muskeln spannt?">
+        <RES><SEGMENT>Selbst</SEGMENT></RES>
+        <RES><SEGMENT>wenn</SEGMENT></RES>
+        <CON><SEGMENT>er die Muskeln spannt,</SEGMENT></CON>
+        <F>
+            <SEGMENT> bleibt sein akustischer Auftritt</SEGMENT>
+            <NAI>
+                <SEGMENT>manierlich</SEGMENT>
+            </NAI>
+            <SEGMENT> ruhig.</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Beschleunigung?">
+        <QUD string="Was schafft der Flying Spur?">
+            <F id="1"><SEGMENT>In 3,8 Sekunden</SEGMENT></F>
+            <CON><SEGMENT>schafft er es,</SEGMENT></CON>
+            <QUD string="Gewicht der Flying Spur?">
+                <F><SEGMENT>2437 Kilogramm</SEGMENT></F>
+                <CON><SEGMENT>Gewicht</SEGMENT></CON>
+            </QUD>
+            <F id="1"><SEGMENT>von 0 auf 100 km/h zu beschleunigen,</SEGMENT></F>
+        </QUD>
+    </QUD>
+
+    <QUD string="Was ist mit dem Tempo?">
+        <RES><SEGMENT>und</SEGMENT></RES>
+        <F id="1">
+            <SEGMENT>mit einem Spitzentempo von 333 km/h </SEGMENT>
+            <SEGMENT>- mehr als 200 Meilen in der Stunde -</SEGMENT>
+        </F>
+        <F id="2">
+            <SEGMENT>ist er die</SEGMENT>
+            <NAI>
+                <SEGMENT>wohl</SEGMENT>
+            </NAI>
+            <SEGMENT> schnellste Serienlimousine der Welt.</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Was ist mit dem Verbrauch der Zylinder?">
+        <CON>
+            <SEGMENT>Damit der Verbrauch der</SEGMENT>
+            <NAI>
+                <SEGMENT>naturgemäß durstigen</SEGMENT>
+            </NAI>
+            <SEGMENT> 12 Zylinder </SEGMENT>
+        </CON>
+        <F id="1"><SEGMENT>nicht völlig aus dem Rahmen fällt,</SEGMENT></F>
+        <F id="2"><SEGMENT> wird ein halbes Dutzend Zylinder im Teillastbereich auf die Ersatzbank geschickt.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wie ist der Übergang?">
+        <CON><SEGMENT>Der Übergang</SEGMENT></CON>
+        <F><SEGMENT> ist während der Fahrt nicht zu bemerken.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wie viel Liter Benzin gelten als Durchschnittswert?">
+        <F><SEGMENT>14,8 Liter Benzin</SEGMENT></F>
+        <CON><SEGMENT> nennt der WLTP-Zyklus als Durchschnittswert.</SEGMENT></CON>
+    </QUD>
+
+    <QUD string="Was zeigt der Bordcomputer bei einer Fahrt durch die Alpen an?">
+        <CON>
+            <SEGMENT>Während der</SEGMENT>
+            <NAI>
+                <SEGMENT>munteren, aber nicht hitzigen</SEGMENT>
+            </NAI>
+            <SEGMENT>Fahrt durch die</SEGMENT>
+            <NAI>
+                <SEGMENT>provenzalischen</SEGMENT>
+            </NAI>
+            <SEGMENT>Alpen</SEGMENT>
+        </CON>
+        <F><SEGMENT>zeigte der Bordcomputer</SEGMENT></F>
+        <RES><SEGMENT>dann doch</SEGMENT></RES>
+        <F><SEGMENT>17,7 Liter an.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Was ist mit der Bodengruppe des Bentley Flying Spur?">
+        <CON><SEGMENT>Die Bodengruppe des Bentley Flying Spur</SEGMENT></CON>
+        <F>
+            <SEGMENT>dient</SEGMENT>
+            <SEGMENT>auch</SEGMENT>
+            <SEGMENT> dem Porsche Panamera als Basis.</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Was ist mit den Gemeinsamkeiten?">
+        <F><SEGMENT>Damit erschöpfen sich</SEGMENT></F>
+        <CON><SEGMENT> die Gemeinsamkeiten.</SEGMENT></CON>
+    </QUD>
+
+    <QUD string="Was ist mit dem Viertürer aus Zuffenhausen?">
+        <CON><SEGMENT>Der Viertürer aus Zuffenhausen</SEGMENT></CON>
+        <F>
+            <SEGMENT> fährt auf</SEGMENT>
+            <NAI>
+                <SEGMENT> völlig</SEGMENT>
+            </NAI>
+            <SEGMENT> anderen Wegen.</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Was bekommt der Flying Spur?">
+        <CON><SEGMENT>Dafür bekommt der Flying Spur</SEGMENT></CON>
+        <F>
+            <SEGMENT> ein Doppelkupplungsgetriebe mit acht Gängen</SEGMENT>
+            <SEGMENT> aus den VW-Regalen</SEGMENT>
+            <SEGMENT> für die Kraftübertragung.</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Was hat der Konzern getan?">
+        <CON><SEGMENT>Der Konzern</SEGMENT></CON>
+        <F id="1"><SEGMENT> hat ihm</SEGMENT></F>
+        <RES><SEGMENT>außerdem</SEGMENT></RES>
+        <F id="1"><SEGMENT> zu einem</SEGMENT>
+            <NAI>
+                <SEGMENT> erheblichen</SEGMENT>
+            </NAI>
+            <SEGMENT> Plus an Dynamik verholfen.</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Was ist mit der Leichtfüßigkeit des Autos?">
+        <CON>
+            <SEGMENT>Die Leichtfüßigkeit, die der 2,5-Tonner</SEGMENT>
+            <SEGMENT>auch dank</SEGMENT>
+            <SEGMENT>der Wank-Reduzierung auf anspruchsvolleren Strecken an den Tag legt,</SEGMENT>
+        </CON>
+        <F><SEGMENT> ist beeindruckend.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wie ist die Lenkung?">
+        <CON><SEGMENT>Die Lenkung</SEGMENT></CON>
+        <F>
+            <SEGMENT>ist</SEGMENT>
+            <NAI>
+                <SEGMENT>mustergültig</SEGMENT>
+            </NAI>
+            <SEGMENT>präzise,</SEGMENT>
+        </F>
+    </QUD>
+
+    <QUD string="Wie ist das Ansprechverhalten der Bremsen?">
+        <CON><SEGMENT>das Ansprechverhalten der Bremsen</SEGMENT></CON>
+        <F><SEGMENT> nicht minder.</SEGMENT></F>
+    </QUD>
+
+    <QUD string="Wie viele Fahrprogramme bietet das Fahrwerk?">
+        <F><SEGMENT>Vier unterschiedliche Fahrprogramme bietet </SEGMENT></F>
+        <CON>
+            <SEGMENT>das</SEGMENT>
+            <SEGMENT> aktive Fahrwerk, </SEGMENT>
+        </CON>
+    </QUD>
+
+    <QUD string="Wie sind die Fahrprogramme?">
+        <F>
+            <SEGMENT>von komfortbetont</SEGMENT>
+            <SEGMENT>bis sportlich,</SEGMENT>
+        </F>
+    </QUD>
+    <QUD string="Wonach gehen die Fahrprogramme?">
+        <F>
+            <SEGMENT>ganz nach den Wünschen des Chauffeurs oder der Passagiere.</SEGMENT>
+        </F>
+    </QUD>
+    <QUD string="Was genießt man im Fond?">
+        <CON><SEGMENT>Im Fond genießt man</SEGMENT></CON>
+        <F>
+            <SEGMENT>neben der</SEGMENT>
+            <NAI>
+                <SEGMENT>üppigen</SEGMENT>
+            </NAI>
+            <SEGMENT>Beinfreiheit</SEGMENT>
+            <SEGMENT>gegebenenfalls auch ein Kaltgetränk aus der Kühlbox</SEGMENT>
+        </F>
+    </QUD>
+    <QUD string="Was kann man währenddessen tun?">
+        <F><SEGMENT>und kann derweil den Fahrer vorn schalten und walten lassen.</SEGMENT></F>
+    </QUD>
+</ROOT>

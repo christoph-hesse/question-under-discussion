@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
+<ROOT> 
+    <QUD string = "Was ist mit dem neuen Porsche Cayenne Turbo S E-Hybrid?">
+        <QUD string = "Wie und warum hat Porsche sein Top-SUV genannt?">
+            <F><SEGMENT id ="1.1"> Cayenne Turbo S E-Hybrid </SEGMENT></F><!-- gibt auch einen Panemera Turbo S E-Hybrid -->
+            <CON><SEGMENT> hat Porsche sein Top-SUV getauft. </SEGMENT></CON>
+            <QUD string = "Was ist die Begründung für den Namen?">
+                <F>
+                    <NAI><SEGMENT> Eigentlich logisch, </SEGMENT></NAI>
+                    <SEGMENT></SEGMENT>
+                </F>
+                <RES><SEGMENT> schließlich </SEGMENT></RES>
+                <F><SEGMENT> arbeitet unter dem Blech der gleiche Antriebsstrang wie im leistungsstärksten Panamera. </SEGMENT></F>
+                <QUD string = "Welche weiteren Gemeinsamkeiten gibt es zwischen Cayenne und Panamera?">
+                    <RES><SEGMENT> Und </SEGMENT></RES>
+                    <RES><SEGMENT> auch </SEGMENT></RES>
+                    <F><SEGMENT> die Zahlen fallen entsprechend aus: </SEGMENT></F>
+                    <!-- Kontrast PS/Preis -->
+                    <QUD string = "Worüber freuen sich Fans?">
+                        <CON id ="1.1.1.1.1"><SEGMENT> Während Fans gehobener Boliden </SEGMENT></CON>
+                        <QUD string = "Was ist mit der Systemleistung des Cayenne?"> 
+                            <!-- Problem: Inhaltlich ist systemleistung interessant, Satzstruktur betont eher "die Fans gehobener Boliden" -->
+                                <CON><SEGMENT> angesichts einer Systemleistung von </SEGMENT></CON>
+                                <F><SEGMENT id ="1.1.1.1.1"> 500 kW/680 PS </SEGMENT></F>
+                            </QUD>
+                        <CON id ="1.1.1.1.1"><SEGMENT> leuchtende Augen bekommen, </SEGMENT></CON>
+                    </QUD>
+                    <QUD string = "Worüber freuen sich Fans nicht/weniger?">
+                        <QUD string = "Was ist mit dem Preis des Cayenne?">
+                            <QUD string = "Was brauchen Interessenten in Bezug auf den Preis?">
+                                <CON><SEGMENT> brauchen Interessenten beim Blick in die Preisliste </SEGMENT></CON>
+                                <F><SEGMENT id ="1.1.1.2.1.1"> starke Nerven </SEGMENT></F>
+                                <RES><SEGMENT> – oder </SEGMENT></RES>
+                                <RES><SEGMENT> einfach nur </SEGMENT></RES>
+                                <F><SEGMENT id ="1.1.1.2.1.1"> ein gut gefülltes Bankkonto. </SEGMENT></F>
+                                <QUD string="Wie hoch ist der Preis des Cayenne Turbo S E-Hybrid (Nicht-Coupé)?">
+                                    <F><SEGMENT> Ab 172.604 Euro ist man dabei,</SEGMENT></F>
+                                </QUD>
+                                <QUD string = "Was ist mit dem Preis des Cayenne Coupé?">
+                                    <CON>
+                                        <SEGMENT> das </SEGMENT>
+                                        <NAI><SEGMENT> neulich nachgeschobene </SEGMENT></NAI>
+                                        <SEGMENT> Cayenne Coupé </SEGMENT>
+                                    </CON>
+                                    <F><SEGMENT> erfordert in dieser Ausbaustufe 176.293 Euro.</SEGMENT></F>
+                                </QUD>
+                            </QUD>
+                            <QUD string = "Was ist mit dem Geld?"> <!-- feeder?-->
+                                <RES><SEGMENT> Und </SEGMENT></RES>
+                                <CON>
+                                    <SEGMENT> das </SEGMENT>
+                                    <NAI><SEGMENT> liebe </SEGMENT></NAI>
+                                    <SEGMENT> Geld </SEGMENT>
+                                </CON>
+                                <F><SEGMENT> ist ein dankbarer Anlass, gleich zum nächsten Punkt überzuleiten. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+        <QUD string = "Was ist mit der Traktionsbatterie des Cayenne?">
+            <QUD string = "Was ist mit der Größe der Traktionsbatterie?">
+                <CON><SEGMENT> Die </SEGMENT></CON>
+                <F><SEGMENT id="2.1.1"> 14,1 kWh große </SEGMENT></F>
+                <CON><SEGMENT> Traktionsbatterie </SEGMENT></CON> 
+                <QUD string = "Wie ist die Größe der Traktionsbatterie zu bewerten?">
+                    <F>
+                        <SEGMENT id="2.1.1"> ist </SEGMENT>
+                        <NAI><SEGMENT> einfach</SEGMENT></NAI>
+                        <SEGMENT> zu klein,</SEGMENT>
+                    </F>
+                </QUD>
+                <QUD string = "Wozu ist die Traktionsbatterie zu klein?">
+                    <RES><SEGMENT> um </SEGMENT></RES>
+                    <QUD string = "Wie schwer ist der SUV?">
+                        <F><SEGMENT> das 2,5-Tonnen-SUV </SEGMENT></F>
+                        <QUD string="Wie ist die Leistung des Elektroaggregats?">
+                            <F><SEGMENT id="2.1.1.1"> mit Hilfe des 100 kW/136 PS starken Elektroaggregats </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                    <F><SEGMENT id="2.1.1.1"> (den SUV) 40 Kilometer (WLTP) rein elektrisch zu bewegen, </SEGMENT></F>
+                    <QUD string = "Was kann die Traktionsbatterie statt der 40 Kilometer leisten/was ist die tatsächtliche Reichweite?">
+                        <CON><SEGMENT> sie beherbergt lediglich Power für </SEGMENT></CON>
+                        <F><SEGMENT> maximal 32 Kilometer. </SEGMENT></F>
+                    </QUD>
+                    <QUD string = "Was folgt daraus, dass die Traktionsbatterie nur 32 Kilometer leisten kann?">
+                        <QUD string = "Was ist mit der Privatnutzung des Cayenne?">
+                            <RES><SEGMENT> Damit </SEGMENT></RES>
+                            <F><SEGMENT id="2.1.1.2.1.1"> wird </SEGMENT></F>
+                            <CON>
+                                <SEGMENT> die Privatnutzung beim stärksten Cayenne </SEGMENT>
+                                <NAI><SEGMENT> im Rahmen der Dienstwagen-Regelung </SEGMENT></NAI>
+                            </CON>
+                            <F><SEGMENT id="2.1.1.2.1.1"> weiterhin mit einem statt einem halben Prozent besteuert. </SEGMENT></F>
+                        </QUD>
+                        <QUD string = "Wie wird die Reichweite der Traktionsbatterie eingeschätzt?">
+                            <RES><SEGMENT> Dennoch </SEGMENT></RES>
+                            <F><SEGMENT id="2.1.1.2.2.1"> sind </SEGMENT></F>
+                            <RES><SEGMENT> auch </SEGMENT></RES>
+                            <CON><SEGMENT> 32 Kilometer rein elektrische Fahrt </SEGMENT></CON>
+                            <F><SEGMENT id="2.1.1.2.2.1"> eine gute Sache, </SEGMENT></F>
+                        </QUD>
+                        <QUD string = "Was ist mit der Ladeinfrastruktur?">
+                            <RES><SEGMENT> und </SEGMENT></RES>
+                            <F><SEGMENT id="2.1.1.2.2.1"> wer über eine geeignete Ladeinfrastruktur verfügt, </SEGMENT></F>
+                            <QUD string="Was sind Beispiele für eine geeignete Ladeinfrastruktur?">
+                                <RES><SEGMENT> also </SEGMENT></RES>
+                                <RES id="1"><SEGMENT> beispielsweise </SEGMENT></RES>
+                                <F><SEGMENT id="2.1.1.2.2.1"> zu Hause </SEGMENT></F>
+                                <RES id="1"><SEGMENT> oder </SEGMENT></RES>
+                                <F><SEGMENT id="2.1.1.2.2.1"> auf der Arbeit laden kann, </SEGMENT></F>
+                            </QUD>
+                            <QUD string = "Was ist die Folge einer geeigneten Ladeinfrastruktur?">
+                                <F><SEGMENT> dürfte zumindest den heimischen Tankwart deutlich seltener begrüßen als früher. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string = "Was ist mit dem Verbrenner des Cayenne?">
+            <QUD string = "Was hat Porsche in Bezug auf den Verbrauch gemacht?">
+                <CON><SEGMENT> Mit dem Turbo S E-Hybrid-Strang </SEGMENT></CON>
+                <F><SEGMENT id="3.1.1"> hat </SEGMENT></F>
+                <CON><SEGMENT> Porsche </SEGMENT></CON>
+                <F id="3.1.1">
+                    <SEGMENT> einen </SEGMENT>
+                    <NAI><SEGMENT> durchaus </SEGMENT></NAI>
+                    <SEGMENT> cleveren Schachzug gemacht. </SEGMENT>
+                </F>
+                <QUD string = "Was ist der clevere Schachzug?">
+                    <QUD string = "Wie hat sich der Verbrauch des Cayenne verändert?">
+                        <QUD string="Was ist das Topmodell?">
+                            <RES><SEGMENT> So </SEGMENT></RES>
+                            <CON>
+                                <SEGMENT>ist </SEGMENT>
+                                <NAI><SEGMENT>ausgerechnet</SEGMENT></NAI>
+                                <SEGMENT> das Topmodell </SEGMENT>
+                            </CON>
+                            <F><SEGMENT>nicht mehr der gefräßige Buhmann,</SEGMENT></F>
+                        </QUD>
+                        <QUD string="Was tut das Topmodell?">
+                            <RES><SEGMENT> sondern </SEGMENT></RES>
+                            <F><SEGMENT>schlägt sich bei entsprechender Nutzung ökologisch wacker.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Was ist mit der Angabe des kombinierten Verbrauchs?">
+                <QUD string="Wie wird der Verbrauch bewertet?">
+                    <F id="3.2.1"><SEGMENT> Man kann </SEGMENT></F>
+                    <CON><SEGMENT> die Angabe des kombinierten Verbrauchs </SEGMENT></CON>
+                    <QUD string="Wie wird der kombinierte Verbrauch angegeben?">
+                        <F><SEGMENT> von 3,7 Litern je 100 km </SEGMENT></F>
+                    </QUD>
+                    <F id="3.2.1">
+                        <NAI><SEGMENT> natürlich </SEGMENT></NAI>
+                        <SEGMENT> belächeln </SEGMENT>
+                    </F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F><SEGMENT id="3.2.2"> die Berechnungsgrundlage schmähen, </SEGMENT></F>
+                </QUD>
+                 
+                <QUD string = "Ist die Angabe zum Verbrauch realistisch?">
+                    <QUD string = "Wie kann dieser Wert zustande kommen?">
+                        <RES><SEGMENT> aber </SEGMENT></RES>
+                        <F id="3.2.1.1"><SEGMENT> unter der Voraussetzung, den Allradler fleißig elektrisch zu fahren, </SEGMENT></F>
+                        <CON id="3.2.1.1"><SEGMENT> kann dieser Wert </SEGMENT></CON>
+                        <RES><SEGMENT> auch </SEGMENT></RES>
+                        <CON id="3.2.1.1"><SEGMENT> real zustande kommen. </SEGMENT></CON>
+                    </QUD>
+                </QUD>
+                <QUD string = "Was ist mit der Umweltfreundlichkeit der Werte?">
+                    <RES><SEGMENT> Ob </SEGMENT></RES>
+                    <CON><SEGMENT> das umweltfreundlich ist oder nicht, </SEGMENT></CON>
+                    <QUD string = "Wovon hängt es ab, ob der Strom für den Elektroantrieb umweltfreundlich ist?">
+                        <RES><SEGMENT> zumal </SEGMENT></RES>
+                        <F>
+                            <SEGMENT> Strom </SEGMENT>
+                            <NAI><SEGMENT> bekanntermaßen </SEGMENT></NAI>
+                            <SEGMENT> keineswegs nur aus Sonne oder Wind gewonnen wird, </SEGMENT>
+                        </F>
+                    </QUD>
+                    <F><SEGMENT> steht auf einem anderen Blatt. </SEGMENT></F> 
+                </QUD>
+            </QUD>
+            
+            <QUD string = "Welches Problem gibt es beim ressourcenschonende Fahren?"><!-- die Verlockung des Prsche-Sounds -->
+                <RES><SEGMENT> Allerdings </SEGMENT></RES>
+                <F><SEGMENT id="3.4.1"> erfordert </SEGMENT></F>
+                <CON><SEGMENT> das ressourcenschonende Fahren mit dem Boliden </SEGMENT></CON>
+                <F><SEGMENT  id="3.4.1"> viel Disziplin. </SEGMENT></F>
+                <QUD string = "Wieso ist Disziplin erforderlich?">
+                    <QUD string = "Was ist mit dem Klang des Verbrenners?">
+                        <F id="3.4.1.1.1">
+                            <SEGMENT> Das </SEGMENT>
+                            <NAI><SEGMENT> prägnante </SEGMENT></NAI>
+                            <SEGMENT> V8-Bollern </SEGMENT>
+                        </F>
+                        <CON><SEGMENT> des Verbrenners </SEGMENT></CON>
+                        <F><SEGMENT id="3.4.1.1.1"> löst zumindest bei einschlägigen Autofans </SEGMENT></F>
+                        <RES><SEGMENT> eben doch </SEGMENT></RES>
+                        <F><SEGMENT id="3.4.1.1.1"> Gänsehaut aus, </SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string = "Wie geht Porsche mit dem verlockenden Sound um?">
+                    <QUD string = "Was tut Porsche?">
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <CON><SEGMENT> damit </SEGMENT></CON>
+                        <F><SEGMENT> kalkuliert </SEGMENT></F>
+                        <CON>
+                            <SEGMENT> Porsche </SEGMENT>
+                            <NAI><SEGMENT> natürlich. </SEGMENT></NAI>
+                        </CON>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+
+        <QUD string = "Wie ist der Cayenne Turbo S E-Hybrid im Vergleich zum Cayenne Turbo">
+            <!-- A: ist besser; besseres Leistung-Gewicht-Verhältnis, bessere Beschleunigung -->
+            <QUD string="Tradeoff Leistung/Gewicht, Kontrast Mehrleistung/Mehrgewicht?">
+                <RES><SEGMENT>Übrigens</SEGMENT></RES>
+                <F><SEGMENT>stehen</SEGMENT></F>
+                <QUD string="Wieviel Mehrleistung hat der E-Hybrid (Differenz Leistung Hybrid - Leistung Turbo)?">
+                    <F id="1.9"><SEGMENT> den 96 kW/130 PS Mehrleistung </SEGMENT></F>
+                </QUD>
+                <CON><SEGMENT>im Vergleich zur „Turbo“-Version </SEGMENT></CON>
+                <QUD string="Wieviel Mehrgewicht hat der E-Hybrid (Differenz Gewicht Hybrid - Leistung Turbo)?">
+                    <F id="1.9"><SEGMENT> rund 315 kg Mehrgewicht </SEGMENT></F>
+                </QUD>
+                <F><SEGMENT>gegenüber.</SEGMENT></F>
+            </QUD>
+            <QUD string="Wofür sorgt das?/Was folgt aus dem Tradeoff/Was ist die Folge aus den Unterschieden im Gewicht und in der Leistung?">
+                <CON><SEGMENT>Das sorgt für </SEGMENT></CON>
+                <QUD string = "Was ist mit dem Unterschied im Leistungsgewicht?">
+                    <F><SEGMENT> ein moderat besseres Leistungsgewicht beim Hybriden </SEGMENT></F>
+                </QUD>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <QUD string = "Was ist mit dem Unterschied in der Beschleunigung?">
+                    <F><SEGMENT> lässt ihn laut Werksangabe rund eine Sekunde schneller von 0 auf 160 Sachen sprinten (8,4 Sekunden) als den Turbo.</SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string = "Was ist mit der Abstimmung zwischen Verbrenner und Elektromotor?">
+            <QUD string = "Was ist mit der Abstimmung in Bezug auf Drehmoment und Geschwindigkeit?">
+                <QUD string="Warum ist Drehmoment eine wichtige Größe bei Stromern?">
+                    <F><SEGMENT> Eine im alltäglichen Fahrbetrieb nicht zu unterschätzende Größe </SEGMENT></F>
+                </QUD>
+                <RES><SEGMENT>indes</SEGMENT></RES>
+                <F><SEGMENT> ist das schnell abrufbare </SEGMENT></F>
+                <CON><SEGMENT> Drehmoment, </SEGMENT></CON>
+                <QUD string = "Wie groß ist das Drehmoment?">
+                    <QUD string = "Was tut der Stromer in Bezug auf das Drehmoment?">
+                        <CON><SEGMENT> das </SEGMENT></CON>
+                        <F><SEGMENT id="5.1.1.1"> der mit 400 Nm bärige </SEGMENT></F>
+                        <CON><SEGMENT> Stromer </SEGMENT></CON>
+                        <F><SEGMENT id="5.1.1.1"> in den Antriebsstrang pumpt. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string = "Wie groß ist die Geschwindigkeit?"><!-- groß = 'preffert' -->
+                    <QUD string = "Was tut der V8 in Abstimmung mit dem Elektromotor?">
+                        <F id="5.1.2.1">
+                            <NAI><SEGMENT> Natürlich </SEGMENT></NAI>
+                            <SEGMENT> pfeffert </SEGMENT>
+                        </F>
+                        <CON><SEGMENT> der V8 in Tateinheit mit dem Elektromotor </SEGMENT></CON>
+                        <F id="5.1.2.1">
+                            <NAI id="5.1.2.1.1"><SEGMENT> das schwere Gefährt </SEGMENT></NAI>
+                            <NAI id="5.1.2.1.2"><SEGMENT> unter voller Last </SEGMENT></NAI>
+                            <SEGMENT> derart auf Tempo, </SEGMENT>
+                        </F>
+                    </QUD>
+                </QUD>
+                <QUD string = "Was ist die Folge davon, dass der V8 und der Elektromotor auf Tempo pfeffern?">
+                    <QUD string = "Was ist mit unbedarften Passagieren?">
+                        <RES><SEGMENT> dass </SEGMENT></RES>
+                        <CON>
+                            <NAI><SEGMENT> vor allem </SEGMENT></NAI>
+                            <SEGMENT> unbedarfte Passagiere </SEGMENT>
+                        </CON>
+                        <F><SEGMENT id="5.1.3.1.1"> eilig </SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F><SEGMENT id="5.1.3.1.1"> mitunter verängstigt blickend nach Haltegriffen suchen. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+            <QUD string = "Was ist der Unterschied zwischen der zweitstärksten Turbo-Version ohne S und dem Hybrid (Cayenne)?">
+                <QUD string = "Wie ist der Vortrieb der Turbo-Version ohne S?">
+                    <RES><SEGMENT> Doch </SEGMENT></RES>
+                    <RES><SEGMENT> während </SEGMENT></RES>
+                    <CON><SEGMENT> die zweitstärkste Turbo-Version ohne „S“ </SEGMENT></CON>
+                    <F><SEGMENT> bei einem spontanen, lediglich mittelschweren Gasstoß noch nach passenden Übersetzungen fahndet, </SEGMENT></F>
+                </QUD>
+                <QUD string = "Wie ist der Vortrieb des Hybrid?">
+                    <F><SEGMENT id="5.2.2.1"> liefert </SEGMENT></F>
+                    <CON><SEGMENT> der Hybrid </SEGMENT></CON>
+                    <F><SEGMENT  id="5.2.2.1"> punktgenau Vortrieb. </SEGMENT></F>
+                </QUD>
+            </QUD>
+            <QUD string = "Wie funktioniert die Abstimmung beim Hybrid (Cayenne)?">
+                <QUD string = "Was ist mit der Ausgangsbasis?">
+                    <CON><SEGMENT> Als Ausgangsbasis für den Benziner-Stromer-Strang </SEGMENT></CON>
+                    <F><SEGMENT> dient der Achtstufenautomat, </SEGMENT></F>
+                    <QUD string = "Was ist mit dem Achtstufenautomat?">
+                        <RES><SEGMENT> nur </SEGMENT></RES>
+                        <F><SEGMENT> dass statt Wandler das so genannte Hybridmodul samt E-Maschine montiert wird. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string = "Automatik + Hybrid?">
+                    <QUD string = "Wie hängt Leistungfluss mit Automatik zusammen?">
+                        <QUD string = "Trennkupplungen + Leistungfluss bei Hybrid + Automatik?">
+                            <QUD string = "Was ist mit den Trennkupplungen?">
+                                <CON><SEGMENT> Trennkupplungen </SEGMENT></CON>
+                                <F><SEGMENT> sorgen für den von der Elektronik präferierten Leistungsfluss, </SEGMENT></F>
+                                <QUD string = "Wie wirken sich die Trennkupplungen auf den Fahrer aus?">
+                                    <RES><SEGMENT> und </SEGMENT></RES>
+                                    <CON><SEGMENT> der Fahrer </SEGMENT></CON>
+                                    <F><SEGMENT> merkt davon erfreulicherweise gar nichts. </SEGMENT></F>
+                                </QUD>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+                <QUD string = "Was ist mit den Übersetzungswechseln?">
+                    <CON><SEGMENT> Übersetzungswechsel </SEGMENT></CON>
+                    <F><SEGMENT> gelingen geschmeidig, </SEGMENT></F>
+                </QUD>
+            </QUD>
+            <QUD string = "Wie kann die Abstimmung beim Cayenne insgesamt berwertet werden?">
+                <CON><SEGMENT> die Integration der elektrischen Einheit </SEGMENT></CON>
+                <F><SEGMENT> ist geglückt. </SEGMENT></F>
+            </QUD>
+        </QUD>
+        <QUD string = "Was ist mit dem Infotainment im Cayenne?">
+            <QUD string = "Was ist das Problem mit dem Infotainment?">
+                <F><SEGMENT id="6.1.1"> Nicht ganz so geschmeidig </SEGMENT></F>
+                <RES><SEGMENT> dagegen </SEGMENT></RES>
+                <F><SEGMENT id="6.1.1"> gelingt auf Anhieb das Zurechtkommen mit dem Infotainment-Overkill. </SEGMENT></F>
+
+                <QUD string = "Welche Infotainment-Ausstattung hat der Cayenne?">
+                    <F>
+                        <SEGMENT id="6.2.1"> Riesiger Touchscreen hier, </SEGMENT>
+                        <SEGMENT id="6.2.2"> Infofläche dort. </SEGMENT>
+                        <SEGMENT id="6.2.3"> Knöpfchen-Salat auf dem Lenkrad, </SEGMENT>
+                        <SEGMENT id="6.2.4"> endlose Menü-Weiten auf diversen Displays. </SEGMENT>
+                    </F>
+                </QUD>
+
+                <QUD string = "Wie wirkt die Infotainment-Ausstattung auf verschiedene Zielgruppen?">
+                    <QUD string = "Wie kommen erfahrene Fahrer/Berufs-Autospezialist mit dem Infotainment-System zurecht?">
+                        <RES><SEGMENT> Selbst </SEGMENT></RES>
+                        <CON><SEGMENT> erfahrene Berufs-Autospezialisten </SEGMENT></CON><!-- Nicht-Kunde -->
+                        <F id="1"><SEGMENT> müssen sich </SEGMENT></F>
+                        <RES><SEGMENT> dann erst einmal </SEGMENT></RES>
+                        <F id="1"><SEGMENT> sammeln, </SEGMENT></F>
+                    </QUD>
+                    <QUD string = "Wie kommen Einsteiger/Endkunden mit dem Infotainment-System zurecht?">
+                        <CON id="6.3.1"><SEGMENT> der konventionelle Einsteiger </SEGMENT></CON><!-- Nicht-Experte -->
+                        <RES><SEGEMENT>alias</SEGEMENT></RES>
+                        <CON id="6.3.1"><SEGMENT> Endkunde </SEGMENT></CON>
+                        <F><SEGMENT> wird ein paar Tage brauchen, </SEGMENT></F>
+                        <QUD string = "Was wird der Endkunde nach ein paar Tagen können?">
+                            <RES><SEGMENT> dann </SEGMENT></RES>
+                            <F><SEGMENT id="6.2.1.2.1.1"> dürften die Handgriffe </SEGMENT></F>
+                            <RES><SEGMENT> allerdings </SEGMENT></RES>
+                            <F><SEGMENT id="6.2.1.2.1.1"> sitzen. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                    <QUD string = "Wie kommen Technik-Nerds mit dem Infotainment-Ausstattung zurecht?">
+                        <QUD string = "Was könnte den Technik-Nerds am Infotainment-System gefallen?">
+                            <CON><SEGMENT id="6.2.1.3.1"> Es gibt </SEGMENT></CON>
+                            <RES><SEGEMENT> ja auch </SEGEMENT></RES>
+                            <CON><SEGMENT id="6.2.1.3.1"> Technik-Nerds, </SEGMENT></CON>
+                            <CON><SEGMENT id="6.2.1.3.1"> denen </SEGMENT></CON>
+                            <F><SEGMENT> die hier gebotene Tastenlandschaft </SEGMENT></F>
+                            <CON><SEGMENT id="6.2.1.3.1"> ziemlich gut gefallen dürfte. </SEGMENT></CON>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string = "Was ist mit den Fahrmodi?">
+            <QUD string = "Wieviele Fahrmodi gibt es?">
+                <QUD string = "Wie hängen Fahrmodi und Glück der Kunden zusammen?">
+                    <RES><SEGMENT> Ob </SEGMENT></RES>
+                    <CON id="1"><SEGMENT> sie </SEGMENT></CON>
+                    <RES><SEGMENT> aber </SEGMENT></CON>
+                    <CON id="1"><SEGMENT> glücklich werden ob (angesichts/in Anbetracht) so vieler Fahrmodi, </SEGMENT></CON>
+                    <F><SEGMENT> bleibt abzuwarten. </SEGMENT></F>
+                </QUD>
+                <QUD string = "Welche Fahrmodi gibt es?">
+                    <QUD string = "Was kann man in Bezug auf die Fahrmodi tun?">
+                        <RES><SEGMENT> Schließlich </SEGMENT></RES>
+                        <F id="7.2.1"><SEGMENT> kann </SEGMENT></F>
+                        <CON><SEGMENT> man </SEGMENT></CON>
+                        <F id="7.2.1"><SEGMENT> wählen, </SEGMENT></F>
+                        <QUD string = "Was kann man in Bezug auf das Laden des Akkus wählen?">
+                            <RES><SEGMENT>ob</SEGMENT></RES>
+                            <F><SEGMENT> der Verbrenner den Akku nachladen soll, </SEGMENT></F>
+                        </QUD>
+                        <QUD string = "Was kan man in Bezug auf die Sportlichkeit wählen?">
+                            <CON><SEGMENT> (ob) man </SEGMENT></CON>
+                            <F><SEGMENT id="7.2.2.1"> sportlich </SEGMENT></F>
+                            <RES><SEGMENT> oder </SEGMENT></RES>
+                            <F><SEGMENT id="7.2.2.2"> sehr sportlich unterwegs sein will, </SEGMENT></F>
+                        </QUD>
+                        <QUD string = "Was kann man in Bezug auf die Automatik wählen?">
+                            <RES><SEGMENT> oder </SEGMENT></RES>
+                            <RES><SEGMENT> (ob man) einfach </SEGMENT></RES>
+                            <F><SEGMENT> alles der Automatik überlassen möchte. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string = "Was ist mit dem Fahrgefühl beim Cayenne?">
+            <QUD string = "Was gibt es für drahtig angehauchte Fahrer?">
+                <CON><SEGMENT> Für drahtig angehauchte Fahrer </SEGMENT></CON>
+                <F><SEGMENT id="8.1.1"> sind </SEGMENT></F>
+                <CON><SEGMENT> beim Cayenne Turbo S E-Hybrid </SEGMENT></CON>
+                <RES><SEGMENT> jedenfalls </SEGMENT></RES>
+                <F>
+                    <SEGMENT id="8.1.2"> Keramikscheiben (serienmäßig), </SEGMENT>
+                </F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F>
+                    <SEGMENT id="8.1.3"> wankausgleichende Stabilisatoren serienmäßig, </SEGMENT>
+                </F>
+                <QUD string = "Was ermöglichen die Keramikscheiben und die Stabilisatoren?">
+                    <RES><SEGMENT> damit </SEGMENT></RES>
+                    <F><SEGMENT id="8.1.1.1"> man 250 Sachen in Autobahnkurven ohne schwitzige Hände absolvieren </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="8.1.1.2">
+                        <SEGMENT> die Masse </SEGMENT>
+                        <SEGMENT> beliebig oft </SEGMENT>
+                        <SEGMENT> standfest herunterbremsen kann.</SEGMENT>
+                    </F>
+                </QUD>
+            </QUD>
+            <QUD string = "Was ist mit der aktiven Hinterachs-Quersperre?">
+                <CON><SEGMENT> Die aktive Hinterachs-Quersperre </SEGMENT></CON>
+                <F id="1"><SEGMENT> serviert Porsche </SEGMENT></F>
+                <RES><SEGMENT> auch </SEGMENT></RES>
+                <F id="1"><SEGMENT> frei Haus </SEGMENT></F>
+                <QUD string = "Was ermöglicht die Hinterachs-Quersperre?">
+                    <RES><SEGMENT> - dann </SEGMENT></RES>
+                    <CON><SEGMENT id="8.2.1.1"> steht </SEGMENT></CON>
+                    <F><SEGMENT> auch dem Einsatz auf dem Track </SEGMENT> </F>
+                    <CON><SEGMENT id="8.2.1.1"> nichts mehr im Wege. </SEGMENT></CON>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string = "Was ist mit der Federung des Cayenne?">
+            <QUD string = "Auf was ist der Cayenne unterwegs?">
+                <F id="9.1">
+                    <NAI><SEGMENT> So ganz nebenbei </SEGMENT></NAI>
+                    <SEGMENT> ist </SEGMENT>
+                </F>
+                <CON><SEGMENT> der Spitzen-Cayenne </SEGMENT></CON>
+                <F><SEGMENT id="9.1"> auf ziemlich kommod federnden Luftbälgen unterwegs, </SEGMENT></F>
+            </QUD>
+        </QUD>
+
+        <QUD string = "Was ist mit dem Platz/Stauraum (im Cayenne)?">
+            <F><SEGMENT id="10.1"> bietet viel Platz für Mensch </SEGMENT></F>
+            <RES><SEGMENT> und </SEGMENT></RES>
+            <F><SEGMENT id="10.1"> (bietet viel Platz für) Gepäck </SEGMENT></F>
+
+            <QUD string = "Wie viel Platz hat der Nicht-Coupe/normale Cayenne maximal?">
+                <F><SEGMENT> (maximal 1.605 Liter </SEGMENT></F>
+            </QUD>
+
+            <QUD string = "Wie viel Platz hat der Cayenne Coupe maximal?">
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <CON>
+                    <NAI id="1"><SEGMENT> selbst (sogar) </SEGMENT></NAI>
+                    <SEGMENT> beim Coupé </SEGMENT>
+                </CON>
+                <F>
+                    <NAI id="1"><SEGMENT> noch immer </SEGMENT></NAI>
+                    <SEGMENT>  1.440 Liter) </SEGMENT>
+                </F>
+            </QUD>
+
+            <QUD string = "Wie groß ist die mögliche Anhängelast?">
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F><SEGMENT id="11.1"> kann für einen Hybriden propere drei Tonnen </SEGMENT></F>
+                <CON><SEGMENT> Anhängelast </SEGMENT></CON>
+                <F><SEGMENT id="11.1"> schleppen. </SEGMENT></F>
+            </QUD>
+        </QUD>
+
+        
+    </QUD>
+</ROOT>

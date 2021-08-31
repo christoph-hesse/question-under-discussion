@@ -1,0 +1,321 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE ROOT SYSTEM "qud1.dtd">
+<ROOT>
+    <QUD string = "Was ist mit dem Ryker?">
+
+        <!-- DT = Eindruck -->
+
+        <QUD string = "Was ist mit dem allgemeinen Eindruck?">
+
+            <QUD string = "Was tut der erste Eindruck?">
+                <CON><SEGMENT> Der erste Eindruck </SEGMENT></CON>
+                <F><SEGMENT> prägt zuweilen das ganze künftige Miteinander. </SEGMENT></F>
+            </QUD>
+
+            <QUD string="Bremspedal statt -hebel am Lenkrad?"><!-- erstes Anzeichen, dass die Ryker eher wie ein Auto statt wie ein Motorrad fährt -->
+                <FEEDER><SEGMENT> Euer Merkwürden, da fehlt doch was? </SEGMENT></FEEDER>
+                <QUD string = "Was fehlt?">
+                    <F id="1"><SEGMENT> Nein, wir meinen nicht das linke Hinterrad, </SEGMENT></F>
+    
+                    <QUD string = "Warum fehlt das linke Hinterrad eben nicht?">
+                        <CON><SEGMENT> der Ryker </SEGMENT></CON>
+                        <F id="1"><SEGMENT> wird von Can-Am als Dreirad verkauft, </SEGMENT></F>
+                        <F id="2"><SEGMENT> das muss so sein. </SEGMENT></F>
+                    </QUD>
+
+                    <F id="2"><SEGMENT> Vermisst wird der Handhebel am Lenker vor dem Gasdrehgriff. </SEGMENT></F> <!-- Verb im Fokus -->
+
+                    <QUD string = "Was erwarten Zweiradfahrer?">
+                        <QUD string = "Was möchten Zweiradfahrer?">
+                            <CON><SEGMENT> Wer Zweiräder fährt, </SEGMENT></CON>
+                            <F><SEGMENT> möchte spontan daran ziehen, </SEGMENT></F>
+        
+                            <QUD string = "Was macht der (Brems)Hebel?">
+                                <F><SEGMENT> um die Fuhre zum Stehen zu bringen, </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+
+                        <QUD string = "Stattdessen passiert was?">
+                            <F><SEGMENT> greift </SEGMENT></F>
+                            <RES><SEGMENT> aber </SEGMENT></RES>
+                            <F><SEGMENT> ins Leere. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+
+                <QUD string = "Was gibt es anstelle eines Bremshebels?">
+                    <F id="1"><SEGMENT>  Stattdessen gibt es ein Pedal, </SEGMENT></F>
+                    <QUD string="Wie bedient man das Pedal?">
+                        <F id="1"><SEGMENT> auf </SEGMENT></F>
+                        <CON><SEGMENT> das</SEGMENT></CON>
+                        <F id="1"><SEGMENT> der rechte Fuß trampeln muss, </SEGMENT></F>
+                        <F><SEGMENT> um Wirkung zu erzielen, </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Was gibt es zusätzlich zu einem Bremspedal?"><!-- das es eben keine Alternative zum Pedal gibt -->
+                        <RES><SEGMENT> und </SEGMENT></RES><!-- "und keine zusätzliche Handbremse/Bremshebel am Lenkrad?" -->
+                        <F id="2"><SEGMENT> sonst nichts. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+                <QUD string = "Worauf weist die Entscheidung, ein Bremspedal statt -hebel zu haben, hin?">
+                    <CON><SEGMENT> Das </SEGMENT></CON>
+                    <F id="1"><SEGMENT> weist </SEGMENT></F>
+                    <RES><SEGMENT> schon </SEGMENT></RES>
+                    <F id="1"><SEGMENT> auf die Zielgruppe hin, </SEGMENT></F>
+                    <QUD string = "Was ist mit der Zielgruppe?">
+                        <F><SEGMENT> der Ryker möchte von Autofahrern gekauft werden, </SEGMENT></F>
+                        <QUD string="Was für Autofahrer?">
+                            <CON><SEGMENT> die</SEGMENT></CON>
+                            <F><SEGMENT> ihn mit ihrem Führerschein fahren dürfen, </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+    
+                <QUD string = "Wie wird die fehlende Alternative zum Bremspedal bewertet?">
+                    <F id="1"><SEGMENT> eine Handbremse zusätzlich wäre uns </SEGMENT></F>
+                    <RES><SEGMENT> trotzdem </SEGMENT></RES>
+                    <F id="1"><SEGMENT> lieber. </SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Was ist mit dem Kipphebel?">
+                <F id="1"><SEGMENT> Da nützt </SEGMENT></F>
+                <RES><SEGMENT> auch </SEGMENT></RES>
+                <F id="1"><SEGMENT> der Kipphebel nichts, </SEGMENT></F>
+                <QUD string="Was macht der Kipphebel?">
+                    <CON><SEGMENT> der</SEGMENT></CON>
+                    <F id="1"><SEGMENT> im Stand dafür sorgt, </SEGMENT></F>
+                    <RES><SEGMENT> dass </SEGMENT></RES>
+                    <F id="1"><SEGMENT> das Dreirad nicht davonrollt. </SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Fahrweise -->
+
+        <QUD string = "Was ist mit der Fahrweise?">
+
+            <QUD string = "Mit welchem Fahrzeug ist der Ryker verwandt?">
+                <CON><SEGMENT> Der Ryker </SEGMENT></CON>
+                <F><SEGMENT> ist der kleine Bruder des Spyder, </SEGMENT></F>
+
+                <QUD string = "Was ist mit dem Spyder?">
+                    <CON><SEGMENT> der </SEGMENT></CON>
+                    <F id="1"><SEGMENT> seit einem Jahrzehnt im Angebot, </SEGMENT></F>
+                    <RES><SEGMENT> aber </SEGMENT></RES>
+                    <F id="2"><SEGMENT> ein seltener Gast auf unseren Straßen ist. </SEGMENT></F>
+                </QUD>
+
+                <QUD string = "Mit was haben Ryker und Spyder Ähnlichkeit?">
+                    <F><SEGMENT> Beide sehen aus wie ein amputiertes Quad. </SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <FEEDER><SEGMENT> Wie fährt sich so etwas? </SEGMENT></FEEDER>
+            <QUD string = "Wie fährt sich so ein Fahrzeug?">
+                <F><SEGMENT> Seltsam. </SEGMENT></F>
+
+                <QUD string = "Woran merkt man das zum Beispiel?">
+                    <CON><SEGMENT> Das </SEGMENT></CON>
+                    <F><SEGMENT>geht </SEGMENT></F>
+                    <RES><SEGMENT> schon </SEGMENT></RES>
+                    <F><SEGMENT> mit dem Startritual los.  </SEGMENT></F>
+
+                    <QUD string = "Wie startet man die Ryker?">
+                        <F id="1"><SEGMENT> Plastikhülse mit Chip auf einen Knubbel unter dem Tank stecken, </SEGMENT></F>
+                        <F id="2"><SEGMENT>  Gasgriff nach vorn drehen aktiviert den Anlasser. </SEGMENT></F>
+                        <F id="3"><SEGMENT>  Der linke Fuß legt am Schalthebel unter Krachen den Rückwärtsgang ein, </SEGMENT></F>
+                        <F id="4"><SEGMENT> die automatische Kupplung antwortet beim Anfahren mit einem deftigen Schlag. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Fahrgefühl -->
+
+        <QUD string = "Was ist mit dem Fahrgefühl?">
+
+            <QUD string = "Nachteile?">
+
+                <QUD string = "Was will der Kollege Motorrardfahrer?">
+                    <CON><SEGMENT> Der Kollege Motorradfahrer </SEGMENT></CON>
+                    <F><SEGMENT>  will sich gar nicht erst daraufsetzen, </SEGMENT></F>
+
+                    <QUD string = "Was ist der Grund dafür?">
+                        <CON><SEGMENT> er </SEGMENT></CON>
+                        <F id="1-2"><SEGMENT> murmelt etwas von Schwachsinn,</SEGMENT></F>
+                        <F id="1"><SEGMENT> das Ding kombiniere die Nachteile von Zwei- </SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id="2"><SEGMENT> Vierrad: </SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+                <F id="1"><SEGMENT> Stillstand im Stau,  </SEGMENT></F>
+                <F id="2"><SEGMENT> kein Parken am Fußweg, </SEGMENT></F>
+                <F id="3a"><SEGMENT> kein Schutz vor Wind, </SEGMENT></F>
+                <F id="3b"><SEGMENT> Regen </SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id="3c"><SEGMENT> rüpelhaften Autofahrern, </SEGMENT></F>
+                <F id="4"><SEGMENT> Helmpflicht. </SEGMENT></F>
+                <RES><SEGMENT> Und </SEGMENT></RES>
+                <RES><SEGMENT> vor allem</SEGMENT></RES>
+                <F id="5"><SEGMENT> fehlt ihm wohl, </SEGMENT></F>
+                <QUD string="Was fehlt dem Kollegen Motorrardfahrer am meisten?">
+                    <RES><SEGMENT> dass </SEGMENT></RES>
+                    <CON><SEGMENT> er </SEGMENT></CON>
+                    <F id="5"><SEGMENT> sich nicht in die Kurve legen kann. </SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Vorteile?">
+
+                <QUD string  = "Was tut der Kollege, der sich für alles begeistern kann?">
+                    <CON><SEGMENT> Der Kollege, der sich für fast alles begeistern kann, </SEGMENT></CON>
+                    <F id="1"><SEGMENT> findet </SEGMENT></F>
+                    <RES><SEGMENT> dagegen </SEGMENT></RES>
+                    <F id="1"><SEGMENT> sein Gutes: </SEGMENT></F>
+                </QUD>
+
+                <F id="1a"><SEGMENT> Der Fahrer sitzt tief </SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id="1b"><SEGMENT> bequem </SEGMENT></F>
+                <F id="2"><SEGMENT> im Freien, </SEGMENT></F>
+                <F id="3"><SEGMENT> lenkt mit einer Stange wie auf dem Motorrad </SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id="4"><SEGMENT>  kann die Füße auf den Rasten lassen. </SEGMENT></F>
+
+                <QUD string = "Was ist mit dem Parken?">
+                    <F id="1"><SEGMENT> Zwischen den zwei Schranken der hauseigenen Tiefgarage passt der Ryker gerade so durch, </SEGMENT></F>
+                    <F id="2"><SEGMENT> das spart Zeit. </SEGMENT></F>
+
+                    <QUD string = "Was ist mit der Parkscheibe?">
+                        <RES><SEGMENT> Dass </SEGMENT></RES>
+                        <F id="1"><SEGMENT> keiner weiß, wohin mit der Parkscheibe, </SEGMENT></F>
+                        <F id="2"><SEGMENT> geschenkt –</SEGMENT></F>
+                        <F id="3"><SEGMENT> wir wollen ja fahren </SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id="5"><SEGMENT> nicht stehen.  </SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+                <QUD string = "Nummernschild?">
+                    <RES><SEGMENT> Ob </SEGMENT></RES>
+                    <F id="1"><SEGMENT> es ein Vorteil ist, </SEGMENT></F>
+                    <RES><SEGMENT> wenn </SEGMENT></RES>
+                    <F id="2"><SEGMENT> vorn kein Nummernschild hängt, </SEGMENT></F>
+                    <F id="3"><SEGMENT> sei einmal dahingestellt. </SEGMENT></F>
+                </QUD>
+            </QUD>
+            
+
+            <QUD string = "Wie fährt sich die Ryker in Kurven?">
+                <QUD string = "Was ist mit der Seitenneigung?">
+                    <RES><SEGMENT> Und </SEGMENT></RES>
+                    <CON><SEGMENT> die Seitenneigung  </SEGMENT></CON>
+                    <F id="1"><SEGMENT> gibt es durchaus, </SEGMENT></F>
+                    <F id="2"><SEGMENT> nur halt aus der Sicht harter Motorradler in die falsche Richtung. </SEGMENT></F>
+                </QUD>
+
+                <CON><SEGMENT>  In der Kurve </SEGMENT></CON>
+                <F><SEGMENT> hebt sich das innere Vorderrad weit aus der Federung – </SEGMENT></F>
+
+                <QUD string = "Besonderheit/worauf sollte man achten?">
+                    <RES><SEGMENT> Obacht, </SEGMENT></RES>
+                    <F><SEGMENT> gleich landet das Insekt auf dem Rücken, </SEGMENT></F>
+                    <QUD string="Warum könnte man in der Kurve umfallen?">
+                        <F><SEGMENT> es fehlt ja das äußere Hinterrad, </SEGMENT></F>
+                        <QUD string="Was macht ein zweites (äußeres) Hinterrad?">
+                            <F><SEGMENT> an dem es sich abstützen kann. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+
+                    <QUD string = "Wozu führt die Kurvenneigung bei der Ryker?"><!-- counterfactual -->
+                        <CON><SEGMENT> Es </SEGMENT></CON>
+                        <F><SEGMENT> kippt aber nicht. </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Wie fühlt sich die Kurvenneigung bei der Ryker an?">
+                        <F><SEGMENT> Gefühlt ist das spektakulärer als für den Zuschauer, </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Was ist wegen der Kurvenneigung bei der Ryker ratsam?">
+                        <F><SEGMENT> der Anfänger ist stets etwas langsamer unterwegs als gedacht, </SEGMENT></F>
+                        <QUD string = "Was hat das langsame (Kurven)Fahren zur Folge?">
+                            <F><SEGMENT> das kommt der Sicherheit zugute. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+
+                <QUD string = "Wie wirkt der Ryker?/Eindruck?/Aussehen?">
+                    <CON><SEGMENT> Der Eindruck </SEGMENT></CON>
+                    <F id="1"><SEGMENT> liegt irgendwo zwischen Schneemobil, </SEGMENT></F>
+                    <F id="2"><SEGMENT> Motorrad mit Seitenwagen </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="3"><SEGMENT> starkem Quad, </SEGMENT></F>
+                    <QUD string="Was unterscheidet den Ryker vom Quad?">
+                         <CON id="1"><SEGMENT> der Ryker </SEGMENT></CON>
+                         <F id="3"><SEGMENT> ist </SEGMENT></F>
+                         <RES><SEGMENT> aber </SEGMENT></RES>
+                         <F id="3"><SEGMENT> (vorn) breiter </SEGMENT></F>
+                         <RES><SEGMENT> und </SEGMENT></RES>
+                         <F id="4"><SEGMENT> länger </SEGMENT></F>
+                         <CON id="2"><SEGMENT> als jenes.</SEGMENT></CON><!-- bezogen auf "Quad" -->
+                    </QUD>
+                </QUD>
+     
+                <QUD string = "Wie verhält sich der Ryker beim schnellen Kurvenfahren?">
+                    <F id="1"><SEGMENT> Mit der Zeit wird der Pilot mutiger, </SEGMENT></F>
+                    <RES><SEGMENT> aber </SEGMENT></RES>
+                    <RES><SEGMENT> selbst </SEGMENT></RES>
+                    <F id="2"><SEGMENT> in der flott angefahrenen Haarnadel </SEGMENT></F>
+                    <F id="3"><SEGMENT> ist der Reifen kaum dazu zu bewegen, den Bodenkontakt zu verlieren, </SEGMENT></F>
+                    <QUD string="Warum verliert man kaum den Bodenkontakt?">
+                        <F><SEGMENT> vorher schiebt das Dreirad über die Vorderräder nach außen. </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Was lässt sich durch Übung erreichen?">
+                        <CON><SEGMENT> Mit etwas Übung </SEGMENT></CON><!-- "Mit der Zeit wird der Pilot mutiger" -->
+                        <F><SEGMENT> lassen sich ansehnliche Kurvengeschwindigkeiten erreichen. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+     
+                 <QUD string = "Was muss der Fahrer beim Kurvenfahren machen?"><!-- kein Sarkasmus in der QUD (Worauf freut sich der Fahrer?) -->
+                    <F id="1"><SEGMENT> Derweilen freut sich </SEGMENT></F>
+                    <CON><SEGMENT> der Fahrer </SEGMENT></CON>
+                    <F id="2"><SEGMENT> über sportliche Ertüchtigung, </SEGMENT></F>
+                    <F id="2a"><SEGMENT> stete Verrenkung in der Hüfte hält geschmeidig, </SEGMENT></F>
+                    <F id="2b"><SEGMENT> der Gegenzug im Lenker kräftigt den Oberarm, </SEGMENT></F>
+                 </QUD>
+            </QUD>
+
+            <QUD string = "Wie fährt sich die Ryker auf gerader Strecke?">
+                <F><SEGMENT> das nervöse Zappeln in Geradeausfahrt hält ihn wach. </SEGMENT></F>
+            </QUD>
+            
+            <QUD string = "Was ist mit hohen Geschwindikgeiten auf der Autobahn?">
+                <CON><SEGMENT> Hohe Geschwindigkeiten auf der Autobahn </SEGMENT></CON>
+                <F id="1"><SEGMENT> zählen </SEGMENT></F>
+                <RES><SEGMENT> darob </SEGMENT></RES><!-- "deswegen" -->
+                <F id="1"><SEGMENT> nicht zu den beliebtesten Übungen. </SEGMENT></F>
+            </QUD>
+
+            <QUD string = "Was lernt der Dreiradfahrer rasch?">
+                <RES><SEGMENT> Und </SEGMENT></RES>
+                <RES><SEGMENT> noch </SEGMENT></RES>
+                <CON><SEGMENT> eines lernt der Dreiradfahrer rasch:  </SEGMENT></CON>
+                <F><SEGMENT> Durch Schlaglöcher mit einem der weich gefederten Vorderräder zu fahren, </SEGMENT></F>
+
+                <QUD string = "Was ist der Grund dafür?">
+                    <F id="1"><SEGMENT>  das dicke Rad hinten in der Mitte trifft </SEGMENT></F>
+                    <CON><SEGMENT> sie </SEGMENT></CON>
+                    <RES><SEGMENT> sonst </SEGMENT></RES>
+                    <F id="1"><SEGMENT> ganz gewiss </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="2"><SEGMENT> schickt derbe Schläge ins Kreuz. </SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+    </QUD>
+</ROOT>

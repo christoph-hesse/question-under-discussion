@@ -1,0 +1,449 @@
+
+<!-- Einleitung -->
+<QUD string = "Was hat Volkswagen gemacht?">
+    <!-- DT = Runderneuerung -->
+    <F><SEGMENT> Volkswagen hat seinem kleinsten Eleketroauto eine Runderneuerung gegönnt.</SEGMENT></F>
+    <QUD string = "Welche Chancen hat der neue e-Up (Was könnte dem e-Up gelingen)?">
+        <F>
+            <SEGMENT> Dem e-Up könnte </SEGMENT>
+            <NAI><SEGMENT> jetzt zügig </SEGMENT></NAI>
+            <SEGMENT> der Durchbruch gelingen </SEGMENT>
+        </F>
+        <QUD string = "Wodurch kann der Durchbruch eingeschränkt werden / Was spricht dagegen?">
+            <F><SEGMENT> - zwei kleine Unsicherheiten gibt es </SEGMENT></F>
+            <RES><SEGMENT> dabei </SEGMENT></RES>
+            <RES><SEGMENT> aber </SEGMENT></RES>
+            <RES><SEGMENT> noch. </SEGMENT></RES>
+            
+        </QUD>
+    </QUD>
+</QUD>
+
+<QUD string = "Was ist mit dem Titel des alten Up?">
+    <!-- DT = Auffälligkeit -->
+    <F><SEGMENT> Der Volkswagen Up hatte bisher schon gute Chancen auf den Titel "unauffälligstes Elektorauto auf dem Markt." </SEGMENT></F>
+<QUD String = "Was ist mit dem Antrieb?">
+    <F id="1"><SEGMENT> In der praktischen Außenhaut </SEGMENT></F>
+    <CON>
+        <SEGMENT> des 3,60 kurzen</SEGMENT>
+        <SEGMENT>Fünftürers</SEGMENT>
+    </CON>
+    <F id="1"><SEGMENT> war der Antrieb erstmal kaum zu erkennen. </SEGMENT></F>
+</QUD>
+
+<QUD string = "Wo war der e-Up stattdessen auffällig?">
+    <CON>
+        <SEGMENT> Dafür </SEGMENT>
+        <SEGMENT> allerdings </SEGMENT>
+    </CON>
+    <F><SEGMENT> bei zwei anderen Maßstäben für Kleinstwagenkäufer: </SEGMENT></F>
+    <QUD string = "Bei welchen beiden Maßstäben war der alte Up stattdessen auffällig?">
+        <F><SEGMENT> rund zweieinhalbmal so teuer wie der vergleichbare Benziner </SEGMENT></F>
+        <RES><SEGMENT> und </SEGMENT></RES>
+        <QUD>
+            <F><SEGMENT> nach maximal 160 Kilometern hatte der 18,7-kWh-Akku seinen Saft aufgebraucht. </SEGMENT></F>
+            <QUD string = "Wann war der Akku des alten Up früher aufgebraucht?">
+                <F id="1"><SEGMENT> Im Winter (ist der Akku), </SEGMENT></F>
+                    <F id="1.1"><SEGMENT> bei schneller Fahrt </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="1.2"><SEGMENT> vielen Verbrauchern in Betrieb </SEGMENT></F>
+                <F id="1"><SEGMENT> auch deutlich früher (aufgebraucht). </SEGMENT></F>
+            </QUD>
+        </QUD>
+        
+        
+        <QUD string = "Was haben die Wolfsburger gemacht?" ("Was haben sich die Wolfsburger zu Herzen genommen? / Was haben die Wolfsbruger gegen die schlechten Werte (Preis und Akkuleistung) getan?")>
+            <!-- DT = Preis: "Warum haben sie das gemacht?" weil das Preis-Leistungsverhältnis schlapp (schlecht) war --> 
+            <CON><SEGMENT> Das <NAI>schlappe</NAI> Preis-Leistungsverhältnis </SEGMENT></CON>
+            <F><SEGMENT> haben sich die Wolfsburger zu Herzen genommen. </SEGMENT></F>
+            <QUD string = "Was hat Volkswagen in Bezug auf den Preis verändert?">
+                <CON><SEGMENT> Jetzt </SEGMENT></CON>
+                <F>
+                    <SEGMENT> ist der Grundpreis </SEGMENT>
+                    <SEGMENT> gleich um fast 5.000 </SEGMENT>
+                    <SEGMENT> auf 21.975 Euro gesunken, </SEGMENT>
+                </F>
+                <QUD string = "Wie wäre der Preis mit allen Förderungen?">
+                    <CON><SEGMENT> mit allen Förderungen sind das real </SEGMENT></CON>
+                    <F><SEGMENT> weniger als 18.000 Euro. </SEGMENT></F>
+                </QUD>
+            </QUD>
+            <QUD string = "Was hat Volkswagen in Bezug auf die Batterie verändert?">
+                 <!-- DT = Baterie -->
+                <QUD string = "Was gibt es in Bezug auf die Batterie?">
+                    <F><SEGMENT> Und dafür gibt es noch eine deutlich vergrößerte Batterie: </SEGMENT></F>
+                    <QUD string = "Wie ist die Reichweite der Batterie?">
+                        <F id="1"><SEGMENT> Der 32,3-kWh-Akku </SEGMENT></F>
+                        <CON>SEGMENT> in gleichem Bauraum </SEGMENT></CON>
+                        <F id="1"><SEGMENT> erreicht nach Norm nun 260 Kilometer Reichweite. </SEGMENT></F>
+                        <QUD string = "Wie war die Reichweite bei Testfahrten?">
+                            <QUD string = "Wie anspruchsvoll war die Testfahrten?">
+                                <QUD string = "Was belegen (tun) ausgiebige/anspruchsvolle Testfahrten?">
+                                    <CON  id="1"><SEGMENT> Ausgiebige Fahrten (belegen) </SEGMENT></CON>
+                                    <CON id="1"><SEGMENT> (Fahrten) in und rund um Mailand (Stadt- und Landstraße und Autobahn) belegen: </SEGMENT></CON>
+                                    <F><SEGMENT> Es geht sogar noch mehr (als 260 km Reichweite) </SEGMENT></F>
+                                    <CON id="1"><SEGMENT> - ganz ohne unrealistische Stromspar-Sperenzchen.</SEGMENT></CON>
+                                </QUD>
+                            </QUD>
+                        </QUD>
+
+                        <QUD string = "Wie viel kWh verbraucht der Akku des e-Up?/Wie war die Reichweite bei Testfahrten?">
+                            <QUD string = "Wie viel kWh verbraucht der Akku in der Stadt und auf der Landstraße?">
+                                <CON>
+                                    <SEGMENT> Im </SEGMENT>
+                                    <NAI><SEGMENT> durchaus zügigen </SEGMENT></NAI>
+                                    <SEGMENT> Stadt- und Landstraßenbetrieb </SEGMENT>
+                                </CON>
+                                <F>
+                                    <SEGMENT> hat der e-Up </SEGMENT>
+                                    <NAI><SEGMENT> gerade einmal </SEGMENT></NAI>
+                                    <SEGMENT> 9,5 kWh verbraucht. </SEGMENT>
+                                </F>
+                                <QUD string = "Unter welcher Bedingung ist der Akkuverbrauch im Stadt- und Landstraßenbetrieb 9,5 kWh?">
+                                    <F>
+                                        <SEGMENT> wenn auch ohne Einsatz der </SEGMENT>
+                                        <NAI><SEGMENT> serienmäßigen </SEGMENT></NAI>
+                                        <SEGMENT> Klimaautomatik. </SEGMENT>
+                                    </F>
+                                </QUD>
+                                <QUD string = "Welche Reichweite in Kilometern ist bei diesem Verbrauch (von 9,5 kWh) realistisch?">
+                                    <F><SEGMENT> Reichweiten von rund 300 Kilometern </SEGMENT></F>
+                                    <CON>
+                                        <SEGMENT> sind in diesem Umfeld </SEGMENT>
+                                        <NAI><SEGMENT> dennoch durchaus </SEGMENT></NAI>
+                                        <SEGMENT> realistisch. </SEGMENT>
+                                    </CON>
+                                </QUD>
+                            </QUD>
+                            <QUD string = "Wie viel kWh verbraucht der Akku bei der Autobahnfahrt?">
+                                <CON>
+                                    <SEGMENT> Erst bei </SEGMENT>
+                                    <NAI><SEGMENT> flotter </SEGMENT></NAI>
+                                    <SEGMENT> Autobahnfahrt </SEGMENT>
+                                    <SEGMENT> - bei 130 Stundenkilometern wird abgeregelt -  </SEGMENT>
+                                </CON>
+                                <F><SEGMENT> gehen die Verbrauchswerte Richtung 18 kWh. </SEGMENT></F>
+                                <QUD string = "Was ist das Verhältnis zwischen e-Up und Autobahn?">
+                                    <QUD string = "Was ist die Domäne des e-Up?">
+                                        <RES><SEGMENT> Aber </SEGMENT></RES>
+                                        <F><SEGMENT> das ist ja nicht die Domäne des Kleinen. </SEGMENT></F>
+                                    </QUD>
+                                </QUD>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                    
+                </QUD>
+            </QUD>
+        </QUD>
+    </QUD>
+</QUD>
+</QUD>
+</QUD>
+<QUD string = "Welche weiteren Merkmale hat der neue e-Up?/Welche technischen Details/Merkmale">
+<QUD string = "Wie lässt er sich charakterisieren?">
+<!-- DT = Beschleunigung -->
+    <QUD string = "Welcher Ausdruck ist in Bezug auf den e-Up ausnahmsweise mal erlaubt?">
+        <F>
+            <SEGMENT> Der </SEGMENT>
+            <NAI><SEGMENT> schwer ausgelatschte </SEGMENT></NAI>
+            <SEGMENT> Ausdruck "Stadtflitzer" </SEGMENT>
+        </F>
+        <CON><SEGMENT> ist beim e-Up ausnahmsweise mal erlaubt. </SEGMENT></CON>
+    </QUD>
+<QUD string = "Warum ist der Ausdruck 'Stadtflitzer' beim e-Up erlaubt?">
+    <QUD string = "Was ist mit der Beschleunigung des e-Up?">
+        <QUD string = "Was verblüfft (an der Beschleunigung des) am e-Up?">
+            <F id="1">
+                <SEGMENT> Dank 212 Newtonmeter Drehmoment aus dem Stand (verblüfft jeden/allgemein (an der Ampel)) </SEGMENT>
+                <SEGMENT> verblüfft der e-Up </SEGMENT>
+            </F>
+            <RES><SEGMENT> sogar </SEGMENT></RES>
+            <F id="1"><SEGMENT> die Pizza-Boten auf ihrem Vespas an der Ampel. </SEGMENT></F>
+        </QUD>
+        <QUD string = "Wie schnell beschleunigt der e-Up?">
+            <RES><SEGMENT> Und </SEGMENT></RES>
+            <CON>
+                <SEGMENT> das 83-PS-Aggregat schwingt den Up </SEGMENT>
+                <NAI><SEGMENT> auch außerhalb der City </SEGMENT></NAI>
+            </CON>
+            <F><SEGMENT> in 11,9 Sekunden von null auf 100 km/h. </SEGMENT></F>
+        </QUD>
+        <QUD string = "Wie zeigt sich die Kraft des Up?">
+            <F><SEGMENT> Es geht also zügig voran, </SEGMENT></F>
+            <!-- DT = Kraft -->
+            <QUD string = "Um was ringen die Hinterreifen bei allzu beherztem Tritt auf das Strompedal?">
+                <CON><SEGMENT> bei allzu beherztem Tritt auf das Strompedal in der Kurve </SEGMENT></CON>
+                <F id="1"><SEGMENT> ringen </SEGMENT></F>
+                <RES><SEGMENT> sogar </SEGMENT></RES>
+                <F id="1"><SEGMENT> die Hinterreifen (auch) mal hörbar um Fahrbahnkontakt. </SEGMENT></F>
+            <QUD string = "Was sorgt trotzdem für sichere Straßenlage?">
+                <QUD string = "Wodurch liegt der e-Up sicher auf der Straße?">
+                    <RES><SEGMENT> Aber </SEGMENT></RES>
+                    <F id="1"><SEGMENT> dank <NAI>straffem</NAI> Fahrwerk </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="2"><SEGMENT> der <NAI>üblichen</NAI> Elektronik-Helferlein </SEGMENT></F>
+                    <CON><SEGMENT> liegt der e-Up immer sicher auf der Straße. </SEGMENT></CON>
+                </QUD>
+            </QUD>
+            <QUD string = "Was ist mit den Bremsen des e-Up?">
+                <!-- DT = Bremsen -->
+                    <QUD string = "Was tun die Bremsen für das gute Fahrgefühl?">
+                        <CON><SEGMENT> Beim guten Fahrgefühl hilft auch </SEGMENT></CON>
+                        <F><SEGMENT> das weniger synthetische Bremsen als bisher. </SEGMENT></F>
+                    </QUD>
+                    <QUD string = "Was ist mit der Rekuperation?">
+                        <F><SEGMENT> Die Rekuperation lässt sich in vier Stufen einstellen, </SEGMENT></F>
+                    </QUD>
+                    <QUD string = "Wie kann der e-Up nicht verzögert/gebremst werden?">
+                        <F><SEGMENT> allein mit dem Strompedal </SEGMENT></F>
+                        <CON id="1"><SEGMENT> ist der Up </SEGMENT></CON>
+                        <RES><SEGMENT> aber </SEGMENT></RES>
+                        <CON id="2"><SEGMENT> nicht zu verzögern. </SEGMENT></CON>
+                    </QUD>
+                </QUD>
+        </QUD>
+    </QUD>
+</QUD>
+</QUD>
+
+<QUD string = "Wie sollte mit der Batterie umgegangen werden? (Verbrauch)">
+<!-- DT = Batterie -->
+<QUD string = "Wie kann die Batterie geschont werden?">
+    <RES><SEGMENT> Ohnehin </SEGMENT></RES>
+    <F id="1">
+        <SEGMENT> ist die </SEGMENT>
+        <NAI>
+            <SEGMENT> schlichte </SEGMENT>
+        </NAI>
+        <SEGMENT> Wahl des D-Programms in der Automatik </SEGMENT>
+    </F>
+    <CON><SEGMENT> die beste Idee -  </SEGMENT></CON>
+    <RES><SEGMENT> und </SEGMENT></RES>
+    <F id="2"><SEGMENT> vorausschauende Fahrweise. </SEGMENT></F>
+    <QUD string = "Was schont die Batterie nicht?">
+        <CON><SEGMENT> Das schont die Batterie mehr als </SEGMENT></CON>
+        <F id="1"><SEGMENT> hektisches Beschleunigen </SEGMENT></F>
+        <RES><SEGMENT> und </SEGMENT></RES>
+        <F id="2"><SEGMENT> Rekuperieren. </SEGMENT></F>
+    </QUD>
+</QUD>
+<QUD string = "Wie wird geladen?">
+    <QUD string = "Was folgt aus der gelassenen Fahrweise?">
+        <CON><SEGMENT> Wer gelassen fährt, </SEGMENT></CON>
+        <F>
+            <SEGMENT> wird </SEGMENT>
+            <RES><SEGMENT> also </SEGMENT></RES>
+            <SEGMENT> beim normalen Betrieb meist nur die Ladesäule im Büro oder daheim brauchen. </SEGMENT>
+        </F>
+    </QUD>
+    <QUD string = "Wie kann der höhere Kaufpreis zum Benziner beim Laden der Batterie eingeholt werden?">
+        <F id="1"><SEGMENT> Zieht der Up-Fahrer an der heimischen Steckdose Strom aus den Solarzellen auf dem Dach </SEGMENT></F>
+        <CON id="2"><SEGMENT> geht es </SEGMENT></CON>
+        <F id="1"><SEGMENT> also ziemlich fix über die Laufzeit </SEGMENT></F>
+        <CON id="2"><SEGMENT>  den höheren Kaufpreis zum Benziner hereinzuholen. </SEGMENT></CON>
+    </QUD>
+</QUD>
+
+</QUD>
+<QUD string = "Welche weiteren Ausstattungen hat der e-Up? (vielleicht auch angesichts des höheren Kaufpreises)">
+<!-- DT = elektronische Ausstattung des e-Up -->
+<QUD string = "Was haben die Wolfsburger in Bezug auf die Ausstattung am Up verändert?">
+    <RES><SEGMENT> Zumal </SEGMENT></RES>
+    <CON><SEGMENT> die Wolfsburger den e-Up </SEGMENT></CON>
+    <RES><SEGMENT> jetzt </SEGMENT></RES>
+    <RES><SEGMENT> auch </SEGMENT></RES>
+    <F>
+        <NAI><SEGMENT> deutlich </SEGMENT></NAI>
+        <SEGMENT> besser ausstatten. </SEGMENT>
+    </F>
+    <QUD string = "Was genau an der Ausstattung ist besser/neu?">
+        <QUD string = "Was ist mit dem Radio?">
+        <F>
+            <SEGMENT> Ab Werk an Bord ist bereits </SEGMENT>
+            <SEGMENT> ein Radio mit Bluetooth-Schnittstelle </SEGMENT>
+        </F>
+        <QUD string = "Was tut die Bluetooth-Schnittstelle?">
+            <F> <!-- Fehler im Text? "der"-->
+                <SEGMENT> die (der) über eine </SEGMENT>
+                <NAI><SEGMENT> solide </SEGMENT></NAI>
+                <SEGMENT> Docking-Station Kontakt mit dem Smartphone hält. </SEGMENT>
+            </F>
+            <QUD string = "Als was fungiert das Smartphone?">
+            <F> 
+                <SEGMENT> Das fungiert als </SEGMENT>
+                <NAI><SEGMENT> zentrales </SEGMENT></NAI>
+                <SEGMENT> Infotainment-System im Up. </SEGMENT>
+            </F>
+        </QUD>
+        <QUD string = "Welche Smartphone-Apps gibt es?">
+            <F id="1">
+                <SEGMENT> Per </SEGMENT>
+                <NAI><SEGMENT> serienmäßiger </SEGMENT></NAI>
+                <SEGMENT> "maps + more" App </SEGMENT>
+            </F>
+            <RES>
+                <SEGMENT> und </SEGMENT>
+            </RES>
+            <F id="2">
+                <NAI><SEGMENT> optionaler </SEGMENT></NAI>
+                <SEGMENT> "We Connect"-App</SEGMENT>
+                <QUD string = "Wie kann das Laden durch die 'We connect'-App beeinflussen?">
+                    <SEGMENT> lässt sich damit sogar das Laden starten, stoppen und zeitlich programmieren </SEGMENT>
+                    <QUD string = "Wie kann ich Ladensteuerung der 'We connect'-App (aus)nutzen?">
+                    <F>
+                        <SEGMENT> - (ich habe die Wahl) etwa zum günstigen Strompreis (zeitlich programmiert oder manuell zu laden) </SEGMENT>
+                    </F>
+                </QUD>
+            </F>
+        </QUD>
+    </QUD>
+</QUD>
+
+<QUD string = "Wie lange dauert das Laden mit dem Schnelllader?">
+    <CON>
+        <SEGMENT> Mit dem </SEGMENT>
+        <NAI><SEGMENT> optionalen </SEGMENT></NAI>
+        <SEGMENT> Schnelllader </SEGMENT>
+    </CON>
+    <F>
+        <SEGMENT> dauert es </SEGMENT>
+        <NAI><SEGMENT> übrigens </SEGMENT></NAI>
+        <NAI><SEGMENT> nur </SEGMENT></NAI>
+        <SEGMENT> 30 Minuten, bis wieder 80 Prozent der maximalen Kraft in der Batterie sind. </SEGMENT>
+    </F>
+</QUD>
+<QUD string = "Was ist mit Heizung und Klimaanlage?">
+    <F>
+        <NAI><SEGMENT> (das man Heizung und Klimaanlage fernsteuern kann) Sehr praktisch: </SEGMENT></NAI>
+        <SEGMENT> auch Heizunng und Klimaanlage können per App ferngesteuert werden, </SEGMENT>
+    </F>
+    <QUD string = "In welcher Situation können Heizung und Klimaanalge ferngesteuert werden/schon mal angeschaltet werden (vorheizen)?">
+        <RES><SEGMENT> wenn </SEGMENT></RES>
+        <F><SEGMENT> der e-Up an der Ladeleine liegt. </SEGMENT></F>
+    </QUD>    
+</QUD>
+</QUD>    
+</QUD>
+
+
+
+<QUD string = "Welche Assistenssysteme gibt es?">
+<!-- DT = Assistenzsysteme -->
+    <F>
+        <SEGMENT> Was der e-Up</SEGMENT>
+        <RES><SEGMENT> allerdings </SEGMENT></RES>
+        <SEGMENT> nicht bieten kann ist die Armada an radar- und sensorgestützen Assistenzssystemen, </SEGMENT>
+    </F>
+<QUD string = "Welches Auto bietet/hat diese Assistenzsysteme?">
+    <F>
+        <SEGMENT> wie sie etwa der </SEGMENT>
+        <NAI><SEGMENT> eine Klasse größere und wertiger verarbeitete </SEGMENT></NAI>
+        <SEGMENT> Polo bietet. </SEGMENT>
+    </F>
+</QUD>
+<QUD string = "Warum hat der Up diese Assistenzsysteme nicht?">
+    <RES><SEGMENT> Denn </SEGMENT></RES>
+    <F><SEGMENT> der kleine Volkswagen [im Kontrast zum "größeren" Polo] steht noch auf einer alten Plattform, </SEGMENT></F>
+    <QUD string = "Warum lässt die alte Plattform diese Assistenzsysteme nicht zu?">
+        <F><SEGMENT> die den Einsatz von Abstandsreglern und Co nicht zulässt. </SEGMENT></F>
+    </QUD>
+</QUD>
+<QUD string = "Welches Assistenzsystem gibt es (stattdessen)?">
+    <F>
+        <SEGMENT><NAI>Immerhin [im Konrast zu alten e-Up UND im Kontrast zu den anderen Assistenzsystemen, die es nicht gibt]</NAI></SEGMENT>
+        <SEGMENT> spendiert VW dem e-Up </SEGMENT>
+        <RES><SEGMENT> nun [rein zeitlich: im Kontrast zum alten e-Up] </SEGMENT></RES>
+        <SEGMENT> einen aktiven Spurhalteassistenten. </SEGMENT>
+    </F>
+    <QUD string = "Was ist mit einer City-Notbremsfunktion? (Welche Funktion musste dem Spurhalteassistenzen weichen?)">
+        <F>
+            <SEGMENT> Die City-Notbremsfunktion musste dafür </SEGMENT>
+            <RES><SEGMENT> aber </SEGMENT></RES>
+            <NAI>
+                <SEGMENT> leider </SEGMENT>
+            </NAI>
+            <SEGMENT> weichen, </SEGMENT>
+        </F>
+        <QUD string = "Warum musste die City-Notbremsfunktion dem Spurhalteassistenten weichen?">
+            <RES><SEGMENT> weil </SEGMENT></RES>
+            <F><SEGMENT> die Kamera nicht beides bieten kann. </SEGMENT></F>
+        </QUD>
+    </QUD>
+</QUD>
+<QUD string = "Wann wir es die fehlenden Assistentensystem beim e-Up geben? (Riester: Wer bringt diesen Assistentenstand?)">
+    <F>
+        <SEGMENT> Erst der Nachfolger des Up wird </SEGMENT>
+        <NAI><SEGMENT> in ein paar Jahren </SEGMENT></NAI>
+        <SEGMENT> diesen Assistentenstand bringen. </SEGMENT>
+    </F>
+</QUD>
+</QUD>
+
+<QUD string = "Wie lässt sich der e-Up bewerten?">
+<QUD string = "Warum ist der Up ein starkes (gutes) Stromer-Angebot für den City-, Pendel- oder Zweitwageneinsatz?">
+<!-- DT = Vorteile des Up -->
+    <RES><SEGMENT> Dennoch: </SEGMENT></RES>
+    <F id="1">
+        <RES><SEGMENT> vor allem dank </SEGMENT></RES>
+        <SEGMENT> des stark verbesserten Preis-Leistungsverhältnisses, </SEGMENT>
+    </F>
+    <F id="2">
+        <SEGMENT> der </SEGMENT>
+        <NAI><SEGMENT> uneingeschränkt </SEGMENT></NAI>
+        <SEGMENT> guten Platzverhältnisse </SEGMENT>
+    </F>
+    <RES><SEGMENT> und </SEGMENT></RES>
+    <F id="3"><SEGMENT> des vergnüglichen Fahrerlebnisses </SEGMENT></F>
+    <CON>
+    <SEGMENT> ist der e-Up jetzt ein </SEGMENT>
+    <NAI><SEGMENT> wirklich starkes </SEGMENT></NAI>
+    <SEGMENT> Stromer-Angebot für den City-, Pendel- oder Zweitwageneinsatz. </SEGMENT>
+    </CON>
+<QUD string = "Welche Einschränkungen gibt es dazu?">
+<!-- DT = Probleme beim Verkauf des Up -->
+<QUD string = "Was könnten die Kunden dennoch tun?">
+    <RES><SEGMENT> Dennoch </SEGMENT></RES>
+    <F><SEGMENT> könnten die Kunden weiter zögern, in Massen Kaufverträge zu zeichnen, </SEGMENT></F>
+    <QUD string = "Wann kommt der e-Up in die Showrooms?">
+        <RES><SEGMENT> wenn </SEGMENT></RES>
+        <F><SEGMENT> der VW im November in die Showrooms kommt. </SEGMENT></F>
+    </QUD>
+    <QUD string = "Warum könnten die Kunden zögern?">
+        <F><SEGMENT> Aus zwei Gründen: </SEGMENT></F>
+        <QUD string = "Was ist der erste Grund für das Zögern der Kunden?">
+            <RES>
+                <SEGMENT> Zum einen </SEGMENT>
+            </RES>
+            <QUD string = "Gibt es andere Elektroautos mit besserem Preis bei gleicher Leistung?">
+                <F><SEGMENT> bekommen auch die Schwestermarken Seat und Skoda die neue Elektrovariante als e-Citigo und e-Mini </SEGMENT></F>
+            </QUD>
+            <RES> - nur </RES><!-- Kontrastmarker "lediglich" -->
+            <F><SEGMENT> (die neue Elektrovariante von Seat und Skoda sind) ein paar hundert Euro billiger. </SEGMENT></F>
+        </QUD>
+        <QUD string = "Was ist der zweite Grund für das Zögern der Kunden?">
+            <RES><SEGMENT> Und zweitens </SEGMENT></RES>
+            <F>
+                <SEGMENT> ringt die Bundesregierung </SEGMENT>
+                <NAI><SEGMENT> ja </SEGMENT></NAI>
+                <SEGMENT> gerade darum, die Förderung noch einmal um rund 2.000 Euro aufzustocken. </SEGMENT>
+            </F>
+            <QUD string = "Was ist die Folge aus der Handlung der Bundesregierung?">
+                <F>
+                    <SEGMENT> Das wird manchen potenziellen e-Up-Fahrer nochmal zögern lassen.</SEGMENT>
+                </F>
+                <QUD string = "Was kann VW dafür was die Bundesregierung macht?/(Was hat das mit dem e-Up zu tun?)">
+                    <F>
+                        <SEGMENT> Aber dafür kann das Auto </SEGMENT>
+                        <NAI><SEGMENT> wirklich </SEGMENT></NAI>
+                        <SEGMENT> nichts. </SEGMENT>
+                    </F>
+                </QUD>
+            </QUD>
+        </QUD>
+    </QUD>
+</QUD>
+</QUD>
+</QUD>
+</QUD>
+</ROOT> 

@@ -1,0 +1,324 @@
+<?xml version="1.0"?>
+<!DOCTYPE ROOT SYSTEM "qud2_Version_neu.dtd">
+<ROOT> 
+    <QUD string = "Was ist mit der Vespa GTS 300?">
+        <!-- DT = Technisches -->
+        <QUD string = "Was ist mit den äußerlichen Merkmalen der GTS 300?">
+            <QUD string = "Was hat sich an den äußerlichen Merkmalen verändert?">
+                <CON><SEGMENT> Die äußerlichen Modifikationen des Modells 2019 gegenüber der Vorgängerin </SEGMENT></CON>
+                <F><SEGMENT> fallen überaus dezent aus.</SEGMENT></F>
+                <QUD string = "Was sind die äußerlichen Veränderungen im Vergleich zur Vorgängerin?">
+                    <F id="1.1.1.1"><SEGMENT> Kante vorn im Blechkleid, </SEGMENT></F>
+                    <F id="1.1.1.2"><SEGMENT> Honigwabenmuster in den seitlichen Kühlerverkleidungen, </SEGMENT></F>
+                    <F id="1.1.1.3"><SEGMENT> die Auspuffblende ein bisschen umgeformt, </SEGMENT></F>
+                    <F id="1.1.1.4"><SEGMENT> schlankere Spiegel, </SEGMENT></F>
+                    <F id="1.1.1.5"><SEGMENT> eckigerer Plastikdeckel für die Variomatik, </SEGMENT></F>
+                    <F id="1.1.1.6"><SEGMENT> filigranere Finne auf dem Kotflügel </SEGMENT></F>
+                    <QUD string = "Woher stammen die Informationen zu äußerlichen Veränderungen?">
+                        <F>
+                            <SEGMENT> – das haben wir, </SEGMENT>
+                            <NAI><SEGMENT> ähm, </SEGMENT></NAI><!-- Scham/Verlegenheit -->
+                            <SEGMENT> aus der Fachzeitschrift „Scooter \u0026 Sport“ abgeschrieben, </SEGMENT>
+                        </F>
+                        <QUD string = "Welche weitere äußerliche Veränderung hat Scooter \u0026 Sport gefunden?">
+                            <QUD string = "Was übersehen die Journalisten von Scooter \u0026 Sport nicht?">
+                                <CON><SEGMENT> die </SEGMENT></CON>
+                                <RES><SEGMENT> selbst </SEGMENT></RES>
+                                <F><SEGMENT> eine geänderte Hupen-Abdeckung nicht übersieht.</SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                    <QUD string = "Was ist mit der Cravatta?">
+                        <QUD string = "Was merken die Autoren/Was hätten (selbst) die Autoren gemerkt?">
+                            <RES><SEGMENT> Dass </SEGMENT></RES>
+                            <F id="1.1.1.2.1"><SEGMENT> die „Cravatta“ sich mit klaren Konturen </SEGMENT></F>
+                            <RES><SEGMENT> jetzt </SEGMENT></RES>
+                            <F id="1.1.1.2.2"><SEGMENT> über die gesamte Höhe des Frontschilds erstreckt </SEGMENT></F>
+                            <QUD string = "Bei welcher Vespa gab es eine ähnliche Cravatta?">
+                                <F><SEGMENT> – so wie bei der kleineren, jüngeren Primavera –, </SEGMENT></F>
+                            </QUD>
+                            <F><SEGMENT> hätten auch wir gemerkt. </SEGMENT></F>
+                            <QUD string = "Wie wichtig ist die Veränderung der Cravatta für das neue Design?">
+                                <CON><SEGMENT> Die Krawattenverlängerung </SEGMENT></CON>
+                                <F><SEGMENT> ist der markanteste Eingriff ins Design des Klassikers. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+
+                    <!-- Alternativ: Überleitungssätze als eigenständige Struktur -->
+
+                    <QUD string="Was sind markante Eingriffe ins Design/Was ist der markantere Eingriff ins (klassische) Design?">
+                        <F id="1"><SEGMENT> Die Krawattenverlängerung ist der markanteste Eingriff ins Design des Klassikers. </SEGMENT></F>
+                        <RES><SEGMENT> Es sei denn, </SEGMENT></RES><!-- "außer wenn"/"oder" -->
+                        <F id="2"><SEGMENT> man zählt die Ausstattung der Lampe mit LED dazu. </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string="Was ist mit den Leuchten?">
+                        <QUD string = "Was hat sich an den Leuchten verändert?">
+                            <QUD string="Wie wichtig ist die Veränderung des Scheinwerfers für das neue Design?">
+                                <RES><SEGMENT> Es sei denn, </SEGMENT></RES><!-- "außer wenn"/"oder" -->
+                                <F><SEGMENT> man zählt die Ausstattung der Lampe mit LED dazu. </SEGMENT></F>
+                            </QUD>
+                            <QUD string = "Was sind die Vorteile von LED in der Lampe?">
+                                <QUD string = "Wie wirkt sich LED in der Lampe auf das Design aus?">
+                                    <CON><SEGMENT> Der moderne Scheinwerfer </SEGMENT></CON>
+                                    <F id="1.1.1.3.1.1.1.1"><SEGMENT> steht </SEGMENT></F>
+                                    <CON><SEGMENT> der GTS </SEGMENT></CON>
+                                    <F id="1.1.1.3.1.1.1.1"><SEGMENT> gut </SEGMENT></F>
+                                </QUD>
+                                <QUD string = "Was ist der Vorteil von LED im Straßenverkehr?">
+                                    <RES><SEGMENT> und </SEGMENT></RES>
+                                    <F id="1.1.1.3.1.1.2.1"><SEGMENT> ist ein Riesenfortschritt fürs Sehen bei Nacht </SEGMENT></F>
+                                    <RES><SEGMENT> und </SEGMENT></RES>
+                                    <F id="1.1.1.3.1.1.2.1"><SEGMENT> das Gesehenwerden am Tage. </SEGMENT></F>
+                                </QUD>
+                            </QUD>
+
+                            <QUD string = "Wo gibt es außerdem LEDs?">
+                                <CON><SEGMENT> Leuchtdioden </SEGMENT></CON>
+                                <F id="1.1.1.3.2.1"><SEGMENT> zieren </SEGMENT></F>
+                                <RES><SEGMENT> zudem </SEGMENT></RES>
+                                <F id="1.1.1.3.2.1"><SEGMENT> das Heck </SEGMENT></F>
+                                <RES><SEGMENT> sowie </SEGMENT></RES>
+                                <F id="1.1.1.3.2.2"><SEGMENT> die seitlichen Positionslichter neben den vorderen Blinkern. </SEGMENT></F>
+                            </QUD>
+
+                            <QUD string = "Welche Lampe hat keine LEDs?">
+                                <RES><SEGMENT> Allein </SEGMENT></RES>
+                                <F id="1.1.1.3.3.1"><SEGMENT> für die Blinker </SEGMENT></F>
+                                <RES><SEGMENT> selbst </SEGMENT></RES>
+                                <F id="1.1.1.3.3.1"><SEGMENT> verwendet </SEGMENT></F>
+                                <CON><SEGMENT> Piaggio </SEGMENT></CON>
+                                <RES><SEGMENT> weiterhin </SEGMENT></RES>
+                                <F id="1.1.1.3.3.1"><SEGMENT> Glühbirnchen. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+
+                    <QUD string = "Was ist der neue Gesamteindruck zum Design der GTS?">
+                        <RES><SEGMENT> Alles in allem </SEGMENT></RES> 
+                        <F id="1.1.2.1"><SEGMENT> sieht </SEGMENT></F>
+                        <CON><SEGMENT> die Vespa </SEGMENT></CON>
+                        <F  id="1.1.2.1"><SEGMENT> aus wie immer, </SEGMENT></F>
+                        <RES><SEGMENT> bloß </SEGMENT></RES>
+                        <F  id="1.1.2.1"><SEGMENT> frischer. </SEGMENT></F>
+                     </QUD>
+                </QUD>
+
+            </QUD>
+        </QUD>
+
+        <QUD string="Was ist mit dem Motor?">
+            <FEEDER><SEGMENT>Womit wir zum Wesentlichen kommen.</SEGMENT></FEEDER>
+            <QUD string="Was für einen Motor hat das Motorrad?">
+                <QUD string="Was hat Piaggio mit dem Motor gemacht?">
+                    <F id="1.1.2.1.1"><SEGMENT>Umfassend renoviert </SEGMENT></F>
+                    <CON><SEGMENT>hat Piaggio </SEGMENT></CON>
+                    <F id="1.1.2.1"><SEGMENT>den 278-Kubik-Einzylinder,</SEGMENT></F>
+                </QUD>
+                <QUD string="Wie heißt der Motor (jetzt)?">
+                    <F><SEGMENT> der nun den Namen 300 hpe trägt.</SEGMENT></F>
+                    <QUD string="Wofür steht das Nameskürzel?">
+                        <CON><SEGMENT>Das Kürzel </SEGMENT></CON>
+                        <F><SEGMENT>steht für High Performance Engine,</SEGMENT></F>
+                        <QUD string="Wie klingt das?">
+                            <CON><SEGMENT> was </SEGMENT></CON>
+                            <F id="1.1.2.1.2.1.1.1"><SEGMENT>beeindruckend klingt,</SEGMENT></F>
+                            <RES><SEGMENT> aber </SEGMENT></RES>
+                            <RES><SEGMENT> auch </SEGMENT></RES>
+                            <F id="1.1.2.1.2.1.1.2"><SEGMENT>ein wenig großspurig anmutet </SEGMENT></F>
+                            <QUD string="Warum wirkt der Name großspurig?">
+                                <QUD string="Was ist die Maximalleistung des Motors">
+                                    <RES><SEGMENT>angesichts </SEGMENT></RES>
+                                    <F><SEGMENT>einer Maximalleistung von 17,5 kW (23,8 PS)</SEGMENT></F>
+                                </QUD>
+                                <QUD string="Wie ist die Leistung von Motorrädern heutzutage?">
+                                    <RES><SEGMENT> und (angesichts) </SEGMENT></RES>
+                                    <CON><SEGMENT> der Tatsache, dass Motorräder inzwischen </SEGMENT></CON>
+                                    <F><SEGMENT>mit 200 PS unterwegs sind.</SEGMENT></F>
+                                </QUD>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+
+                <QUD string="Was hebt Piaggio hervor/Wie leistungsfähig ist der Motor verglichen mit früheren Vespas?">
+                    <RES><SEGMENT>Doch </SEGMENT></RES>
+                    <RES><SEGMENT>tatsächlich </SEGMENT></RES>
+                    <F>
+                        <SEGMENT>ist diese Vespa die stärkste aller Zeiten,</SEGMENT>
+                        <NAI><SEGMENT> wie die Italiener stolz hervorheben.</SEGMENT></NAI>
+                    </F>
+                    
+                </QUD>
+
+                <QUD string="Was hat Piaggio überarbeitet/verändert?">
+                    <QUD string="Welche Bauelemente wurden überarbeitet/verändert?">
+                        <F id="1.1.2.3.1"><SEGMENT>Sie nahmen sich Zylinderkopf (vor),</SEGMENT></F>
+                        <F id="1.1.2.3.2"><SEGMENT> (sie nahmen sich) Ansaugwege (vor),</SEGMENT></F>
+                        <F id="1.1.2.3.3"><SEGMENT> (sie nahmen sich) Motorelektronik vor,</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Welche Werte wurden überarbeitet/verändert?">
+                        <F id="1.1.2.3.4"><SEGMENT> bemühten sich, die interne Reibung (zu mindern) </SEGMENT></F>
+                        <RES><SEGMENT>und </SEGMENT></RES>
+                        <F id="1.1.2.3.5"><SEGMENT>(bemühten sich,) den Verbrauch zu mindern,</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Was wurde am Service überarbeitet/verändert?">
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id="1.1.2.3.2"><SEGMENT>verdoppelten die Länge der Wartungsintervalle auf 10 000 Kilometer.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+                <QUD string="Was ist die bedeutsamere Verbesserung am Motor?">
+                    <QUD string = "Was ist mit der Höchstleistung?">
+                        <F><SEGMENT> Bedeutsamer als die Steigerung der Höchstleistung um zwölf Prozent </SEGMENT></F>
+                    </QUD>
+                    <QUD string = "Was ist mit dem Drehmoment?">
+                        <F><SEGMENT> erscheint der Drehmoment-Zuwachs, </SEGMENT></F>
+                        <QUD string = "Wie groß ist der Drehmoment-Zuwachs nach Angaben des Herstellers?">
+                            <CON><SEGMENT> den Piaggio </SEGMENT></CON>
+                            <F><SEGMENT> mit 18 Prozent beziffert. </SEGMENT></F>
+                        </QUD>
+                        <QUD string="Wie groß ist das Drehmoment?">
+                            <F><SEGMENT>Rotiert die Kurbelwelle 5250 Mal in der Minute, stehen 26 Newtonmeter an,</SEGMENT></F>
+                            <QUD string="Wie ist die Bewertung des Drehmoments?">
+                                <RES><SEGMENT> und </SEGMENT></RES>
+                                <F>
+                                    <SEGMENT> jedes einzelne (Newtonmeter) davon gibt </SEGMENT>
+                                    <NAI><SEGMENT> offensichtlich </SEGMENT></NAI><!-- Wertung -->
+                                    <SEGMENT> sein Bestes.</SEGMENT>
+                                </F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+
+            </QUD>
+        </QUD>
+
+        <!-- DT = Testfahrt -->
+        <QUD string="Wie war die Testfahrt?">
+            
+            <QUD string="Wie ist das Fahrerlebnis?">
+                <F id="1.1.3.1.1">
+                    <SEGMENT> Zwischenspurts </SEGMENT>
+                </F>
+                <RES><SEGEMENT> und </SEGEMENT></RES>
+                <F id="1.1.3.1.1">
+                    <SEGMENT> Überholvorgänge erledigt die Vespa mit ihrem quicklebendigen „hpe“ jetzt </SEGMENT>
+                    <NAI><SEGMENT> erstaunlich </SEGMENT></NAI><!-- Wertung -->
+                    <SEGMENT> souverän,</SEGMENT>
+                </F>
+                <F id="1.1.3.1.2"><SEGMENT> macht auch um Tempo 80 bis 100 herum noch mal Druck.</SEGMENT></F>
+                <F id="1.1.3.1.3"><NAI><SEGMENT> Erfreulich </SEGMENT></NAI><SEGMENT> die Laufruhe, </SEGMENT></F>
+                <F id="1.1.3.1.4"><NAI><SEGMENT> (erfreulich) </SEGMENT></NAI><SEGMENT> die Kultiviertheit, </SEGMENT></F>
+                <F id="1.1.3.1.5"><NAI><SEGMENT> (erfreulich) </SEGMENT></NAI><SEGMENT> das jederzeit unaufdringliche Geräuschverhalten. </SEGMENT></F>
+                <F id="1.1.3.1.6"><SEGMENT>Antrittsstark lässt </SEGMENT></F>
+                <CON><SEGMENT>die neue GTS </SEGMENT></CON>
+                <F id="1.1.3.1.6"><SEGMENT>an der Ampel die Automeute im Rückspiegel schrumpfen, </SEGMENT></F>
+                <QUD string="Was passierte bei der Testfahrt beim Anfahren?">
+                    <RES><SEGMENT> wobei </SEGMENT></RES>
+                    <CON><SEGMENT> sich unser Exemplar </SEGMENT></CON>
+                    <F><SEGMENT> beim Lossprinten mehrere Male die Merkwürdigkeit eines kurzen Aussetzers erlaubte.</SEGMENT></F>
+                    <QUD string="Was ?">
+                        <RES><SEGMENT> Ob </SEGMENT></RES>
+                        <F id="1.1.3.3.1.1.1"><SEGMENT> das mit der womöglich übereifrig agierenden Antischlupfregelung zu tun hatte, </SEGMENT></F>
+                        <F id="1.1.3.3.1.1.3"><SEGMENT> vermochten wir nicht zu ergründen.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Wie war der Verbrauch auf der Tesfahrt?">
+                <CON><SEGMENT> Was den Verbrauch betrifft: </SEGMENT></CON>
+                <F><SEGMENT> 3,7 Liter benötigte </SEGMENT></F>
+                <CON><SEGMENT> unser Grau-Import </SEGMENT></CON>
+                <QUD string = "Unter welchen Bedingungen wurde der Verbrauch getestet/benötigte die Vespa 3,7 Liter?">
+                    <F id="3.2.1.1"><SEGMENT> unter den kraftraubenden Bedingungen des Berufsverkehrs mit Innenstadtgewühl </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="3.2.1.2"><SEGMENT> (unter den kraftraubenden Bedingungen des) Autobahngebolze bis Tacho 130. </SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string="Was ist gleich geblieben?">
+                <QUD string = "Wie war das Fahrverhalten insgesamt?">
+                    <F id="1.2.1"><SEGMENT>Wendigkeit,</SEGMENT></F>
+                    <F id="1.2.2"><SEGMENT> solider Geradeauslauf,</SEGMENT></F>
+                    <F id="1.2.3"><SEGMENT> tapfere Federung,</SEGMENT></F>
+                    <F id="1.2.4"><SEGMENT> in der Dosierung stumpf wirkende,</SEGMENT></F>
+                    <RES><SEGMENT> jedoch </SEGMENT></RES>
+                    <F id="1.2.4"><SEGMENT>fest zupackende Bremsanlage,</SEGMENT></F>
+                    <F id="1.2.5"><SEGMENT> beste Sicht in den Rückspiegeln </SEGMENT></F>
+                    <NAI><SEGMENT>– alles wie gehabt.</SEGMENT></NAI><!-- bezogen auf "gleich geblieben" -->
+                </QUD>
+
+                <QUD string = "Was ist mit dem Stauraum in der GTS?">
+                    <F>
+                        <SEGMENT></SEGMENT>
+                        <NAI><SEGMENT> Das gilt auch für </SEGMENT></NAI><!-- bezogen auf "gleich geblieben" -->
+                        <SEGMENT> den </SEGMENT>
+                        <NAI><SEGMENT> nach wie vor </SEGMENT></NAI><!-- bezogen auf "gleich geblieben" -->
+                        <SEGMENT> zu kleinen Stauraum unterm Sitz, </SEGMENT>
+                    </F>
+                    <QUD string = "Was passt in den Stauraum?">
+                        <QUD string = "Welche Art von Helm passt in den Stauraum?">
+                            <CON><SEGMENT> in den </SEGMENT></CON>
+                            <F><SEGMENT> nur sehr flach bauende Helme hineinpassen, </SEGMENT></F>
+                        </QUD>
+                        <QUD string = "Welche Art von Helm passt nicht in den Stauraum?">
+                            <Fid="4.2.1"><SEGMENT> nicht </SEGMENT></F>
+                            <RES><SEGMENT> aber </SEGMENT></RES>
+                            <F id="4.2.1"><SEGMENT> gewöhnliche Jet- </SEGMENT></F>
+                            <RES><SEGMENT> und </SEGMENT></RES>
+                            <RES><SEGMENT> schon </SEGMENT></RES>
+                            <F id="4.2.2"><SEGMENT> gar keine Integralhelme. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+
+                <QUD string="Welche Wünsche erfüllt Piaggio nicht (selbst bei der teuesten Version)?">
+                    <F id="1.2.2.1"><SEGMENT>Start-Stop-System,</SEGMENT></F>
+                    <F id="1.2.2.2"><SEGMENT> automatische Blinkerabschaltung,</SEGMENT></F>
+                    <F id="1.2.2.3"><SEGMENT> schlüsselloser Zündschalter </SEGMENT></F>
+                    <CON id="1.2.3.1"><SEGMENT>– Wünsche dieser Art erfüllt Piaggio </SEGMENT></CON>
+                <RES><SEGMENT>selbst</SEGMENT></RES>
+                <CON id="1.2.3.1"><SEGMENT> im Fall seiner neuen Spitzenkraft nicht,</SEGMENT></CON>
+                </QUD>
+            </QUD>
+
+        </QUD>
+
+        <QUD string= "Was ist mit der Spitzenversion der GTS?">
+            <QUD string = "Was ist mit dem Preis der Spitzenversion?">
+                <F>
+                    <SEGMENT> der 6715 Euro kostenden GTS 300 Supertech, </SEGMENT>
+                    <NAI><SEGMENT> die wir bewegten. </SEGMENT></NAI>
+                </F>
+            </QUD>
+            <QUD string = "Was ist der Unterschied zwischen der Supertech-Version und anderen GTS-Versionen?">
+                <CON><SEGMENT> Unterscheidungsmerkmal der Supertech zu den anderen Varianten </SEGMENT></CON>
+                <F><SEGMENT> ist das 4,3-Zoll-Farbdisplay im Cockpit </SEGMENT></F>
+                <QUD string = "Welche Zusatzfunktionen hat das Display der Supertech-Version?">
+                    <F id="5.3.1.1"><SEGMENT> plus Smartphone-Verknüpfung </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="5.3.1.2"><SEGMENT> Datenaustausch per Vespa-App. </SEGMENT></F>
+                </QUD>
+                <QUD string = "Wie wird das Display und die App bewertet?">
+                    <F id="1"><SEGMENT> Schnickschnack?</SEGMENT></F>
+                    <F id="2"><SEGMENT> Nein, empfehlenswert, wie wir finden, </SEGMENT></F>
+                    <QUD string = "Was sind ein Gründe, warum das Display und die App empfohlen wird?">
+                        <RES><SEGMENT> allein schon deshalb, </SEGMENT></RES>
+                        <RES><SEGMENT> weil </SEGMENT></RES>
+                        <F id="5.3.2.1.1"><SEGMENT> sich über die App der Kartendienst Here aktivieren lässt </SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id="5.3.2.1.2">
+                            <SEGMENT> das Vespa-Display unverzüglich Navi-Hinweise anzeigt: </SEGMENT>
+                            <NAI><SEGMENT> super Tech.</SEGMENT></NAI><!-- bezogen auf "empfehlenswert" -->
+                        </F>
+                    </QUD>
+                </QUD>
+            </QUD>
+       </QUD>
+        
+
+    </QUD>
+</ROOT>

@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE ROOT SYSTEM "qud1.dtd">
+<ROOT>
+
+    <QUD string = "Was ist mit dem BMC Speedfox?">
+
+        <!-- DT = Materialien -->
+        <QUD string = "Welchen Rahmen hat die neue Speedfox?">
+            <F id="1.1"><SEGMENT>BMC geht </SEGMENT></F>
+            <RES><SEGMENT> dort </SEGMENT></RES>
+            <RES><SEGMENT> nun </SEGMENT></RES>
+            <F id="1.1"><SEGMENT> mit einer Aluminiumvariante seines Speedfox AMP auf Kundenfang, </SEGMENT></F>
+            <RES><SEGMENT> und </SEGMENT></RES>
+        </QUD>
+
+        <QUD string = "Was wird mit den Erwartungen gemacht?">
+            <RES><SEGMENT> um </SEGMENT></RES>
+            <CON><SEGMENT> gleich allfällig falsche Urteile oder Hoffnungen aus dem Weg zu räumen, </SEGMENT></CON>
+            <!-- DT = falsche Urteile oder Hoffnungen = Erwartungen -->
+            <CON><SEGMENT>  der Spaß </SEGMENT></CON> <!-- = BMC Speedfox -->
+            <F><SEGMENT> ist weder simpel noch billig.</SEGMENT></F>
+        </QUD>
+
+        <QUD string = "Was ist mit der neuen Aluminiumvariante im Vergleich zu anderen Modellen von BMC?">
+            <QUD string = "Wie ist das Design der neuen Aluminiumvariante im Vergleich zur Carbonvariante?">
+                <CON><SEGMENT> Das Modell aus Aluminium </SEGMENT></CON>
+                <F><SEGMENT> sieht fast genauso aus </SEGMENT></F>
+                <CON><SEGMENT> wie das aus Carbon, </SEGMENT></CON>
+            </QUD>
+            <QUD string = "Wie ist die Fertigung der neuen Aluminiumvariante im Vergleich zur Carbonvariante?">
+                <CON><SEGMENT> in der Fertigung </SEGMENT></CON>
+                <RES><SEGMENT> indes </SEGMENT></RES>
+                <F>
+                    <SEGMENT> ist es aufwendiger, </SEGMENT>
+                    <NAI><SEGMENT> wie BMC hervorhebt, </SEGMENT></NAI>
+                </F>
+                <QUD string = "Warum ist die Fertigung aufwendiger?">
+                    <F id="3.2.2.1"><SEGMENT> der vielen Arbeitsschritte wegen </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="3.2.2.2"><SEGMENT> (wegen) der Einschränkung in der Formgebung. </SEGMENT></F>
+                </QUD>
+                <QUD string = "Was ist trotz der aufwendigen Fertigung möglich?">
+                    <CON><SEGMENT> Derlei </SEGMENT></CON>
+                    <F><SEGMENT> verhindert Finessen nicht, </SEGMENT></F>
+                    <QUD string = "Was ist eine der Finessen?">
+                        <F><SEGMENT> das Unterrohr </SEGMENT></F>
+                        <RES><SEGMENT> etwa </SEGMENT></RES>
+                        <F><SEGMENT> ist aus einem vollen Stück. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+            <QUD string = "Was ist mit dem Preis der Aluminiumvariante im Vergleich zu anderen Modellen?">
+                <RES><SEGMENT> Trotzdem </SEGMENT></RES>
+                <F><SEGMENT> sind </SEGMENT></F>
+                <CON><SEGMENT> die Preise </SEGMENT></CON>
+                <F><SEGMENT> erreichbarer, </SEGMENT></F>
+                <QUD string = "Welche Einschränkung gibt es dazu, dass die Preise erreichbarer sind?">
+                    <RES><SEGMENT> so(weit) </SEGMENT></RES>
+                    <F><SEGMENT> sich das in diesen (Preis)Klassen überhaupt behaupten lässt. </SEGMENT></F>
+                </QUD>
+                <QUD string = "Was ist der Preis der Carbonvariante?">
+                    <CON><SEGMENT> Die Modelle aus Carbon </SEGMENT></CON>
+                    <F><SEGMENT> erfordern 5700 bis 9000 Euro, </SEGMENT></F>
+                </QUD>
+                <QUD string = "Was ist der Preis des Speedfox AMP Four/der Aluminiumvariante?">
+                    <QUD string = "Welches Modell wurde auf der Tesfahrt gefahren?">
+                        <CON><SEGMENT> zum Test in der Redaktion </SEGMENT></CON>
+                        <F><SEGMENT> war das Speedfox AMP Four </SEGMENT></F>
+                    </QUD>
+                    <F><SEGMENT> für 5000 Euro, </SEGMENT></F>
+                </QUD>
+                <QUD string = "Welche weitere Varianten bezüglich der Preise gibt es?">
+                    <CON><SEGMENT> es gibt </SEGMENT></CON>
+                    <RES><SEGMENT> noch </SEGMENT></RES>
+                    <F><SEGMENT> eine günstigere Variante für 4300 Euro. </SEGMENT></F>
+                </QUD>
+            </QUD>
+            <QUD>
+                <QUD string = "Was ist mit dem Einsatzbereich des Speedfox im Vergleich?">
+                    <CON><SEGMENT> Die Speedfox-Reihe </SEGMENT></CON>
+                    <F><SEGMENT> ist für einen breiten Einsatzbereich gedacht, </SEGMENT></F>
+                </QUD>
+                <QUD string = "Welchen Einsatzbereich haben andere Modelle?">
+                    <F><SEGMENT> wer sich </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F><SEGMENT> das Material härter rannehmen will, </SEGMENT></F>
+                    <QUD string = "Welches Modell ist für härteren Einsatz geeignet?">
+                        <F><SEGMENT> greift zum Trailfox. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Fahrgefühl -->
+        <QUD string = "Was ist mit dem Fahrgefühl des Speedfox?">
+
+            <QUD string = "Was fällt beim Speedfox auf?">
+                <RES><SEGMENT> In der Tat </SEGMENT></RES>
+                <F id="1.3.1.1"><SEGMENT> macht </SEGMENT></F>
+                <CON><SEGMENT> das Speedfox  </SEGMENT></CON>
+                <F id = "1.3.1.1"><SEGMENT> einen ausgewogenen Eindruck, </SEGMENT></F>
+                <F id = "1.3.1.2"><SEGMENT> es ist einfach zu fahren </SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id = "1.3.1.3"><SEGMENT> fällt durch keine Extreme auf. </SEGMENT></F>
+            </QUD>
+
+            <QUD string = "Wozu trägt der tiefe Schwerpunkt bei?">
+                <CON><SEGMENT> Der tiefe Schwerpunkt </SEGMENT></CON>
+                <F><SEGMENT> hilft, die Balance zu halten. </SEGMENT></F>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Motor -->
+        <QUD string = "Was ist mit dem Motor des Speedfox?">
+            <QUD string = "Welchen Motor hat das/der Speedfox?">
+                <RES><SEGMENT> Konsequenterweise </SEGMENT></RES><!-- bezieht sich auf Unterschied Trailfox/Speedfox -->
+                <F id="5.1.1"><SEGMENT> hat sich BMC entschieden, </SEGMENT></F>
+                <CON><SEGMENT> hier </SEGMENT></CON><!-- bezogen auf den Speedfox, im Kontrast zum Trailfox (RES) -->
+                <QUD string="Für welchen Motor hat sich BMC entschieden für den Speedfox?">
+                    <F id="5.1.1">
+                        <SEGMENT> den sanfteren der beiden möglichen Shimano-Motoren einzusetzen, </SEGMENT>
+                    </F>
+                    <QUD string="Welche der Shimano-Motoren ist der sanftere?">
+                        <F id="5.1.1">
+                            <SEGMENT> es macht sich der Steps E 7000 um Vortrieb verdient. </SEGMENT><!-- Stepper-Motor (Fokus mehr auf Torque) -->
+                        </F>
+                    </QUD>
+                </QUD>
+                
+            </QUD>
+            <QUD string = "Was ist der Unterschied zwischen dem E 7000 und dem E 8000 Motor?">
+                <F id="1"><SEGMENT> Der Unterschied zum sportlicher zupackenden E 8000 ist beachtlich, </SEGMENT></F>
+                <F id="2"><SEGMENT> Shimano hat wahrlich unterschiedliche Charakteristika gewählt.</SEGMENT></F>
+
+                <QUD string = "Was empfiehlt sich bezüglich der Motoren?">
+                    <F><SEGMENT> Im Zweifel empfiehlt es sich, beide Antriebe vor dem Kauf auszuprobieren. </SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Wie wirkt sich der E 7000 auf das Fahrgefühl aus?">
+                <QUD string="Wie wirkt sich der E 7000 positiv auf das Fahrgefühl aus?">
+                    <CON><SEGMENT> Der E 7000 </SEGMENT></CON>
+                    <F id="5.3.1"><SEGMENT> greift geradezu sanftmütig zu, </SEGMENT></F>
+                    <RES><SEGMENT> gleichwohl </SEGMENT></RES>
+                    <F id="5.3.2"><SEGMENT> mit schöner Dynamik, </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="5.3.3"><SEGMENT> ohne aggressiv zu werden. </SEGMENT></F>
+                </QUD>                
+                <QUD string = "Wie wirkt sich der E 7000 negativ auf das Fahrgefühl aus?">
+                    <F><SEGMENT> An arg entschlossenen Steigungen wünschten wir uns mehr Unterstützung, </SEGMENT></F>
+
+                    <QUD string = "Was für eine Unterstützung wäre wünschenswert?"><!-- fehlende Gleichmäßigkeit -->
+                        <RES><SEGMENT> vor allem </SEGMENT></RES>
+                        <F><SEGMENT> gleichmäßigere auf hohem Niveau. </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Welches Problem gibt es beim Motor generell?"><!-- fehlender Tatendrang -->
+                        <F id = "1.4.1.5.2.1"><SEGMENT> Manchmal fühlte es sich an, </SEGMENT></F>
+                        <RES><SEGMENT> als ob </SEGMENT></RES>
+                        <CON><SEGMENT> der Motor </SEGMENT></CON>
+                        <F id = "1.4.1.5.2.1"><SEGMENT> nicht immer mit vollem Tatendrang zu Werke ging. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Was ist mit den technischen Details des E 7000 Motors?">
+                <QUD string = "Was ist mit dem Drehmoment?">
+                    <F><SEGMENT> 60 Newtonmeter Drehmoment liefert </SEGMENT></F>
+                    <CON><SEGMENT> er </SEGMENT></CON>
+                </QUD>
+                <QUD string = "Was ist mit der Leistung?">
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F><SEGMENT> 250 Watt Leistung, </SEGMENT></F>
+                </QUD>
+                <QUD string = "Wie werden Drehmoment und Leistung eingeschätzt?">
+                    <CON><SEGMENT> das </SEGMENT></CON>
+                    <F id="5.4.3.1"><SEGMENT> ist ansprechend </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F  id="5.4.3.2"><SEGMENT> passt gut zur Aufgabenstellung. </SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Wie laut ist der Motor?">
+                <F>
+                    <SEGMENT> Lautlos ist er </SEGMENT>
+                    <NAI><SEGMENT> freilich </SEGMENT></NAI><!-- "kann er ja gar nicht sein"/"das ist ja selbstverständlich" -->
+                    <SEGMENT> nicht, </SEGMENT>
+                </F>
+                <QUD string = "Womit kann der Klang des Motors verglichen werden?">
+                    <F><SEGMENT> Surren ähnlich einer leisen Straßenbahn ist allgegenwärtig. </SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Was ist mit der Motoranzeige?">
+                <CON id="1"><SEGMENT> Die </SEGMENT></CON>
+                <F id="2"><SEGMENT> elegante kleine </SEGMENT></F>
+                <CON id="1"><SEGMENT> Anzeige </SEGMENT></CON>
+                <F id="2"><SEGMENT> am Lenker informiert </SEGMENT></F>
+                <QUD string = "Was ist mit der Motoranzeige am E 7000?">
+                    <CON><SEGMENT> hier </SEGMENT></CON><!-- bezogen auf E 7000 -->
+                    <F id="5.6.1.1"><SEGMENT> in Schwarzweiß, </SEGMENT></F>
+                </QUD>
+                <QUD string = "Was ist mit der Motoranzeige am E 8000?">
+                    <CON><SEGMENT> der E 8000 </SEGMENT></CON>
+                    <F><SEGMENT> kommt mit der hübscheren Ausgabe in Farbe. </SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Akku -->
+        <QUD string = "Was ist mit dem Akku des Speedfox?">
+            <QUD string = "Was hat BMC bei der Verbauung des Akkus gezeigt?">
+                <F id="6.1.1"><SEGMENT> Weise Voraussicht hat </SEGMENT></F>
+                <CON><SEGMENT> BMC im Design </SEGMENT></CON><!-- Verbauung -->
+                <F id="6.1.1"><SEGMENT> bewiesen, </SEGMENT></F>
+                <QUD string = "Was ist besonders an der Veränderung im Design?">
+                    <CON><SEGMENT> was </SEGMENT></CON>
+                    <F><SEGMENT> bei rund drei Jahren Vorlaufzeit keine Selbstverständlichkeit ist. </SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Wie ist der Akku verbaut?">
+                <QUD string = "Wie stark ist der Akku?">
+                    <F><SEGMENT> Der 500-Wh-Akku </SEGMENT></F>
+                </QUD>
+                <F><SEGMENT> ist im Rahmen integriert. </SEGMENT></F>
+                <QUD string = "Wie sieht das (der integrierte Akku) aus?">
+                    <CON><SEGMENT> Das </SEGMENT></CON>
+                    <F id="6.3.1.1"><SEGMENT> sieht eleganter aus </SEGMENT></F>
+                    <F id="6.3.1.2"><SEGMENT> als aufgesetzt, </SEGMENT></F>
+                </QUD>
+                <QUD string = "Welche Akkuverbauung bevorzugen die Menschen/Kunden laut Fachhändler?"><!-- im Kontrast zum Hersteller -->
+                    <CON><SEGMENT> die Menschen </SEGMENT></CON>
+                    <F><SEGMENT> wollen auch nur noch diese Form, </SEGMENT></F>
+                    <CON><SEGMENT> sagen Fachhändler. </SEGMENT></CON>
+                </QUD>
+
+                <QUD string = "Was sind Nachteile eines integrierten Akkus?">
+                    <QUD string = "Was ist allgemein ein Nachteil eines integrierten Akkus?">
+                        <CON id="1"><SEGMENT> Der Nachteil </SEGMENT></CON>
+                        <F><SEGMENT> liegt im höheren Gewicht des Rads </SEGMENT></F>
+                        <CON id="1"><SEGMENT> im Allgemeinen </SEGMENT></CON>
+                    </QUD>
+                    <QUD string = "Was ist zusätzlich ein Nachteil eines integrierten Akkus beim Speedfox?">
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <CON><SEGMENT> im Falle des Speedfox </SEGMENT></CON>
+                        <F><SEGMENT> in der Verortung der Ladebuchse. </SEGMENT></F>
+                        <QUD string = "Was ist mit der Verortung der Ladebuchse?">
+                            <CON><SEGMENT> Die </SEGMENT></CON>
+                            <F><SEGMENT> sitzt am Unterrohr auf der dem Vorderrad zugewandten Seite, </SEGMENT></F>
+                            <QUD string = "Was sind Probleme aufgrund der Verortung der Ladebuchse?">
+                                <F id="6.3.3.2.1.1.1"><SEGMENT> ist schwer zugänglich, </SEGMENT></F>
+                                <F id="6.3.3.2.1.1.2"><SEGMENT> verdreckt, </SEGMENT></F>
+                                <RES><SEGMENT> und </SEGMENT></RES>
+                                <F id="6.3.3.2.1.1.3"><SEGMENT> die Abdeckung ist ein fummeliges Stück Plastik. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+                <QUD string = "Was ist der Vorteil des integrierten Akkus?">
+                    <CON><SEGMENT> Auf der Habenseite </SEGMENT></CON>
+                    <F id="6.3.4.1"><SEGMENT> steht die weitgehende Unsichtbarkeit von Kabeln </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="6.3.4.1"><SEGMENT> Leitungen. </SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Bremsen -->
+        <QUD string = "Was ist mit den Bremsen?">
+            <QUD string = "Wie ist die Einschätzung der Bremsen?">
+                <F><SEGMENT> So weit gut </SEGMENT></F>
+            </QUD>
+            <QUD string = "Welche Art von Bremse hat das Speedfox?">
+                <F><SEGMENT> packt die Shimano-SLX-Bremse </SEGMENT></F>
+                <QUD string="Wie groß ist die SLX-Scheiben-Bremse?">
+                    <F><SEGMENT> mit 200-mm-Scheibe zu, </SEGMENT></F>
+                </QUD>
+            </QUD>
+            <QUD string = "Welches Problem gibt es mit den Bremsen?">
+                <RES><SEGMENT> allerdings </SEGMENT></RES>
+                <F><SEGMENT> zittert dabei die Rock-Shox-Revelation-Gabel, </SEGMENT></F>
+                <QUD string = "Was wäre eine Lösung des Problems der Bremsen?">
+                    <QUD string = "Für welche Problemursachen ist die Lösung nicht geeignet?">
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <RES><SEGMENT> falls </SEGMENT></RES>
+                        <F id="7.3.1.1.1"><SEGMENT> sich nicht in dem Testrad ein Fehler </SEGMENT></F>
+                        <RES><SEGMENT> oder </SEGMENT></RES>
+                        <F id="7.3.1.1.2"><SEGMENT> früher Verschleiß eingenistet haben, </SEGMENT></F>
+                    </QUD>
+                    <QUD string = "Was ist die Lösung des Problems, wenn es nicht am Testrad oder Verschleiß liegt?">
+                        <F><SEGMENT> wäre das etwas zum verstärkten Nacharbeiten.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Bremsen -->
+        <QUD string = "Welche Herausforderung gibt es bei einem Mountainbike?">
+            <QUD string = "Was ist mit den Kräften?">
+                <CON><SEGMENT> Die Kräfte, </SEGMENT></CON>
+                <F><SEGMENT> die mit einem elektrischen Mountainbike </SEGMENT></F>
+                <QUD string="Was ist mit dem Gewicht des Speedfox?">
+                    <F><SEGMENT> von etwa 24 Kilogramm </SEGMENT></F>
+                </QUD>
+                <F><SEGMENT> wirken, sind nicht zu unterschätzen. </SEGMENT></F>
+            </QUD>
+        </QUD> 
+        <QUD string = "Was ist mit dem Federweg?">
+            <QUD string = "Wie groß ist der Federweg?">
+                <CON><SEGMENT> Über den Federweg </SEGMENT></CON>
+                <F id="9.1.1"><SEGMENT> mit 130 Millimeter vorn </SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id="9.1.1"><SEGMENT> hinten </SEGMENT></F>
+            </QUD>
+            <QUD string = "Wie wird die Größe des Federwegs eingeschätzt?">
+                <F><SEGMENT> gibt es keine Beschwerden. </SEGMENT></F>
+            </QUD>
+        </QUD>
+        <QUD string = "Was ist mit der Sitzposition?">
+            <CON><SEGMENT> Die Sitzposition </SEGMENT></CON>
+            <F>
+                <SEGMENT> dürfte </SEGMENT>
+                <NAI><SEGMENT> nach unserem Geschmack </SEGMENT></NAI>
+                <SEGMENT> entspannter sein, </SEGMENT>
+            </F>
+            <QUD string = "Was wird in Bezug auf die Sitzposition empfohlen?">
+                <CON><SEGMENT> auch hier gilt der Rat, </SEGMENT></CON>
+                <F><SEGMENT> vor dem Kauf eine Proberunde zu drehen. </SEGMENT></F>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Radgröße -->
+        <QUD string = "Was ist mit der Radgröße?">
+            <QUD string = "Wie groß sind die Räder?">
+                <F><SEGMENT> Mit seinen 29-Zoll-Laufrädern </SEGMENT></F>
+            </QUD>
+            <QUD string = "Wie wirkt das Speedfox durch die Radgröße?">
+                <F><SEGMENT> steht das Speedfox wie ein Riese im Raum, </SEGMENT></F>
+            </QUD>
+            <QUD string = "Was ist der Vorteil von großen Rädern?">
+                <QUD string = "Was tun die Laufräder auf der Strecke?">
+                    <CON><SEGMENT> sie </SEGMENT></CON>
+                    <F id="11.3.1"><SEGMENT> beruhigen </SEGMENT></F>
+                    <RES><SEGMENT> indes </SEGMENT></RES>
+                    <F id="11.3.1"><SEGMENT> fein auf der Strecke. </SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Reichweite -->
+        <QUD string = "Was ist mit der Reichweite des Speedfox?">
+            <QUD string = "Wovon hängt die Reichweite ab?">
+                <CON><SEGMENT> Wie weit die sein darf, </SEGMENT></CON>
+                <F><SEGMENT> hängt von Bein und Berg ab. </SEGMENT></F>
+            </QUD>
+            <QUD string = "Wie groß ist die Reichweite schätzungsweise?">
+                <CON><SEGMENT> Grob </SEGMENT></CON>
+                <F><SEGMENT> 50 bis 200 Kilometer sind drin. </SEGMENT></F>
+            </QUD>
+        </QUD>
+    </QUD>
+</ROOT>

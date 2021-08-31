@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
+
+<ROOT>
+    <QUD string="Was ist mit der Harley Low Rider S?">
+        <QUD string="Was ist mit dem Aussehen der Harley Low Rider S?">
+            <QUD string="Was ist mit den Farben des Motorrads?">
+                <CON><SEGMENT>Das neue Motorrad </SEGMENT></CON>
+                <QUD string="Woher stammt das Motorrad?">
+                    <F><SEGMENT>aus Milwaukee </SEGMENT></F>
+                </QUD>
+                <F><SEGMENT>wird in der Lackierung „Vivid Black“ angeboten.</SEGMENT></F>
+                <QUD string = "Welche Komponenten des Motorrads werden vom Vivid Black geschmückt?">
+                    <CON><SEGMENT> Vivid Black </SEGMENT></CON>
+                    <F id = "1.1.2.1"><SEGMENT> schmückt den 18,9-Liter-Tank, </SEGMENT></F>
+                    <F id = "1.1.2.2"><SEGMENT> die Schutzbleche </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id = "1.1.2.3"><SEGMENT> die kleine Lampenverkleidung. </SEGMENT></F>
+                </QUD>
+
+                <QUD string = "Welche Komponenten sind in einer zweiten Farbe?">
+                    <RES><SEGMENT> Derweil </SEGMENT></RES>
+                    <F id = "1.1.3.1">
+                        <SEGMENT> tragen </SEGMENT>
+                        <SEGMENT> Telegabel, </SEGMENT>
+                    </F>
+                    <F id = "1.1.3.2"><SEGMENT> Lenker </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id = "1.1.3.3"><SEGMENT> die hinteren Schutzblechhalterungen </SEGMENT></F>
+    
+                    <QUD string = "Welche Farbe tragen sie?">
+                        <CON><SEGMENT> eine Beschichtung in </SEGMENT></CON>
+                        <F><SEGMENT> „Matte Black“. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+                <QUD string = "Welche Komponenten sind in einer dritten Farbe?">
+                    <F><SEGMENT> Für die Hitzeschilde der Auspuffanlage </SEGMENT></F>
+    
+                    <QUD string = "Welche Farbe tragen sie?">
+                        <F><SEGMENT> kommt „Jet Black“ zum Einsatz, </SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+                <QUD string = "Welche Komponenten sind in einer vierten Farbe?">
+                    <F id = "1.1.5.1"><SEGMENT> für Luftfiltergehäuse, </SEGMENT></F>
+                    <F id = "1.1.5.2"><SEGMENT> Kupplungs- </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id = "1.1.5.3"><SEGMENT> Zylinderkopfdeckel dagegen </SEGMENT></F>
+                    <RES><SEGMENT> dagegen </SEGMENT></RES>
+    
+                    <QUD string = "Welche Farbe tragen sie?">
+                        <F><SEGMENT> „Gloss Black“. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+                <QUD string = "Welche Komponenten sind in einer fünften Farbe?">
+                    <RES><SEGMENT> Im Unterschied dazu </SEGMENT></RES>
+                    <F id = "1.1.6.1"><SEGMENT> werden Motor, </SEGMENT></F>
+                    <F id = "1.1.6.2"><SEGMENT> Tankkonsole </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id = "1.1.6.3"><SEGMENT> die Abdeckung des Primärantriebs </SEGMENT></F>
+    
+                    <QUD string = "Welche Farbe tragen sie?">
+                        <F><SEGMENT> in „Wrinkle Black“ getaucht, </SEGMENT></F>
+    
+                        <QUD string = "Wie lässt sich diese Farbe ins Deutsche übersetzen?">
+                            <CON><SEGMENT> was </SEGMENT></CON>
+                            <F><SEGMENT>  sich mit Runzel-Schwarz übersetzen lässt. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+
+                <QUD string="Farbauswahl/Farbnuancen von Schwarztönen?">
+                    <QUD string="Was weiß man dank (des Songs/Evergreens von) Los Bravos?">
+                        <CON><SEGMENT> Zu Erinnerung: </SEGMENT></CON>
+                        <QUD string="Von wann ist das Lied?">
+                            <F><SEGMENT> Es war im Jahr 1966, als </SEGMENT></F>
+                        </QUD>
+                        <QUD string="Von welchem Interpret/welcher Band ist das Lied?">
+                            <F><SEGMENT> Los Bravos sangen: </SEGMENT></F>
+                        </QUD>
+
+                        <F><SEGMENT> „Black is Black“. </SEGMENT></F>
+
+                        <QUD string="Wie bekannt ist das Lied?">
+                            <F id = "1.1.7.1.1.1"><SEGMENT> Der eingängige Sommerhit </SEGMENT></F>
+                            <F id = "1.1.7.1.1.2"><SEGMENT> wurde zum Evergreen. </SEGMENT></F>
+                        </QUD>
+                        <QUD string="Wie wurde das Lied rezipiert?">
+                            <F><SEGMENT>Lange haben die Leute geglaubt, was Los Bravos sangen.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                    <QUD string="Was weiß man dank Harley-Davidson?">
+                        <CON><SEGMENT>Dank Harley-Davidson wissen wir heute:</SEGMENT></CON>
+                        <F id="1"><SEGMENT> Stimmt gar nicht! </SEGMENT></F>
+                        <QUD string="Aus welchem Grund stimmt das nicht?">
+                            <!-- weil Harley-Davidson viele Schwarzschattierungen unterscheidet -->
+                            <QUD string="Welche (/Wieviele) Schwarztöne unterscheidet Harley-Davidson?">
+                                <F id = "1.1.7.2.1.1"><SEGMENT> Vivid Black, </SEGMENT></F>
+                                <F id = "1.1.7.2.1.2"><SEGMENT> Matte Black, </SEGMENT></F>
+                                <F id = "1.1.7.2.1.3"><SEGMENT> Jet Black, </SEGMENT></F>
+                                <F id = "1.1.7.2.1.4"><SEGMENT> Gloss Black, </SEGMENT></F>
+                                <F id = "1.1.7.2.1.5"><SEGMENT> Wrinkle Black - </SEGMENT></F>
+                            </QUD>
+                            <!-- und weil Harley-Davidson die vielen Schwarzschattierungen dann auch noch alle am gleichen Motorrad verwendet -->
+                            <QUD string = "Welche (/Wieviele) Schwarztöne verwendet/kombiniert Harley-Davidson auf einmal?">
+                                <CON><SEGMENT> alles </SEGMENT></CON>
+                                <F><SEGMENT> an einem einzigen Motorrad. </SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                        <F id="1"><SEGMENT> Black ist nicht gleich Black. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string="Was ist mit der Bauweise des Motorrads?">
+            <QUD string = "Was ist mit der Baureihe(ngeschichte) der Lower Rider?">
+                <QUD string="In welche Baureihe gehörte die Low Rider früher?">
+                    <!-- Dyna -->
+                    <CON><SEGMENT> Eine Low Rider S  </SEGMENT></CON>
+                    <QUD string"Was verkörpert die Low Rider?">
+                        <F><SEGMENT> als Paradebeispiel eines finsteren Cruisers </SEGMENT></F>
+                    </QUD>
+                    <F id = "1.2.1.1"><SEGMENT> führte Harley-Davidson </SEGMENT></F>
+                    <QUD string="Bis wann lief die Dyna-Reihe?">
+                        <F><SEGMENT> bis vor zwei Jahren </SEGMENT></F>
+                    </QUD>
+                    <QUD string="Was waren Harleys Pläne für die Dyna-Reihe?">
+                        <F><SEGMENT> in der seinerzeit beerdigten (Dyna-Baureihe) </SEGMENT></F>
+                    </QUD>
+                    <F id = "1.2.1.1"><SEGMENT> Dyna-Baureihe. </SEGMENT></F>
+                </QUD>
+                <QUD string="In welche Baureihe gehört die Low Rider jetzt?">
+                    <!-- Softtail -->
+                    <RES><SEGMENT>Nun </SEGMENT></RES>
+                    <F id="1.1.2.2.1"><SEGMENT>kehrt </SEGMENT></F>
+                    <F id="1.1.2.2.2"><SEGMENT>der Power-Zombie </SEGMENT></F>
+                    <F id="1.1.2.2.3"><SEGMENT>als Mitglied der Softail-Reihe </SEGMENT></F>
+                    <F id="1.1.2.2.1"><SEGMENT>zurück.</SEGMENT></F>
+                    <!-- Eigenschaft der Softtail-Reihe: Illusion eines ungefederten Hinterrads -->
+                    <QUD string="Was ist der Unterschied des Softail-Fahrwerks zur vorherigen Bauweise?">
+                        <CON><SEGMENT> Der markanteste Unterschied des Softail-Fahrwerks zur damaligen Dyna-Konstruktion: </SEGMENT></CON>
+                        <F id = "1.2.3.1"><SEGMENT> keine Stereo-Federbeine am Heck, </SEGMENT></F>
+                        <RES><SEGMENT> stattdessen </SEGMENT></RES>
+                        <F id="1.1.2.2.1.2.2">
+                            <SEGMENT>ein </SEGMENT>
+                            <NAI><SEGMENT>raffiniert </SEGMENT></NAI>
+                            <SEGMENT>unterm Sattel verstecktes Federelement,</SEGMENT>
+                        </F>
+                        <QUD string="Was ermöglicht das Federelement?">
+                            <CON><SEGMENT>das </SEGMENT></CON>
+                            <F id="1.1.2.2.1.2.1.1"><SEGMENT>den klassischen Starrrahmen-Look</SEGMENT></F>
+                            <F id="1.1.2.2.1.2.1.2"><SEGMENT> mit der Illusion eines ungefederten Hinterrads ermöglicht.</SEGMENT></F>
+                            <QUD string="Wie funktioniert die Illusion eines ungefederten Hinterrads genau?"><!-- vielleicht zu viel Struktur -->
+                                <QUD string="Wo kann eine Erklärung gefunden werden?">
+                                    <F id="1.1.2.2.1.2.1.1"><SEGMENT>Wir haben das</SEGMENT></F>
+                                    <RES><SEGMENT> schon </SEGMENT></RES>
+                                    <F id="1.1.2.2.1.2.1.1"><SEGMENT>anhand anderer Softails beschrieben.</SEGMENT></F>
+                                </QUD>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Was ist mit den Rädern?">
+                <QUD string = "Was für Farbe haben die Räder?">
+                    <F id = "1.3.1.1.1"><SEGMENT> Nicht in Schwarz, </SEGMENT></F>
+                    <RES><SEGMENT> sondern </SEGMENT></RES>
+                    <F id = "1.3.1.1.2"><SEGMENT> in „Matte Dark Bronze“ </SEGMENT></F>
+
+                    <QUD string = "Was für Räder hat das Fahrzeug?">
+                        <F><SEGMENT> sind die Leichtmetallräder der Maschine gehalten </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Was für eine Farbe ist die „Matte Dark Bronze“?">
+                        <CON><SEGMENT> was </SEGMENT></CON>
+                        <F><SEGMENT> ein Bronzeton ist, wie man ihn sich schwärzer kaum vorstellen kann. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+                <QUD string = "Wie groß sind die Räder?">
+                    <CON><SEGMENT> Die Räder </SEGMENT></CON>
+                    <F id = "1.3.2.1"><SEGMENT> messen 19 Zoll vorn  </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id = "1.3.2.2"><SEGMENT> 16 hinten. </SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string="Wie ist die Designrichtung des Motorrads?">
+                <QUD string="Was ist mit dem Lenker?">
+                    <F id="1.1.2.4.1.1"><SEGMENT>Gemeinsam mit dem brusthoch dargereichten, </SEGMENT></F>
+                    <F id="1.1.2.4.1.2"><SEGMENT>auf Risern montierten </SEGMENT></F>
+                    <CON><SEGMENT>Lenker, </SEGMENT></CON>
+                </QUD>
+                <QUD string="Was ist mit dem Sitz?">
+                    <F><SEGMENT>der tiefen Mulde des Solositzes </SEGMENT></F>
+                </QUD>
+                <QUD string="Was ist mit dem Scheinwerfer?">
+                    <RES><SEGMENT>und </SEGMENT></RES>
+                    <F><SEGMENT>der Banditenmaske für den Scheinwerfer</SEGMENT></F>
+                </QUD>
+                <F id="1.1.2.4.1"><SEGMENT> ergibt das eine Designrichtung, </SEGMENT></F>
+                <F id="1.1.2.4.2"><SEGMENT>die der Hersteller als „Coastal Look“ südkalifornischen Ursprungs bezeichnet.</SEGMENT></F>
+                <QUD string="Welche Wirkung hat das Design der Low Rider S?">
+                    <QUD string="Wie ist diese Bezeichnung zu verstehen?"><!-- wirkt nicht so: -->
+                        <F id="1.1.2.4.4"><SEGMENT>Als Hinweis auf ein sonniges Gemüt darf </SEGMENT></F>
+                        <CON><SEGMENT>das </SEGMENT></CON>
+                        <F id="1.1.2.4.4"><SEGMENT>nicht missverstanden werden.</SEGMENT></F>
+                        <QUD string="Wie wirkt sie insgesamt?">
+                            <CON><SEGMENT>Die Low Rider S </SEGMENT></CON>
+                            <F><SEGMENT>wirkt alles andere als beachboynett.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                    <QUD string="Wie wirkt die Sitzposition?"><!-- sondern wirkt so: -->
+                        <CON><SEGMENT>Die Sitzposition:</SEGMENT></CON>
+                        <F><SEGMENT> Macker vom Dienst.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+
+        <!-- DT = Motor -->
+        <QUD string = "Was ist mit dem Motor?">
+
+            <QUD string = "Was verschraubt Harley-Davidson im Softail-Rahmen? (Wie heisst der Motor?)">
+                <CON><SEGMENT> Passend dazu verschraubt Harley-Davidson im Softail-Rahmen </SEGMENT></CON>
+                <F>
+                    <SEGMENT> seine große Wumme, </SEGMENT>
+                    <SEGMENT> den Milwaukee-Eight 114  </SEGMENT>
+                </F>
+
+                <QUD string = "Wie groß ist der Hubraum des Motors?">
+                    <F>
+                        <SEGMENT> mit 114 Kubikzoll Hubraum, </SEGMENT>
+                        <SEGMENT> umgerechnet 1868 Kubikzentimeter. </SEGMENT>
+                    </F>
+                </QUD>
+            </QUD>
+
+            <QUD string="Wie zeigt sich die Leistung?">
+                <QUD string="Wieviel Gewicht wird bewegt (mit dieser Leistung von den 94 PS)?">
+                    <F><SEGMENT> Den gut sechs Zentnern Fahrzeugmasse </SEGMENT></F>
+                </QUD>
+                <F id="1.2.2.1">
+                    <SEGMENT>rückt der </SEGMENT>
+                    <NAI><SEGMENT> ruhig bollernde </SEGMENT></NAI>
+                    <SEGMENT>V-Zweizylinder </SEGMENT>
+                </F>
+                <QUD string="Wie viel PS hat der Motor?">
+                    <F>
+                        <SEGMENT>mit 94 PS </SEGMENT>
+                        <SEGMENT>(69 kW)</SEGMENT>
+                    </F>
+                </QUD>
+                <F id="1.2.2.1"><SEGMENT> zu Leibe.</SEGMENT></F>
+            </QUD>
+
+            <QUD string="Wann erreicht das Motorrad seinen Leistungshöhepunkt?">
+                <QUD string="Was ist mit dem Katapulterlebnis?">
+                    <CON><SEGMENT>Das Katapulterlebnis </SEGMENT></CON>
+                    <F><SEGMENT>erreicht seinen Höhepunkt bei 3000 Kurbelwellenumdrehungen, </SEGMENT></F>
+                    <QUD string="Was ist mit dem Drehmoment der Low Rider S?">
+                        <RES><SEGMENT>wenn</SEGMENT></RES>
+                        <F id="1.2.3.1.1">
+                            <SEGMENT> 155 Newtonmeter Drehmoment eine (/ihre) </SEGMENT>
+                            <NAI><SEGMENT>recht beeindruckende </SEGMENT></NAI>
+                            <SEGMENT>Wirkung entfalten.</SEGMENT>
+                        </F>
+                        <QUD string="Was bedeutet das für die Sitzposition?">
+                            <CON><SEGMENT>Angesichts der Schubkraft</SEGMENT></CON><!-- Newtonmeter -->
+                            <QUD string="Was ist die Höchstgeschwindigkeit?">
+                                <F><SEGMENT> – laut Datenblatt reicht sie bis 190 km/h – </SEGMENT></F>
+                            </QUD>
+                            <F><SEGMENT>ergibt die nach hinten stützende Gesäßmulde tieferen Sinn.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+        </QUD>
+
+
+        <!-- DT = Fahrgefühl -->
+        <QUD string = "Was ist mit dem Fahrgefühl?">
+            <QUD string = "Was passiert in Schräglage?">
+                <CON><SEGMENT> In Schräglage </SEGMENT></CON>
+                <F id="1.3.1.1"><SEGMENT> kratzen die </SEGMENT></F>
+                <F id="1.3.1.2"><SEGMENT>mittig plazierten </SEGMENT></F>
+                <F id="1.3.1.1"><SEGMENT>Fußrasten </SEGMENT></F>
+                <F id="1.3.1.3"><SEGMENT>für Harley-Verhältnisse </SEGMENT></F>
+                <F id="1.3.1.1"><SEGMENT>spät am Asphalt,</SEGMENT></F>
+
+                <QUD string = "Woran liegt das?">
+                    <RES><SEGMENT> weil </SEGMENT></RES>
+                    <F><SEGMENT> relativ hoch montiert. </SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Welcher Nachteil entsteht dadurch?/Wie ist die Sitzposition für den Fahrer?">
+                <CON><SEGMENT> Der Nachteil: </SEGMENT></CON>
+
+                <QUD string = "Bei welchem Körpergröße entsteht ein Nachteil?">
+                    <F><SEGMENT> Bei einer Körpergröße von einsfünfundachtzig aufwärts </SEGMENT></F>
+                </QUD>
+
+                <F><SEGMENT> führt das zu einem arg gefalteten Arrangement des Unterkörpers. </SEGMENT></F>
+            </QUD>
+
+
+            <QUD string = "Was ist mit der Bremsanlge?">
+                <F><SEGMENT> Gute Dienste leistet </SEGMENT></F><!-- "Es gibt ..." -->
+
+                <QUD string = "Was für eine Bremsanalage hat das Fahrzeug?">
+                    <F id = "1.5.2.1.1"><SEGMENT> die kraftvolle ABS-Bremsanlage </SEGMENT></F>
+                    <F id = "1.5.2.1.2"><SEGMENT> mit Doppelscheibe am Vorderrad, </SEGMENT></F>
+
+                    <QUD string = "Wovon wird das Vorderrad geführt?">
+                        <CON><SEGMENT> das </SEGMENT></CON>
+                        <F><SEGMENT> von einer wuchtigen USD-Gabel geführt wird. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+
+            <QUD string="Wie ist das Fahregfühl der Low Rider S?">
+                <CON><SEGMENT>Die Low Rider S </SEGMENT></CON>
+                <F id="1.5.1"><SEGMENT>federt ordentlich </SEGMENT></F>
+                <RES><SEGMENT>und </SEGMENT></RES>
+                <F id="1.5.2"><SEGMENT>lenkt willig,</SEGMENT></F>
+                <QUD string="Was ist mit der Gabel der Low Rider S?">
+                    <F id="1.5.1.1"><SEGMENT> lässt gar </SEGMENT></F>
+                    <QUD string="Wie ist die Gabel veglichen mit der Basis-Low-Rider?">
+                        <F><SEGMENT>dank einer im Vergleich zur Basis-Low-Rider zwei Grad steiler stehenden Gabel</SEGMENT></F>
+                    </QUD>
+                    <F id="1.5.1.1"><SEGMENT> eine Agilität spüren,</SEGMENT></F>
+                    <QUD string="Wie lässt sich diese Agilität bewerten?">
+                        <CON><SEGMENT> die </SEGMENT></CON>
+                        <F><SEGMENT>ähnlich überraschend ist wie die des in Wallung kommenden Nilpferds.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Preis -->
+        <QUD string="Preise und Extras?">
+            <QUD string="Was gehört nicht zur Austattung der Low Rider S?">
+                <QUD string="Welche anderen Harleys haben was der Low Rider S fehlt?">
+                    <RES><SEGMENT>Im Gegensatz zu </SEGMENT></RES>
+                    <F id="1.6.1.1">
+                        <SEGMENT>Harleys neuer Tourer-Generation </SEGMENT>
+                        <NAI><SEGMENT>(Fahrbericht folgt in Kürze) </SEGMENT></NAI>
+                    </F>
+                    <CON id="1.6.1.2"><SEGMENT>werden Low Rider S </SEGMENT></CON>
+                    <RES><SEGMENT>und </SEGMENT></RES>
+                    <CON id="1.6.1.3"><SEGMENT>die anderen Softail-Typen des Modelljahrs 2020</SEGMENT></CON>
+                </QUD>
+    
+                <F id="1.6.1.1"><SEGMENT> nicht mit Kurven-ABS </SEGMENT></F>
+                <RES><SEGMENT>sowie </SEGMENT></RES>
+                <F id="1.6.1.2"><SEGMENT>einer Traktionskontrolle mit Schräglagenerkennung ausgerüstet.</SEGMENT></F>
+            </QUD>
+    
+            <QUD string="Was lässt Harley Davidson offen (hinsichtlich Kurven-ABS und Traktionskontrolle)?">
+                <RES><SEGMENT>Ob </SEGMENT></RES>
+                <CON><SEGMENT>das in näherer Zukunft nachgeholt wird, </SEGMENT></CON>
+                <F><SEGMENT>ließen die Verantwortlichen während der Fahrvorstellung offen.</SEGMENT></F>
+            </QUD>
+    
+            <QUD string = "Was kündigte Harley Davidson an?">
+                <RES><SEGMENT> Dafür </SEGMENT></RES>
+                <CON><SEGMENT> verrieten sie, </SEGMENT></CON>
+                <RES><SEGMENT> dass </SEGMENT></RES>
+                <F id = "1.6.2.2.1"><SEGMENT> die schon in wenigen Wochen verfügbare </SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id = "1.6.2.2.2"><SEGMENT> 20.355 Euro kostende Low Rider S</SEGMENT></F>
+                <RES> außer </SEGMENT></RES>
+                <F id = "1.6.2.2.2"><SEGMENT> in „Vivid Black“ </SEGMENT></F>
+                <F id = "1.6.2.2.3"><SEGMENT> gegen 350 Euro Aufpreis </SEGMENT></F>
+                <RES><SEGMENT> auch </SEGMENT></RES>
+                <F id = "1.6.2.2.3"><SEGMENT> in einem hellen Nicht-Schwarz erhältlich sein wird. </SEGMENT></F>
+    
+                <QUD string = "Wie nennt Harley die Farbe?">
+                    <F><SEGMENT> Sie nennen es „Barracuda Silver“. </SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+    </QUD>
+
+</ROOT>

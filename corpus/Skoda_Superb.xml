@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<!DOCTYPE ROOT SYSTEM "qud1.dtd">
+<!--Skoda Superb-->	
+
+<ROOT>
+<QUD string="What about the driving report of Skoda Superb?">
+<!--DT = Introduction-->    
+    <QUD string="What about the Superb?">
+        <CON>
+            <SEGMENT>Der</SEGMENT>
+            <NAI><SEGMENT>große</SEGMENT></NAI>
+            <SEGMENT>Superb</SEGMENT>
+        </CON>
+        <F>
+            <SEGMENT>wird überarbeitet</SEGMENT>
+            <SEGMENT>und</SEGMENT>
+            <SEGMENT>kommt als Plug-in-Hybrid.</SEGMENT>
+        </F>
+
+        <QUD string="What about the electric cars?">
+            <AT>
+                <SEGMENT>Der</SEGMENT>
+                <NAI><SEGMENT>kleine</SEGMENT></NAI>
+                <SEGMENT>Citigo</SEGMENT>
+                <SEGMENT>fährt nur noch elektrisch.</SEGMENT>
+            </AT>
+            <F>
+                <SEGMENT>Alle werden elektrisch,</SEGMENT>
+                <SEGMENT>auch Škoda,</SEGMENT>
+            </F>
+            <CMT>
+                <SEGMENT>die VW-Tochterfirma aus Tschechien.</SEGMENT>
+            </CMT>    
+
+            <QUD string="What about the revision of the Superb?">
+                <AT>
+                    <SEGMENT>Anlässlich</SEGMENT>
+                </AT>
+                <CON>
+                    <SEGMENT>einer Überarbeitung</SEGMENT>
+                    <SEGMENT>des</SEGMENT>
+                </CON>
+                <CMT>
+                    <SEGMENT>Flaggschiffs</SEGMENT>
+                </CMT>    
+                <CON>    
+                    <SEGMENT>Superb</SEGMENT>
+                </CON>
+                <F>
+                    <SEGMENT>wird die Gelegenheit genutzt,</SEGMENT>
+                    <SEGMENT>dem großen Škoda auch eine Version mit Plug-in-Hybrid zu spendieren.</SEGMENT>
+                </F>
+
+                <QUD string="What about this version with Plug-in-Hybrid?">
+                    <AT>
+                        <SEGMENT>Zudem</SEGMENT>
+                    </AT>
+                    <F>
+                        <SEGMENT>wird es</SEGMENT>
+                        <SEGMENT>erstmals</SEGMENT>
+                        <SEGMENT>eine robuste Scout-Version vom Superb geben.</SEGMENT>
+                    </F>
+                </QUD>
+            </QUD>        
+            <!--DT = Launch-->
+            <QUD string="What about the production of electric cars?">
+                <AT>
+                    <SEGMENT>Auch</SEGMENT>
+                </AT>
+                <CON>
+                    <SEGMENT>Škoda rechnet damit,</SEGMENT>
+                </CON>
+                <F>
+                    <SEGMENT>dass</SEGMENT>
+                    <SEGMENT>bis zum Jahr 2025 rund ein Viertel der Produktion auf Elektromodelle entfallen wird,</SEGMENT>
+                    <SEGMENT>Plug-in-Hybride mitgerechnet.</SEGMENT>
+                </F>
+                <RES><SEGMENT>Allerdings</SEGMENT></RES>
+                <AT><SEGMENT>muss noch</SEGMENT></AT>
+                <F>
+                    <SEGMENT>bis Anfang 2020 auf den Superb mit Stecker gewartet werden,</SEGMENT>
+                    <SEGMENT>während die Marktpremiere des aufgefrischten Superb</SEGMENT>
+                    <SEGMENT>und</SEGMENT>
+                    <SEGMENT>des Superb Scout schon Ende Juni ist.</SEGMENT>
+                </F>
+            </QUD>
+        </QUD>
+        <!--DT = Price-->  
+        <QUD string="What about the price?">
+            <CON>
+                <SEGMENT>Die genauen Preise</SEGMENT>
+            </CON>
+            <F>
+                <SEGMENT>verschweigt Škoda noch,</SEGMENT>
+                <SEGMENT>sie sollen jedoch auf dem Niveau des Vorgängers liegen.</SEGMENT>
+            </F>
+            <DT>
+                <SEGMENT>Der Plug-in-Hybrid</SEGMENT>
+            </DT>
+            <F>
+                <SEGMENT>soll preislich nur leicht über den Dieselmodellen angesiedelt sein.</SEGMENT>
+            </F>
+        </QUD>
+        <!--DT = Design--> 
+        <QUD string="What about the space?">
+
+            <QUD string="What about the sedan and Kombi?">
+                <CON>
+                    <SEGMENT>Limousine und Kombi</SEGMENT>
+                </CON>
+                <F>
+                    <SEGMENT>haben fortan einen flacheren und breiteren Kühlergrill</SEGMENT>
+                    <SEGMENT>und</SEGMENT>
+                    <SEGMENT>sehen etwas dynamischer als bisher aus.</SEGMENT>
+                </F>
+            </QUD>
+
+            <QUD string="What about the dimensions?">
+                <CON>
+                    <SEGMENT>Die Abmessungen</SEGMENT>
+                </CON>
+                <F>
+                    <SEGMENT>sind fast identisch zum Vorgänger.</SEGMENT>
+                </F>
+
+                <QUD string="What are the sedan dimensions?">
+
+                    <QUD string="Why the new dimensions">
+                        <F>
+                            <SEGMENT>Bedingt durch die neue Frontschürze,</SEGMENT>
+                        </F>
+                    </QUD>
+
+                    <F>
+                        <SEGMENT>ist die Limousine jetzt 4,87 Meter lang,</SEGMENT>
+                    </F>
+                </QUD>
+
+                <QUD string="What about the kombi dimensions?">
+                    <CON>
+                        <SEGMENT>der Kombi</SEGMENT>
+                    </CON>
+                    <F>
+                        <SEGMENT>misst 4,86 Meter.</SEGMENT>
+                    </F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <QUD string="What about the innovations?">
+            <CON>
+                <SEGMENT>Innovationen</SEGMENT>
+            </CON>
+            <F>
+                <SEGMENT>stecken vor allem unterm Blech.</SEGMENT>
+            </F>
+
+            <QUD string="What about the full-LED matrix headlights?">
+                <F>
+                    <SEGMENT>Erstmals</SEGMENT>
+                    <SEGMENT>kommen</SEGMENT>
+                </F>
+                <CON>
+                    <SEGMENT>Voll-LED-Matrix-Scheinwerfer</SEGMENT>
+                </CON>
+                <F>
+                    <SEGMENT>in einem Škoda zum Einsatz,</SEGMENT>
+                </F>
+            </QUD>
+
+            <AT>
+                <SEGMENT>außerdem</SEGMENT>
+            </AT>
+            <F>
+                <SEGMENT>halten</SEGMENT>
+                <SEGMENT>neue Assistenzsysteme</SEGMENT>
+            </F>
+
+            <QUD string="What are the assistance systems?">
+                <AT>
+                    <SEGMENT>wie beispielsweise</SEGMENT>
+                </AT>
+                <F>
+                    <SEGMENT>der vorausschauende adaptive Abstandsregler</SEGMENT>
+                    <SEGMENT>und</SEGMENT>
+                    <SEGMENT>der Side Assist Einzug in den Superb.</SEGMENT>
+                </F>
+            </QUD>
+
+            <QUD string="What about the power source?">
+                <CON>
+                    <SEGMENT>Als Kraftquelle</SEGMENT>
+                </CON>
+                <F>
+                    <SEGMENT>stehen zunächst drei Ottotriebwerke mit 150 bis 272 PS</SEGMENT>
+                    <SEGMENT>und</SEGMENT>
+                    <SEGMENT>drei Dieselaggregate mit 120 bis 190 PS zur Wahl.</SEGMENT>
+                </F>
+            </QUD>
+
+            <QUD string="What about the Scout variant with subtle plastic planking?">
+                <CON>
+                    <SEGMENT>Die Scout-Variante mit dezenter Plastik-Beplankung,</SEGMENT>
+                </CON>
+                <AT>
+                    <SEGMENT>die nur als Kombi und mit serienmäßigem Allradantrieb daherkommt,</SEGMENT>
+                </AT>
+                <F>
+                    <SEGMENT>ist 1,5 Zentimeter höhergelegt,</SEGMENT>
+                </F>
+                <F>
+                    <SEGMENT>hier</SEGMENT>
+                    <SEGMENT>stehen</SEGMENT>
+                    <SEGMENT>die beiden Zweiliter-Topmotorisierungen</SEGMENT>
+                    <SEGMENT>(TSI mit 272 PS und TDI mit 190 PS)</SEGMENT>
+                    <SEGMENT>parat.</SEGMENT>
+                </F>
+            </QUD>
+
+            <QUD string="What do expect the Škoda company?">
+                <CON>
+                    <SEGMENT>Škoda Deutschland erwartet,</SEGMENT>
+                </CON>
+                <F>
+                    <SEGMENT>dass sich rund zehn Prozent aller Superb-Käufer für den Scout entscheiden werden.</SEGMENT>
+                </F>
+            </QUD>
+
+            <QUD string="What is the most important innovation?">
+                <CON>
+                    <SEGMENT>Wichtigste Neuerung</SEGMENT>
+                    <SEGMENT>ist</SEGMENT>
+                    <SEGMENT>freilich</SEGMENT>
+                </CON>
+                <F>
+                    <SEGMENT>das Plug-in-Modell,</SEGMENT>
+                    <SEGMENT>das das Kürzel iV trägt.</SEGMENT>
+                </F>
+            </QUD>
+        </QUD>
+
+        <QUD string="What are the versions?">
+            <CON>
+                <SEGMENT>Es</SEGMENT>
+                <SEGMENT>ist</SEGMENT>
+            </CON>
+            <F>
+                <SEGMENT>als</SEGMENT>
+                <SEGMENT>Limousine oder Kombi</SEGMENT>
+                <SEGMENT>erhältlich.</SEGMENT>
+            </F>
+
+            <QUD string="What about the Hybrid drive?">
+                
+                <QUD string="What about the Plug-in-Hybrid">
+                    <CON>
+                        <SEGMENT>Der Plug-in-Hybrid</SEGMENT>
+                    </CON>
+                    <F>
+                        <SEGMENT>kombiniert</SEGMENT>
+                        <SEGMENT>einen 1,4-Liter-TSI-Benziner mit 156 PS</SEGMENT>
+                        <SEGMENT>und</SEGMENT>
+                        <SEGMENT>einen 116 PS starken Elektromotor.</SEGMENT>
+                    </F>
+    
+                    <QUD string="What about the power?">
+                        <CON>
+                            <SEGMENT>Die Kraft</SEGMENT>
+                        </CON>
+                        <F>
+                            <SEGMENT>wird mittels eines Sechs-Gang-DSG-Getriebes auf die Räder gebracht.</SEGMENT>
+                        </F>
+    
+                        <QUD string="What about the system performance?">
+                            <CON>
+                                <SEGMENT>Die Gesamtsystemleistung</SEGMENT>
+                            </CON>
+                            <F>
+                                <SEGMENT>beträgt 218 PS bei einem Drehmoment-Bestwert von 400 Newtonmetern.</SEGMENT>
+                            </F>
+                        </QUD>
+                    </QUD>
+                </QUD>   
+
+                <QUD string="What about the electrical range?">
+                    <CON>
+                        <SEGMENT>Die rein elektrische Reichweite</SEGMENT>
+                    </CON>
+                    <CMT>
+                        <SEGMENT>nach WLTP gemessen</SEGMENT>
+                    </CMT>
+                    <F>
+                        <SEGMENT>liegt</SEGMENT>
+                        <SEGMENT>nach Herstellerangaben bei 55 Kilometern.</SEGMENT>
+                    </F>
+                </QUD>
+
+                <QUD string="What is it possible with the 50-liter tank in the Hybrid?">
+                    <CON>
+                        <SEGMENT>Dank des 50-Liter-Tanks</SEGMENT>
+                    </CON>
+                    <F>
+                        <SEGMENT>ist</SEGMENT>
+                        <SEGMENT>rein rechnerisch</SEGMENT>
+                        <SEGMENT>eine Gesamtreichweite von 850 Kilometern möglich,</SEGMENT>
+                        <SEGMENT>und</SEGMENT>
+                        <SEGMENT>die CO2-Emissionen sollen unter 40 Gramm je Kilometer liegen.</SEGMENT>
+                    </F>
+                </QUD>
+            </QUD>
+
+            <QUD string="What can the driver choose?">
+                <CON>
+                    <SEGMENT>Der Fahrer hat die Wahl</SEGMENT>
+                </CON>
+                <F>
+                    <SEGMENT>zwischen den drei Fahrmodi Sport, Elektrisch und Hybrid.</SEGMENT>
+                </F>
+            </QUD>
+            
+            <QUD string="What about the lithium-ion battery?">
+                <CON>
+                    <SEGMENT>Die Lithium-Ionen-Batterie</SEGMENT>
+                </CON>
+                <F>
+                    <SEGMENT>hat eine Kapazität von 13 kWh,</SEGMENT>
+                </F>
+
+                <QUD string="How to charge the battery?">
+                    <DT>
+                        <SEGMENT>sie</SEGMENT>
+                    </DT>
+                    <F>
+                        <SEGMENT>lässt sich über Nacht an einer Haushaltssteckdose</SEGMENT>
+                        <SEGMENT>oder</SEGMENT>
+                        <SEGMENT>in dreieinhalb Stunden an einer Wallbox laden.</SEGMENT>
+                    </F>
+
+                    <QUD string="How is it for Škoda Citigo?">
+                        <F>
+                            <SEGMENT>Nur mit Strom fährt</SEGMENT>
+                            <SEGMENT>künftig</SEGMENT>
+                        </F>
+                        <CON>
+                            <SEGMENT>der kleine Škoda Citigo,</SEGMENT>
+                        </CON>
+                        <CMT>    
+                            <SEGMENT>der auf dem VW Up basiert.</SEGMENT>
+                        </CMT>
+                        <AT>
+                            <SEGMENT>Alle anderen Citigo-Modelle werden vom Markt genommen.</SEGMENT>
+                        </AT>
+                        
+                        <QUD string="How different are the both models?">
+                            <CON>
+                                <SEGMENT>Er unterscheidet sich von seinen Geschwistern</SEGMENT>
+                            </CON>
+                            <F>
+                                <SEGMENT>mit Verbrennungsmotor durch seinen geschlossenen Kühlergrill.</SEGMENT>
+                            </F>
+
+                            <QUD string="How is the power of the electrical motor?">
+                                <CON>
+                                    <SEGMENT>Der Elektromotor</SEGMENT>
+                                </CON>
+                                <F>
+                                    <SEGMENT>leistet 83 PS</SEGMENT>
+                                    <SEGMENT>und</SEGMENT>
+                                    <SEGMENT>bietet einen Drehmoment-Bestwert von 210 Nm.</SEGMENT>
+                                </F>
+
+                                <QUD string="What is the highest speed?">
+                                    <CON>
+                                        <SEGMENT>Die Höchstgeschwindigkeit</SEGMENT>
+                                    </CON>
+                                    <F>
+                                        <SEGMENT>ist auf 130 km/h limitiert.</SEGMENT>
+                                    </F>
+                                </QUD>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+
+                <QUD string="Where is the 36,8 kWh Lithium-Ionen-Batterie?">
+                    <F>
+                        <SEGMENT>Im Wagenboden des 3,60 Meter kurzen Stadtwägelchens</SEGMENT>
+                        <SEGMENT>sitzt</SEGMENT>
+                    </F>
+                    <CON>
+                        <SEGMENT>eine 36,8 kWh starke Lithium-Ionen-Batterie,</SEGMENT>
+                    </CON>
+
+                    <QUD string="How long does it take to be charged?">
+                        <F>
+                            <SEGMENT>die an einer Haushaltssteckdose in zwölfeinhalb Stunden aufgeladen werden kann.</SEGMENT>
+                        </F>
+
+                        <QUD string="How is it in a rapid charging station?">
+                            <CON>
+                                <SEGMENT>An der Schnellladestation</SEGMENT>
+                            </CON>
+                            <F>
+                                <SEGMENT>geht es zügiger voran,</SEGMENT>
+                                <SEGMENT>80 Prozent innerhalb einer Stunde werden versprochen.</SEGMENT>
+                            </F>
+                        </QUD>
+                    </QUD>
+                </QUD>   
+            </QUD>
+        </QUD>
+
+        <QUD string="What about the range?">
+            <CON>
+                <SEGMENT>Die Reichweite</SEGMENT>
+            </CON>
+            <F>
+                <SEGMENT>beträgt</SEGMENT>
+                <SEGMENT>laut Hersteller</SEGMENT>
+                <SEGMENT>nach WLTP 265 Kilometer, im Alltag werden es weniger sein.</SEGMENT>
+            </F>
+        </QUD>
+
+        <QUD string="What about the start price?">
+            <CON>
+                <SEGMENT>Der Basispreis</SEGMENT>
+            </CON>
+            <F>
+                <SEGMENT>von 20.000 Eur</SEGMENT>
+            </F>
+
+            <QUD string="How is this price compared to others models">
+                <F>
+                    <SEGMENT>ist absolut hoch und relativ niedrig.</SEGMENT>
+                </F>
+
+                <QUD string="How is it compared to the Citigo?">
+                    <AT>
+                        <SEGMENT>Allerdings</SEGMENT>
+                    </AT>
+                    <F>
+                        <SEGMENT>kostet</SEGMENT>
+                    </F>
+                    <CON>
+                        <SEGMENT>der scheidende Citigo-Benziner</SEGMENT>
+                    </CON>
+                    <F>
+                        <SEGMENT>weniger als die Hälfte.</SEGMENT>
+                    </F>
+                </QUD>
+            </QUD>
+        </QUD>
+    </QUD> 
+</QUD>
+</ROOT>
