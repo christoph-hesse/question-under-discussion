@@ -7,4 +7,4 @@ F         focus constituent
 CON       context/background constituent
 RES       rest/miscellaneous (discourse markers, connectives, etc.)
 SEGMENT   text span
-NAI       not-at-issue content (all SEGMENTs in F, CON or RES without NAI are considered at-issue, parsimonious annotation)
+NAI       not-at-issue content (all SEGMENTs in F, CON or RES without NAI are considered at-issue)
