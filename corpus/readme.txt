@@ -8,3 +8,5 @@ CON       context/background constituent
 RES       rest/miscellaneous (discourse markers, connectives, etc.)
 SEGMENT   text span
 NAI       not-at-issue content (all SEGMENTs in F, CON or RES without NAI are considered at-issue)
+
+See annotation_guidelines.pdf for details on tagging!
