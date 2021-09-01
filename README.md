@@ -1,1 +1,2 @@
 # Text corpus annotated for question-under-discussion (QUD)
+Corpus of driving reports from German motoring magazines. Texts' discourse structure was annotated using QUD trees, where the level of conceptual abstraction increases with hight in the trees. See annotation_guidelines.pdf for details on the tagging and QUD tree structures. Files are in XML format with the tags described in annotation_guidelines.pdf. See Hesse_LDK_talk.mp4 and Hesse_LDK_talk.pdf for further details.
