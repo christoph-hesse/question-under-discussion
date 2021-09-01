@@ -1,1 +1,1 @@
-# question-under-discussion
+# Text corpus annotated for question-under-discussion (QUD)
