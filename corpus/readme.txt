@@ -9,4 +9,4 @@ RES       rest/miscellaneous (discourse markers, connectives, etc.)
 SEGMENT   text span
 NAI       not-at-issue content (all SEGMENTs in F, CON or RES without NAI are considered at-issue)
 
-We treat focus/comment and background/topic to be synonymous. See annotation_guidelines.pdf for further details on tagging!
+We treat focus/comment and background/topic to be synonymous. See annotation_guidelines.pdf for further details on tagging.
