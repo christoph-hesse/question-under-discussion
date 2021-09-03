@@ -184,7 +184,9 @@
             </QUD>
 
             <QUD Sting="Was ist mit dem Getriebe?">
-                <F><SEGMENT> Für Allradantrieb  wird aber auch der nicht sorgen, es bleibt stets beim Frontantrieb. </SEGMENT></F>
+                <F id="1"><SEGMENT> Für Allradantrieb wird</SEGMENT></F>
+                <RES><SEGMENT> aber </SEGMENT></RES>
+                <F id="1"><SEGMENT> auch der nicht sorgen, es bleibt stets beim Frontantrieb. </SEGMENT></F>
             </QUD>
         </QUD> <!-- was ist mit der neuen Generation -->
 
