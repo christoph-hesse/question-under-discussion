@@ -1,0 +1,527 @@
+<?xml version="1.0"?>
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
+
+<ROOT>
+    <QUD string = "Was ist mit dem NGT Elektroroller?">
+        <!-- DT = Einleitung -->
+        <QUD string="Ab wann gibt es den neuen Elektroroller von Niu?">
+            <CON><SEGMENT> Niu, </SEGMENT></CON>
+            <QUD string="Was zeichnet Niu als Marke aus?">
+                <F><SEGMENT> seines Zeichens der Welt größter Hersteller von Elektrorollern, </SEGMENT></F>
+            </QUD>
+            <F id="1"><SEGMENT> verkauft seit Januar </SEGMENT></F>
+            <F id="2"><SEGMENT> unter der Bezeichnung NGT das gewünschte Gefährt. </SEGMENT></F>
+        </QUD>
+
+        <!-- DT = Technische Daten -->
+        <QUD string="Was ist mit den technische Daten?">
+            <QUD string="Wie ist der NGT im Vergleich zum vorherigen Modell?">
+                <QUD string = "Was ist mit der Größe?">
+                    <CON><SEGMENT> Es </SEGMENT></CON>
+                    <F><SEGMENT> ist kaum größer (als das vor zwei Jahren gefahrene Modell N1S)</SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                </QUD>
+    
+                <QUD string = "Was ist mit dem Gewicht?">
+                    <F id="2.1"><SEGMENT> mit 110 Kilo  </SEGMENT></F>
+                    <F id="2.2"><SEGMENT> nur wenig schwerer als das vor zwei Jahren gefahrene Modell N1S </SEGMENT></F>
+                </QUD>
+
+                <QUD string = "Was ist mit der Leistung?">
+                    <RES><SEGMENT>aber</SEGMENT></RES>
+                    <F id="1.2.3"><SEGMENT> stärker </SEGMENT></F>
+                    <RES><SEGMENT>und</SEGMENT></RES>
+                    <F id="1.2.4"><SEGMENT> schneller.</SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string="Was ist mit den Akkus des NGT?">
+                <QUD string="Wie viele Akkus hat der NGT?"> 
+                    <F><SEGMENT>Aus den zwei Akkus </SEGMENT></F>
+                </QUD>
+                <QUD string="Wie hoch ist die Spannung der Akkus?"> 
+                    <F id="1.3.1.2.1"><SEGMENT>mit 60 Volt Spannung,</SEGMENT></F>
+                </QUD>
+                <QUD string = "Wofür werden zwei Akkus mit 60 Volt gebraucht?">
+                    <CON><SEGMENT> die </SEGMENT></CON>
+                    <F><SEGMENT> für die höhere Leistungsaufnahme gebraucht werden, </SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string="Was für einen Motor hat der NGT?"> 
+                <F><SEGMENT>darf der Radnabenmotor von Bosch </SEGMENT></F>
+                <QUD string="Wie hoch ist die Stromstärke des Radnabenmotors?">
+                    <F><SEGMENT>bis zu 70 Ampere saugen </SEGMENT></F>
+                    <QUD string="Wie hoch ist die Stromstärke im kleinen Modell?">
+                        <RES><SEGMENT>(statt</SEGMENT></RES>
+                        <F><SEGMENT> 40 im kleinen Modell),</SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string="Wie hoch ist die Dauerleistung?"> 
+                    <CON><SEGMENT> als Dauerleistung </SEGMENT></CON>
+                    <F><SEGMENT>werden 3 kW angegeben.</SEGMENT></F>
+                    <QUD string="Welche Höchstgeschwindigkeit ermöglicht diese Dauerleistung?">
+                        <CON><SEGMENT>Das</SEGMENT></CON>
+                        <F><SEGMENT>reicht laut Anbieter für 70 km/h Höchstgeschwindigkeit,</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Wofür eignet sich diese Höchstgeschwindigkeit?"> 
+                        <F id="1.3.1.5.1.1"><SEGMENT>ist für den Stadtverkehr</SEGMENT></F>
+                        <RES><SEGMENT> also</SEGMENT></RES>
+                        <F id="1.3.1.5.1.1"><SEGMENT> mehr als genug,</SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id="1.3.1.5.1.2"><SEGMENT>macht den Führerschein A1 für Leichtkrafträder notwendig.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+        </QUD>
+
+        <!-- DT = Testfahrt -->
+        <QUD string="Wie war der NGT bei der Testfahrt?">
+            <QUD string="Was war die Höchstgeschwindigkeit bei der Testfahrt?">
+                <F id="1.4.1"><SEGMENT>Unser Exemplar lief </SEGMENT></F>
+                <RES><SEGMENT>sogar </SEGMENT></RES>
+                <F id="1.4.1"><SEGMENT>73 km/h, </SEGMENT></F>
+            </QUD>
+            <QUD string = "Was ist mit dem Tachometer?">
+                <CON><SEGMENT> der Tachometer </SEGMENT></CON>
+                <QUD string = "Wo befindet sich der Tachometer?">
+                    <F><SEGMENT> auf dem großen Display, </SEGMENT></F>
+                    <QUD string = "Was macht der Display?">
+                        <F><SEGMENT> das je nach Bedarf die Farbe wechselt, </SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <F><SEGMENT> zeigt dann 77. </SEGMENT></F>
+            </QUD>
+
+            <FEEDER>
+                <RES><SEGMENT> Zuvor </SEGMENT></RES>
+                <F id="1.4.3.1"><SEGMENT> muss </SEGMENT></F>
+                <RES><SEGMENT>jedoch </SEGMENT></RES>
+                <F id="1.4.3.1"><SEGMENT>gestartet werden,</SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id="1.4.3.1"><SEGMENT>das geht so:</SEGMENT></F>
+            </FEEDER>
+            <QUD string="Wie wird der NGT gestartet?">
+                <QUD string="Schritt 1?"><!-- Alarmanlage deaktivieren -->
+                    <F><SEGMENT> Alarmanlage deaktivieren,</SEGMENT></F>
+                    <QUD string="Was passiert beim Deaktivieren der Alarmanlage?">
+                        <CON><SEGMENT> sie </SEGMENT></CON>
+                        <F><SEGMENT>quittiert das mit schrillem Piepen.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string="Schritt 2?"><!-- Zündschlüssel drehen -->
+                    <QUD string="Wann geht das Display an?">
+                        <RES><SEGMENT> Wenn </SEGMENT></RES>
+                        <F><SEGMENT> der Zündschlüssel gedreht ist, </SEGMENT></F>
+                        <CON><SEGMENT>erwacht das Mäusekino,</SEGMENT></CON>
+
+                        <QUD string="Was zeigt das Display an?"> 
+                            <CON><SEGMENT> es </SEGMENT></CON>
+                            <F id="1.4.3.1.2.1.1"><SEGMENT>zeigt </SEGMENT></F>
+                            <RES><SEGMENT>unter anderem</SEGMENT></RES>
+                            <F id="1.4.3.1.2.1.1"><SEGMENT> den Zustand der zwei Batterien getrennt an,</SEGMENT></F>
+                        </QUD>
+                        <QUD string = "(Was zeigt das Display nicht an?/) Was fehlt bei der Anzeige?">
+                            <F id = "1.3.2.1.1.1"><SEGMENT> hat </SEGMENT></F>
+                            <RES><SEGMENT> aber </SEGMENT></RES>
+                            <F id = "1.3.2.1.1.1"><SEGMENT> keinen Tageskilometerzähler. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+                <QUD string="Schritt 3?"><!-- grünen Startknopf drücken -->
+                    <QUD string="Was macht den NGT einsatzbereit?">
+                        <F><SEGMENT>Ein grüner Knopf für den rechten Daumen </SEGMENT></F>
+                        <CON><SEGMENT>macht den Niu einsatzbereit.</SEGMENT></CON>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Wie laut ist der Roller NGT?">
+                <QUD string="Wie laut ist der NGT beim Starten?">
+                    <CON><SEGMENT> Das alles </SEGMENT></CON>
+                    <F><SEGMENT> geschieht geräuschlos, </SEGMENT></F>
+                    <QUD string = "Wie geräuschlos?">
+                        <RES><SEGMENT> so dass </SEGMENT></RES>
+                        <CON><SEGMENT> man sich fragt, </SEGMENT></CON>
+                        <F><SEGMENT> warum die anderen Mitbewerber um den knappen Verkehrsraum so viel Krach machen. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string="Wie laut ist der NGT bei Höchstgeschwindigkeit?">
+                    <RES><SEGMENT>Selbst</SEGMENT></RES>
+                    <CON><SEGMENT> bei Höchstgeschwindigkeit</SEGMENT></CON>
+                    <F><SEGMENT> ist kaum mehr als der Wind zu hören.</SEGMENT></F>
+                </QUD>
+                <QUD string="Was passierte bei der Testfahrt wegen der Geräuschlosigkeit?">
+                    <CON><SEGMENT>So kommt es,</SEGMENT></CON>
+                    <RES><SEGMENT> dass </SEGMENT></RES>
+                    <F id="1.4.4.1"><SEGMENT>der Tester eine halbe Minute unbemerkt hinter ein paar Passantinnen herjuckelte,</SEGMENT></F>
+                    <F id="1.4.4.2"><SEGMENT> die mitten auf der Straße so in eine Unterhaltung vertieft waren,</SEGMENT></F>
+                    <RES><SEGMENT> dass</SEGMENT></RES>
+                    <F id="1.4.4.3"><SEGMENT> er sich nicht traute zu stören.</SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Ausstattung -->
+        <QUD string="Wie ist die Ausstattung des NGT?">
+            <QUD string="Was ist mit dem Schwerpunkt des NGT?">
+                <F id="1.5.1.1"><SEGMENT>Der tiefe Schwerpunkt </SEGMENT></F>
+                <F id="1.5.1.2"><SEGMENT>macht das Balancieren leicht, </SEGMENT></F>
+                <QUD string="Worin besteht der tiefe Schwerpunkt?">
+                    <QUD string="Wo befinden sich die Akkus?">
+                        <F id="1.5.1.1.1.1"><SEGMENT>einer der </SEGMENT></F>
+                        <QUD string="Was ist das Gewicht der Akkus?"> 
+                            <F><SEGMENT>elf Kilo schweren </SEGMENT></F>
+                        </QUD>
+                        <F id="1.5.1.1.1.1"><SEGMENT>Akkus befindet sich unter den Füßen,</SEGMENT></F>
+                        <F id="1.5.1.1.1.2"><SEGMENT>der andere unter der </SEGMENT></F>
+                        <QUD string="Wie ist die Sitzbank?">
+                            <F id="1.5.1.1.1.2.1"><SEGMENT>niedrigen </SEGMENT></F>
+                            <RES><SEGMENT>und </SEGMENT></RES>
+                            <F id="1.5.1.1.1.2.2"><SEGMENT>reichlich harten </SEGMENT></F>
+                        </QUD>
+                        <F id="1.5.1.1.1.2"><SEGMENT>Sitzbank.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string="Welche Nachteile entstehen dadurch?">
+                    <CON id="1.5.1.1.1.3"><SEGMENT>Beides hat </SEGMENT></CON>
+                    <RES><SEGMENT>indes </SEGMENT></RES>
+                    <RES><SEGMENT>auch </SEGMENT></RES>
+                    <CON id="1.5.1.1.1.3"><SEGMENT>Nachteile, </SEGMENT></CON>
+                    <RES><SEGMENT>denn </SEGMENT></RES>
+                    <F id="1.5.1.1.1.3.1"><SEGMENT>Fahrer über eins achtzig sitzen mit den Knien an den Ohren wie der Affe auf einem Schleifstein, </SEGMENT></F>
+                    <RES><SEGMENT>und</SEGMENT></RES>
+                    <F id="1.5.1.1.1.3.2"><SEGMENT> der Stauraum reicht </SEGMENT></F>
+                    <RES><SEGMENT>gerade</SEGMENT></RES>
+                    <RES><SEGMENT> noch </SEGMENT></RES>
+                    <F id="1.5.1.1.1.3.2"><SEGMENT>für die Brieftasche.</SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Was ist mit dem Ladegerät?">
+                <QUD string = "Worauf ist man (wegen dem Ladegerät) angewiesen?">
+                    <F id="1"><SEGMENT> Wer </SEGMENT></F>
+                    <F id="2"><SEGMENT> das voluminöse Ladegerät</SEGMENT></F>
+                    <F id="1"><SEGMENT> mitnehmen möchte, ist auf ein Topcase angewiesen, </SEGMENT></F>
+
+                    <QUD string = "Was kostet die NGT?">
+                        <CON><SEGMENT> das </SEGMENT></CON>
+                        <F><SEGMENT> im Preis von knapp 4500 Euro </SEGMENT></F>
+                        <QUD string = "Ist das Topcase im Preis enthalten? (Was kostet das Topcase?)">
+                            <F><SEGMENT> nicht enthalten ist. </SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string = "Welche weiteren Staumöglichkeiten gibt es?">
+                <RES><SEGMENT> Ansonsten </SEGMENT></RES>
+                <F id = "1.4.2.1"><SEGMENT> gibt es einen Haken für die Tasche </SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id = "1.4.2.2"><SEGMENT> ein Handschuhfach, </SEGMENT></F>
+                <RES><SEGMENT> daneben </SEGMENT></RES>
+                <F id = "1.4.2.3"><SEGMENT> hat</SEGMENT></F>
+                <CON><SEGMENT> der Roller  </SEGMENT></CON>
+                <F id = "1.4.2.3"><SEGMENT> eine USB-Buchse. </SEGMENT></F>
+            </QUD>
+
+            <QUD string = "Was ist mit dem Scheinwerfer/Licht?">
+                <CON><SEGMENT> Das Licht </SEGMENT></CON>
+                <F><SEGMENT> spenden helle LED, </SEGMENT></F>
+            </QUD>
+
+            <QUD string = "Was ist mit dem Tempomat?">
+                <RES><SEGMENT> außerdem </SEGMENT></RES>
+                <F id = "1.4.4.1"><SEGMENT> ist </SEGMENT></F>
+                <F id = "1.4.4.2"><SEGMENT> serienmäßig </SEGMENT></F>
+                <F id = "1.4.4.1"><SEGMENT> ein Tempomat installiert, </SEGMENT></F>
+
+                <QUD string = "Wann wird er benötigt?">
+                    <CON><SEGMENT> der </SEGMENT></CON>
+                    <F><SEGMENT> nicht benötigt wird, </SEGMENT></F>
+
+                    <QUD string = "Was ist der Grund dafür?">
+                        <RES><SEGMENT> weil </SEGMENT></RES>
+                        <F id = "1.4.4.1.1.1"><SEGMENT> es über Land ohnehin nur eine Stellung des Gasgriffs gibt, </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string="Was ist mit den Blinkern?">
+                <RES><SEGMENT>und </SEGMENT></RES>
+                <F><SEGMENT>selbständig zurückstellende Blinker.</SEGMENT></F>
+            </QUD>
+
+            <QUD string="Was ist mit der App?">
+                <QUD string="Was ist einen Blick wert?">
+                    <F><SEGMENT>Einen Blick wert ist </SEGMENT></F>
+                    <CON><SEGMENT>die App, </SEGMENT></CON>
+                </QUD>
+
+                <QUD string="Was tut die App?">
+                    <CON><SEGMENT>die </SEGMENT></CON>
+                    <F id="1.6.1.1"><SEGMENT>mittels der </SEGMENT></F>
+                    <RES><SEGMENT>ebenfalls</SEGMENT></RES>
+                    <F id="1.6.1.1"><SEGMENT> serienmäßigen Sim-Karte permanent alles bereitstellt, was man über den Roller vielleicht wissen wollen könnte, </SEGMENT></F>
+                    <RES><SEGMENT>und</SEGMENT></RES>
+                    <RES><SEGMENT> noch einiges mehr. </SEGMENT></RES>
+                </QUD>
+                <QUD string="Was ist mit der Datensicherheit/-schutz der App?">
+                    <F id="1.6.2.1"><SEGMENT>Wer nicht möchte, </SEGMENT></F>
+                    <RES><SEGMENT>dass</SEGMENT></RES>
+                    <F id="1.6.2.1"><SEGMENT> sämtliche Aktionen </SEGMENT></F>
+                    <RES><SEGMENT>und </SEGMENT></RES>
+                    <F id="1.6.2.1"><SEGMENT>Wege über die Cloud bei Konfuzius landen,</SEGMENT></F>
+                    <F id="1.6.2.2"><SEGMENT>kann manche Funktionen deaktivieren </SEGMENT></F>
+                    <QUD string = "Wie sicher ist dieses Verfahren?">
+                        <RES><SEGMENT> ob </SEGMENT></RES>
+                        <F id = "1.4.5.2.1.1"><SEGMENT> die Daten </SEGMENT></F>
+                        <RES><SEGMENT> trotzdem </SEGMENT></RES>
+                        <F id = "1.4.5.2.1.1"><SEGMENT> irgendwo gesammelt werden, wissen wir nicht. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string="Welcher Vorteil hat die App?/Was ermöglichte die App (bei der Testfahrt)?">
+                    <F id="1">
+                        <NAI><SEGMENT> Erfreulich: </SEGMENT></NAI>
+                    </F>
+                    <CON>
+                        <SEGMENT> Über die App </SEGMENT>
+                    </CON>
+                    <F id="1">
+                        <SEGMENT> haben wir den</SEGMENT>
+                        <NAI><SEGMENT> achtlos </SEGMENT></NAI>
+                        <SEGMENT> in einer Nebenstraße abgestellten Roller </SEGMENT>
+                        <NAI><SEGMENT> problemlos </SEGMENT></NAI>
+                        <SEGMENT> wiedergefunden. </SEGMENT>
+                    </F>
+                </QUD>
+                <QUD string="Was tut der Datenkrake?">
+                    <CON id="1.6.4"><SEGMENT>Der Datenkrake</SEGMENT></CON>
+                    <F id="1.6.4.1"><SEGMENT> warnt, wenn das Fahrzeug bewegt wird </SEGMENT></F>
+                    <RES><SEGMENT>oder</SEGMENT></RES>
+                    <F id="1.6.4.2"><SEGMENT> umfällt, </SEGMENT></F>
+                    <QUD string="Was kann der Besitzer (in diesem Fall) tun?">
+                        <RES><SEGMENT>und</SEGMENT></RES>
+                        <CON><SEGMENT> der Besitzer </SEGMENT></CON>
+                        <F><SEGMENT>kann seinen Niu gegen unbefugte Benutzung sperren.</SEGMENT></F>
+                    </QUD>
+                    <F id="1.6.4.3"><SEGMENT> Eine Meldung gibt es </SEGMENT></F><!-- "warnt auch" -->
+                    <RES><SEGMENT>auch,</SEGMENT></RES>
+                    <F id="1.6.4.3"><SEGMENT> wenn die Ladung der Akkus sich dem Ende zuneigt,</SEGMENT></F>
+                </QUD>
+            </QUD>
+
+            <QUD string="Was ist mit den Akkus des NGT?">
+
+                <QUD string = "Was ist mit der Nutzungsdauer der Akkus?">
+                    <CON><SEGMENT> womit </SEGMENT></CON>
+                    <F><SEGMENT> womit wir bei der Nutzungsdauer wären. </SEGMENT></F>
+                </QUD>
+                
+                <QUD string = "Was für Kapazität haben die beiden Akkus?">
+
+                    <CON><SEGMENT> Jeder der beiden, </SEGMENT></CON>
+
+                    <QUD string = "Wie lassen sich die Akkus steuern?">
+                        <CON><SEGMENT> die </SEGMENT></CON>
+                        <F id = "1.4.7.2.1.1"><SEGMENT> sich </SEGMENT></F>
+                        <RES><SEGMENT> auch </SEGMENT></RES>
+                        <F id = "1.4.7.2.1.1"><SEGMENT> herausnehmen </SEGMENT></F>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <F id = "1.4.7.2.1.2"><SEGMENT> getrennt laden lassen, </SEGMENT></F>
+                    </QUD>
+
+                    <F><SEGMENT> hat eine Kapazität von 35 Ah, </SEGMENT></F>
+
+                    <QUD string = "Was für einen Energiegehalt macht das zusammen?">
+                        <F id = "1.4.7.2.2.1"><SEGMENT> macht </SEGMENT></F>
+                        <RES><SEGMENT> also </SEGMENT></RES>
+                        <CON><SEGMENT> einen Energiegehalt </SEGMENT></CON>
+                        <F id = "1.4.7.2.2.1"><SEGMENT> von zusammen 4,2 kWh. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+
+                <QUD string="Wie ist die Reichweite der Akkus?">
+                    <QUD string="Welche Reichweite gibt der Hersteller an?">
+                        <CON><SEGMENT>Damit </SEGMENT></CON>
+                        <F><SEGMENT>soll man rund 100 Kilometer weit kommen,</SEGMENT></F>
+                    </QUD>
+
+                    <QUD string="Welche Reichweite zeigte sich bei der Testfahrt?">
+                        <QUD string="Wie ist diese Reichweite zu bewerten?"> <!-- NAI? -->
+                            <RES><SEGMENT> und </SEGMENT></RES>
+                            <F><SEGMENT>die Angabe ist gar nicht so übertrieben.</SEGMENT></F>
+                        </QUD>
+                        <QUD string="Bei welcher Reichweite schaltet der NGT in den E-Safe Modus/Notbetrieb?">
+                            <F>
+                                <SEGMENT>Nach 70 bis 80 Kilometern Fahrstrecke </SEGMENT>
+                                <SEGMENT>zeigt das Display einen Rest von 15 Prozent an, </SEGMENT>
+                            </F>
+                        </QUD>
+                        <QUD string="Was passiert, wenn der Akku 20 Prozent erreicht?">
+                            <RES><SEGMENT>schon </SEGMENT></RES>
+                            <CON><SEGMENT>wenn 20 erreicht sind,</SEGMENT></CON>
+                            <F><SEGMENT> blinkt eine rote Warnleuchte.</SEGMENT></F>
+                        </QUD>
+                        <QUD string="Was bemerkt der Fahrer ab 30 Prozent?">
+                            <CON id="1.7.4"><SEGMENT>Falls das Popogefühl des Fahrers nicht trügt,</SEGMENT></CON>
+                            <F id="1.7.4."><SEGMENT>nimmt der Niu </SEGMENT></F>
+                            <RES><SEGMENT>aber </SEGMENT></RES>
+                            <RES><SEGMENT>schon </SEGMENT></RES>
+                            <CON id="1.7.4"><SEGMENT>ab etwa 30 Prozent Restkapazität </SEGMENT></CON>
+                            <F id="1.7.4"><SEGMENT>die Leistungsaufnahme beim Beschleunigen dezent zurück.</SEGMENT></F>
+                        </QUD>
+
+                        <QUD string="Was passiert, wenn der Akku 15 Prozent erreicht?">
+                            <CON><SEGMENT>Wenn nur noch 15 Prozent verfügbar sind,</SEGMENT></CON>
+                            <F id="1.7.5.1"><SEGMENT> schaltet die Elektronik in einen freudlosen Notbetrieb,</SEGMENT></F>
+                            <F id="1.7.5.2"><SEGMENT>in dem man noch eine Weile vor sich hin schleichen kann.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+
+                <QUD string="Wie ist die Ladedauer der Akkus?">
+                    <CON><SEGMENT>Bis die Batterien wieder vollständig geladen sind,</SEGMENT></CON>
+                    <F><SEGMENT> vergehen etwa fünf Stunden.</SEGMENT></F>
+                </QUD>
+
+                <QUD string = "Was ist mit dem Verbrauch?">
+                    <F id = "1.4.7.7.1"><SEGMENT> Mit Ladeverlusten ergibt sich </SEGMENT></F>
+                    <CON><SEGMENT> ein Verbrauch </SEGMENT></CON>
+                    <F id = "1.4.7.7.1"><SEGMENT> von rund 4 kWh auf 100 Kilometer </SEGMENT></F>
+
+                    <QUD string = "Unter welchen Bedingungen ergibt sich dieser Vebrauch?">
+                        <F id = "1.4.7.7.1.1"><SEGMENT> bei überwiegendem Landstraßenbetrieb </SEGMENT></F>
+                        <F id = "1.4.7.7.1.2"><SEGMENT> mit Vollgas, </SEGMENT></F><!-- = 70 km/h -->
+                    </QUD>
+
+                    <QUD string = "Unter welchen Bedingungen ist der Verbrauch weniger?">
+                        <F><SEGMENT> als Stadtfahrzeug dürfte er sparsamer sein. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+
+            </QUD>
+
+
+        </QUD>
+
+        <!-- DT = Gänge/Modi -->
+        <QUD string="Gänge/Modi?">
+            <QUD string="Was sagt/verspricht der Hersteller?">
+                <QUD string="Was ist mit dem ersten Gang?"><!-- Notbetrieb "E-Safe" -->
+                    <CON><SEGMENT> Der erste Gang </SEGMENT></CON>
+                    <F><SEGMENT> nennt sich „E-Safe“ </SEGMENT></F> <!-- Komma fehlt ? -->
+
+                    <QUD string = "Was zeichnet diesen Gang aus?">
+                        <CON><SEGMENT>  er </SEGMENT></CON>
+                        <F id = "1.5.1.1.1"><SEGMENT> lässt sich </SEGMENT></F>
+                        <RES><SEGMENT> auch </SEGMENT></RES>
+                        <F id = "1.5.1.1.1"><SEGMENT> mit einem Tippschalter ansteuern, </SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string="Was ist mit dem zweiten Gang?"><!-- "Dynamic" -->
+                    <CON><SEGMENT> die mittlere Einstellung  </SEGMENT></CON>
+                <F><SEGMENT> heißt „Dynamic“, </SEGMENT></F>
+
+                <QUD string = "Was zeichnet diesen Gang aus?">
+                    <CON><SEGMENT> das </SEGMENT></CON>
+                    <F id = "1.5.2.1.1"><SEGMENT> ist laut Niu recht für den Alltag </SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <RES><SEGMENT> auch </SEGMENT></RES>
+                    <F id = "1.5.2.1.2"><SEGMENT> die Startposition. </SEGMENT></F>
+                </QUD>
+                </QUD>
+                <QUD string="Was ist mit dem dritten Gang?"><!-- "Sport" -->
+                    <RES><SEGMENT>Dann </SEGMENT></RES>
+                    <F id="1.8.3"><SEGMENT>gibt es</SEGMENT></F>
+                    <RES><SEGMENT>noch</SEGMENT></RES>
+                    <F id="1.8.3"><SEGMENT>„Sport“,</SEGMENT></F>
+                    <QUD string = "Was zeichnet diesen Gang aus?">
+                        <CON><SEGMENT> in diesem Modus </SEGMENT></CON>
+                        <F><SEGMENT> wird die Höchstgeschwindigkeit erreicht. </SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+
+            <QUD string="Wie lassen sich die Gänge bewerten?">
+                <QUD string="Wie ist der Sport-Modus zu bewertet?"><!-- "Normal" -->
+                    <F><SEGMENT>Wir würden ihn als „Normal“ bezeichnen,</SEGMENT></F>
+                </QUD>
+                <QUD string="Wie ist der Dynamic-Modus zu bewertet?"><!-- "Mopedgeschwindigkeit; zu wenig für die Stadt" -->
+                    <QUD string="Was ist die Höchstgeschwindigkeit im mittleren Modus?">
+                        <F><SEGMENT> im mittleren ist bei Mopedgeschwindigkeit Schluss,</SEGMENT></F>
+                        <QUD string="Wie ist Mopedgeschwindigkeit im Stadtverkehr?">
+                            <CON id="1.8.4.1"><SEGMENT>das </SEGMENT></CON>
+                            <F id="1.8.4.1.1"><SEGMENT>ist für die Stadt zu wenig </SEGMENT></F>
+                            <RES><SEGMENT>und</SEGMENT></RES>
+                            <F id="1.8.4.1.2"><SEGMENT> eigentlich zu nichts nütze.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+                <QUD string="Wie ist der E-Safe-Modus zu bewertet?"><!-- ungeeignet für die Autobahn -->
+                    <QUD string="Wofür reicht der E-Safe-Modus?">
+                        <CON><SEGMENT>E-Safe reicht </SEGMENT></CON>
+                        <RES><SEGMENT>gerade, </SEGMENT></RES>
+                        <F><SEGMENT>um einen frisierten Krankenfahrstuhl zu überholen,</SEGMENT></F>
+                        <QUD string="Was sollte man im E-Safe-Modus vermeiden?">
+                            <F><SEGMENT> wehe dem, der auf der Autobahn in den Notmodus muss.</SEGMENT></F>
+                            <QUD string="Was ist mit dem NGT auf der Autobahn?">
+                                <RES><SEGMENT>Aber </SEGMENT></RES>
+                                <CON><SEGMENT>dort</SEGMENT></CON>
+                                <F id="1.8.6.1.1"><SEGMENT> ist der NGT </SEGMENT></F>
+                                <RES><SEGMENT>ohnehin </SEGMENT></RES>
+                                <F id="1.8.6.1.1"><SEGMENT>fehl am Platz </SEGMENT></F>
+                                <RES><SEGMENT>und </SEGMENT></RES>
+                                <F id="1.8.6.1.2"><SEGMENT>der Schrecken der Lastwagenfahrer.</SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Fazit/Gesamtbewertung/Fahrgefühl -->
+        <QUD string = "Was ist mit der Gesamtbewertung?">
+            <QUD string = "Was sind die Vorteile vom Roller?">
+                <F id="1.9.1"><SEGMENT>Dort, wo er hingehört, </SEGMENT></F>
+                <F id="1.9.2"><SEGMENT>kann der handliche Niu NGT </SEGMENT></F>
+                <F id="1.9.3"><SEGMENT>den Freund der Elektromobilität glücklich machen, </SEGMENT></F>
+            </QUD>
+            <QUD string = "Was sind die Nachteile vom Roller?">
+                <QUD string="Wie ist das Fahrgefühl auf Schlaglochstrecken?">
+                    <RES><SEGMENT>solange </SEGMENT></RES>
+                    <CON><SEGMENT>er </SEGMENT></CON>
+                    <F id="1.9.1.1"><SEGMENT>nicht über Schlaglochstrecken fahren muss,</SEGMENT></F>
+                    <F id="1.9.1.2"><SEGMENT> die heftige Schläge ins Kreuz schicken.</SEGMENT></F>
+                </QUD>
+                <QUD string = "Was ist mit dem Anzug?">
+                    <RES><SEGMENT>Und </SEGMENT></RES>
+                    <CON id="1"><SEGMENT> da wäre </SEGMENT></CON><!-- "Nachteil" -->
+                    <RES><SEGMENT> noch </SEGMENT></RES>
+                    <CON id="1"><SEGMENT> ein Makel: </SEGMENT></CON>
+                    <F><SEGMENT>Am Moped-Niu hatten wir einst den allzu ruppigen Anzug bemängelt.</SEGMENT></F>
+                    <QUD string="Wie hat sich der Anzug verändert?">
+                        <CON><SEGMENT>Unser Flehen wurde in China erhört,</SEGMENT></CON>
+                        <F><SEGMENT> der NGT setzt sich an der Ampel sanft, fast schüchtern in Bewegung</SEGMENT></F>
+                        <QUD string="Wie wird diese Veränderung bewertet?">
+                            <F id="1.9.2.1.1"><SEGMENT> Wir bitten um Vergebung, </SEGMENT></F>
+                            <RES><SEGMENT>aber</SEGMENT></RES>
+                            <CON><SEGMENT> das </SEGMENT></CON>
+                            <F id="1.9.2.1.1"><SEGMENT>ist</SEGMENT></F>
+                            <RES><SEGMENT> nun </SEGMENT></RES>
+                            <RES><SEGMENT>doch</SEGMENT></RES>
+                            <F id="1.9.2.1.1"><SEGMENT> zu viel Zurückhaltung.</SEGMENT></F>
+                            <QUD string="Was sollte verändert werden?">
+                                <RES><SEGMENT>Also </SEGMENT></RES>
+                                <F><SEGMENT>am Start wieder etwas mehr Dampf, bitte.</SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+    </QUD>
+
+</ROOT>

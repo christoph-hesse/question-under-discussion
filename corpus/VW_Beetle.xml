@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
+
+
+<ROOT>
+    <QUD string="Was ist mit dem VW Beetle?">
+        <QUD string="Was ist mit der Bauweise des Beetles?">
+            <QUD string="Wie sieht der Testwagen aus?">
+                <F><SEGMENT>Der golden lackierte Testwagen</SEGMENT></F>
+            </QUD>
+            <F id="1">
+                <SEGMENT> war </SEGMENT>
+                <NAI><SEGMENT>natürlich </SEGMENT></NAI>
+            </F>
+            <RES><SEGMENT>noch </SEGMENT></RES>
+            <F id="1"><SEGMENT>von bekannter Machart. </SEGMENT></F>
+            <QUD string="Inwiefern ist der Beetle von bekannter Machart?">
+                <RES><SEGMENT>Schließlich </SEGMENT></RES>
+                <F id="1"><SEGMENT>rollt der heute verkaufte Beetle </SEGMENT></F>
+                <RES><SEGMENT>noch </SEGMENT></RES>
+                <F id="1"><SEGMENT>auf der Plattform des vor-vorletzten VW Golf. </SEGMENT></F>
+                <QUD string="Was ist die technische Basis des Test-Beetles?">
+                    <F id="1"><SEGMENT>In der Werkstatt,</SEGMENT></F>
+                    <QUD string="Was ist mit der Werkstatt?">
+                        <CON><SEGMENT> die </SEGMENT></CON>
+                        <F id="1"><SEGMENT>sich in Wolfsburg </SEGMENT></F>
+                        <F id="2"><SEGMENT>um die sogenannten Show-Cars kümmert, </SEGMENT></F>
+                    </QUD>
+                    <F id="1"><SEGMENT>wurde </SEGMENT></F>
+                    <CON><SEGMENT>ihm </SEGMENT></CON>
+                    <F id="1"><SEGMENT>der Antrieb des Jetta Hybrid transplantiert.</SEGMENT></F>
+                </QUD>
+                <QUD string="Aus welchem Grund hat der Beetle diesen Antrieb?">
+                    <CON><SEGMENT>„Wir haben die in diesem Modell bewährten Komponenten genutzt, </SEGMENT></CON>
+                    <RES><SEGMENT>weil </SEGMENT></RES>
+                    <F>
+                        <SEGMENT>sie sehr gut in den Beetle passen“,</SEGMENT>
+                        <NAI><SEGMENT>erklärt Vorstand Neusser. </SEGMENT></NAI><!-- direkte Rede mit NAI -->
+                    </F>
+                </QUD>
+            </QUD>
+        </QUD>
+        <QUD string="Was ist mit dem Antrieb des Test-Beetles?">
+            <QUD string="Aus welchen Komponenten besteht der Antrieb?">
+                <RES><SEGMENT>Dabei</SEGMENT></RES>
+                <F id="1"><SEGMENT>arbeiten </SEGMENT></F>
+                <F id="2"><SEGMENT>der bekannte TSI-Benziner </SEGMENT></F>
+                <QUD string="Wie viel Hubraum hat der Benzinmotor?">
+                    <F><SEGMENT>mit 1,4-Litern </SEGMENT></F>
+                </QUD>
+                <QUD string="Wie viel Leistung hat der Benzinmotor?">
+                    <F id="1"><SEGMENT>(110 kW/</SEGMENT></F>
+                    <F id="2"><SEGMENT>150 PS) </SEGMENT></F>
+                </QUD>
+                <RES><SEGMENT>und </SEGMENT></RES>
+                <QUD string="Wie viel Leistung hat der Elektromotor?">
+                    <F><SEGMENT>ein 20 kW/</SEGMENT></F>
+                    <F><SEGMENT>27 PS starker </SEGMENT></F>
+                </QUD>
+                <F id="3"><SEGMENT>Elektromotor </SEGMENT></F>
+                <F id="1"><SEGMENT>zusammen. </SEGMENT></F>
+            </QUD>
+            <QUD string="Wie viel Leistung hat der Beetle?">
+                <QUD string="Wie viel Leistung haben der Benzin- und Elektromotor zusammen?">
+                    <CON id="2a"><SEGMENT>Gemeinsam </SEGMENT></CON>
+                    <F id="1"><SEGMENT>kommen </SEGMENT></F>
+                    <CON id="2b"><SEGMENT>sie </SEGMENT></CON>
+                    <F id="1"><SEGMENT>auf </SEGMENT></F>
+                </QUD>
+                <F id="1a"><SEGMENT>125 kW/ </SEGMENT></F>
+                <F id="1b"><SEGMENT>170 PS. </SEGMENT></F>
+            </QUD>
+            <QUD string="Was ist die Reichweite des Elektromotors?">
+                <F id="1"><SEGMENT>Bis zu zwei Kilometer weit </SEGMENT></F>
+                <F id="2"><SEGMENT>kann rein elektrisch gefahren werden. </SEGMENT></F><!-- Betonung auf "rein elektrisch" -->
+            </QUD>
+            <QUD string="Was ist der Verbrauch (des Benzinmotors)?">
+                <F id="1"><SEGMENT>Einen genauen Verbrauch </SEGMENT></F>
+                <CON><SEGMENT>des Versuchsträgers </SEGMENT></CON>
+                <F id="1"><SEGMENT> nennt VW nicht, </SEGMENT></F>
+                <QUD string="Wie hoch kann der Verbrauch eingeschätzt werden?">
+                    <CON><SEGMENT>er</SEGMENT></CON>
+                    <F id="1"><SEGMENT> dürfte </SEGMENT></F>
+                    <RES><SEGMENT>aber </SEGMENT></RES>
+                    <F id="1"><SEGMENT>ähnlich wie beim Jetta </SEGMENT></F>
+                    <QUD string="Warum kann der Verbrauch auf diese Größenortnung gschätzen werden?"><!-- Genauigkeit/Verlässichkeit der Schätzung -->
+                        <F><SEGMENT>nach geltender Norm </SEGMENT></F>
+                    </QUD>
+                    <F id="1"><SEGMENT>um die 4 Liter auf 100 Kilometer liegen.</SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+        <QUD string="Was ist mit der Testfahrt?">
+            <F id="1"><SEGMENT>Auf der Testrunde </SEGMENT></F>
+            <QUD string="Wo findet die Testfahrt statt?">
+                <F><SEGMENT>durch das Herz von Manhattan </SEGMENT></F>
+            </QUD>
+            <F id="1"><SEGMENT>spielen schnöde Zahlen </SEGMENT></F>
+            <RES><SEGMENT>auch </SEGMENT></RES><!-- "überhaupt" -->
+            <F id="1"><SEGMENT>keine Rolle. </SEGMENT></F>
+            <QUD string="Inwiefern sind die Werte nicht wichtig?">
+                <RES><SEGMENT>Schließlich</SEGMENT></RES>
+                <F><SEGMENT>werden dem heutigen Beetle die Segnungen der neuen Technik nicht mehr zuteil. </SEGMENT></F>
+                <QUD string="Was wollte VW tun (wenn es ihnen nicht die Werte geht)?">
+                    <CON><SEGMENT>VW wollte</SEGMENT></CON>
+                    <RES><SEGMENT>einfach </SEGMENT></RES>
+                    <F><SEGMENT>einmal demonstrieren, wie sich der Klassiker mit einem Hybrid-System anfühlt. </SEGMENT></F>
+                </QUD>
+            </QUD>
+            
+            <QUD string="Wie lässt sich die Nutzung des Hybrid-Systems erkennen?"><!-- Ist Elektro grad verfügbar? -->
+                <F id="1"><SEGMENT>Auf dem kleinen Navi-Monitor </SEGMENT></F>
+                <F id="2">
+                    <SEGMENT>ist stets sichtbar, mit welcher Kraft</SEGMENT>
+                    <NAI><SEGMENT> der Zweitürer </SEGMENT></NAI>
+                    <SEGMENT>gerade unterwegs ist. </SEGMENT>
+                </F>
+            </QUD>
+            <QUD string="Wie ist die Leistung des E-Motors?">
+                <QUD string="Wie ist die Verkehrslage in New York?">
+                    <F><SEGMENT>Beim ständigen Stopp-and-Go des New Yorker Verkehrsgewühls</SEGMENT></F>
+                </QUD>
+                <F>
+                    <SEGMENT>reicht die</SEGMENT>
+                    <NAI><SEGMENT> bescheidene </SEGMENT></NAI>
+                    <SEGMENT>Leistung des E-Motors völlig aus.</SEGMENT>
+                </F>
+            </QUD>
+            
+            <QUD string="Wie ist die Lautstärke des Beetles im Vergleich zum restlichen Verkehr?">
+                <F id="1"><SEGMENT> Geräuschlos ist der Beetle unterwegs,</SEGMENT></F>
+                <F id="2"><SEGMENT> das Poltern der Reifen auf dem von Winter geschundenen Asphalt</SEGMENT></F>
+                <RES><SEGMENT> und </SEGMENT></RES>
+                <F id="3"><SEGMENT>das Dauergehupe ringsum </SEGMENT></F>
+                <F id="2-3"><SEGMENT>lassen </SEGMENT></F>
+                <F id="4"><SEGMENT>dem hellen Singen des Stromers</SEGMENT></F>
+                <F id="2-3"><SEGMENT>keine Chance.</SEGMENT></F>
+            </QUD>
+            <QUD string="Wie wirkt sich der Verkehr auf den Verbrauch der Batterie aus?">
+                <RES><SEGMENT>Trotzdem </SEGMENT></RES>
+                <F id="1"><SEGMENT>saugt </SEGMENT></F>
+                <F id="2"><SEGMENT>das stete Anfahren </SEGMENT></F><!-- Stop-and-Go -->
+                <RES><SEGMENT>und </SEGMENT></RES>
+                <F id="3"><SEGMENT>Abbremsen </SEGMENT></F>
+                <F id="1"><SEGMENT>die Batterie schnell leer.</SEGMENT></F>
+            </QUD>
+            <QUD string="Was ist bei schneller Fahrt (ohne Stop-and-Go) möglich?">
+                <RES><SEGMENT> Dann </SEGMENT></RES>
+                <CON id="1">
+                    <NAI><SEGMENT>endlich </SEGMENT></NAI>
+                    <SEGMENT>freie Fahrt durch die Häuserschluchten,</SEGMENT>
+                </CON>
+                <CON id="2"><SEGMENT> grüne Welle auf der Fifth Avenue in Richtung Central Park.</SEGMENT></CON>
+                
+                <RES><SEGMENT> Jetzt </SEGMENT></RES>
+                <F><SEGMENT>übernimmt der Benziner die Rolle des Lademeisters.</SEGMENT></F><!-- Elektromotor lädt -->
+                <QUD string="Was passiert, wenn der Benziner die Rolle des Lademeisters übernimmt?"><!-- der Akku wird geladen -->
+                    <F><SEGMENT> Die Digitalanzeige,</SEGMENT></F>
+                    <QUD string="Was zeigt die Digitalanzeige an?"><!-- Akkuladestand -->
+                        <CON><SEGMENT> die </SEGMENT></CON>
+                        <F><SEGMENT>den Zustand der Batterie in Prozent verrät,</SEGMENT></F>
+                    </QUD>
+                    <F><SEGMENT> zählt recht schnell hoch.</SEGMENT></F>
+                    <QUD string="Was zeigt sich hier?">
+                        <RES><SEGMENT> Hier </SEGMENT></RES>
+                        <F><SEGMENT>offenbart sich der Vorteil des VW-Systems:</SEGMENT></F>
+                        <QUD string="Was ist der Vorteil des VW-Systems?">
+                            <QUD string="Bei welchem anderen Hybrid hilft der Verbrennungsmotor nicht aktiv mit?">
+                                <F><SEGMENT> Im Gegensatz zum Toyota Prius </SEGMENT></F><!-- Hintergrundwissen: der Toyota Prius löste den Hybrid-Hype in den USA aus -->
+                            </QUD>
+                            <F id="1"><SEGMENT>muss der Akku nicht nur auf das Rollen oder Bremsen warten,</SEGMENT></F>
+                            <F id="2"><SEGMENT> um die dabei entstehende Energie zum Laden zu nutzen. </SEGMENT></F>
+                            <QUD string="Aus welchem Grund muss das Laden nicht warten?">
+                                <F><SEGMENT> Der Verbrennungsmotor hilft aktiv mit.</SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+                
+            </QUD>
+           
+            <QUD string="Was ist mit dem Rückweg (nach dem Beschleunigen auf der Fifth Avenue)?"><!-- Akku reicht nicht für die ganze Fifth Avenue (10 km lang, Akku reicht für 2 km) -->
+                <CON><SEGMENT>Auf dem Rückweg </SEGMENT></CON>
+                <F id="1"><SEGMENT>ist die Batterie wieder so fit,</SEGMENT></F>
+                <RES><SEGMENT> dass </SEGMENT></RES>
+                <F id="1"><SEGMENT>die Taste „E-Mode“ gedrückt werden kann.</SEGMENT></F>
+                <QUD string="Was tut die „E-Mode“-Taste?">
+                    <CON><SEGMENT> Sie </SEGMENT></CON>
+                    <F id="1"><SEGMENT>schickt den Benzinmotor in den kurzzeitigen Ruhestand,</SEGMENT></F>
+                    <F id="2"><SEGMENT> gefahren wird rein elektrisch.</SEGMENT></F>
+                    <QUD string="Wie ist es bei fließendem Verkehr?">
+                        <CON><SEGMENT> Fließt der Verkehr,</SEGMENT></CON>
+                        <F id="1"><SEGMENT> ist der leise Spaß </SEGMENT></F>
+                        <RES><SEGMENT>aber</SEGMENT></RES>
+                        <F id="1"><SEGMENT> bald vorbei,</SEGMENT></F>
+                        <QUD string="Was passiert dann?">
+                            <RES><SEGMENT> dann </SEGMENT></RES>
+                            <F id="1"><SEGMENT>meldet sich der Verbannte </SEGMENT></F>
+                            <F id="2">
+                                <SEGMENT>mit </SEGMENT>
+                                <NAI><SEGMENT>wohligem </SEGMENT></NAI>
+                                <SEGMENT>Brummen </SEGMENT>
+                            </F>
+                            <F id="1"><SEGMENT>zurück, </SEGMENT></F>
+                            <RES><SEGMENT>auch </SEGMENT></RES>
+                            <F id="3"><SEGMENT>die Nadel des Drehzahlmessers strebt wieder nach oben.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+            <QUD string="Wie bemerkbar ist das Zusammenspiel der Motoren für den Fahrer?">
+                <RES><SEGMENT> Unterm Strich </SEGMENT></RES><!-- "Zusammenfassend"/"Insgesamt" -->
+                <F><SEGMENT>merkt der Fahrer recht wenig </SEGMENT></F>
+                <CON><SEGMENT>vom elektronisch gesteuerten Zusammenspiel der beiden Herzen.</SEGMENT></CON>
+                <QUD string="Wann ist es bemerkbar?">
+                    <RES><SEGMENT> Nur </SEGMENT></RES>
+                    <RES><SEGMENT>eben </SEGMENT></RES><!-- "freilich"/"natürlich"/"selbstverständlich" -->
+                    <F><SEGMENT>an der Zapfsäule: </SEGMENT></F>
+                    <QUD string="Aus welchem Grund ist es an der Zapfsäule bemerkbar?">
+                        <QUD string="Was ist mit dem Verbrauch des Beetles?">
+                            <F id="1"><SEGMENT>Gut 20 Prozent sparsamer </SEGMENT></F>
+                            <F id="2"><SEGMENT>als ein gleichstarkes Modell ohne Hybridanrieb </SEGMENT></F>
+                            <F id="1"><SEGMENT>soll das Fahrzeug sein.</SEGMENT></F>
+                        </QUD>
+                        <QUD string="Wie war der Verbrauch des VW Jettas?">
+                            <CON><SEGMENT> Im Fall des Jettas </SEGMENT></CON>
+                            <F><SEGMENT>ergab das bei Testfahrten in Deutschland rund sechs Liter auf 100 Kilometer.</SEGMENT></F>
+                            <QUD string="Was sagt dieser Verbrauch über den Verbrauch des Beetles aus?">
+                                <F>
+                                    <SEGMENT>Bei einem denkbaren Beetle mit gleicher Technik wäre der Verbrauch</SEGMENT>
+                                    <NAI><SEGMENT> sicher</SEGMENT></NAI>
+                                    <SEGMENT> ähnlich.</SEGMENT>
+                                </F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+        <QUD string="Was lässt der Showcar-Beetle über den nächsten serienmäßigen Beetle vermuten?">
+            <RES><SEGMENT>Aber </SEGMENT></RES>
+            <CON><SEGMENT>wie gesagt:</SEGMENT></CON>
+            <F><SEGMENT> Dieses Auto wird so nie in Serie gehen.</SEGMENT></F>
+            <QUD string="Aus welchem Grund wird es nicht in Serie gehen?">
+                <F><SEGMENT> VW konzentriert sich auf den neuen Beetle,</SEGMENT></F>
+                <QUD string="Was ist mit dem neuen Beetle?">
+                    <CON><SEGMENT> der </SEGMENT></CON>
+                    <F><SEGMENT>2018 erscheinen soll. </SEGMENT></F>
+                    <QUD string="Was soll bis zur Erscheinung 2018 verändert werden?">
+                        <CON><SEGMENT>„Bis dahin </SEGMENT></CON>
+                        <F id="1"><SEGMENT>werden wir </SEGMENT></F> 
+                        <RES><SEGMENT>auch </SEGMENT></RES>
+                        <F id="1">
+                            <SEGMENT>die Leistungsfähigkeit der Batterie erhöhen können“,</SEGMENT>
+                            <NAI><SEGMENT> prophezeit Heinz-Jacob Neusser.</SEGMENT></NAI><!-- direkte Rede mit NAI -->
+                        </F>
+                        <QUD string="Um wie viel soll die Leistungsfähigkeit erhöht werden?">
+                            <RES><SEGMENT> „Und </SEGMENT></RES>
+                            <RES><SEGMENT> zwar </SEGMENT></RES>
+                            <F><SEGMENT>um über 30 Prozent,</SEGMENT></F>
+                        </QUD>
+                        <QUD string="Was tut die Erhöhung der Leistungsfähigkeit?">
+                            <CON><SEGMENT> was </SEGMENT></CON>
+                            <RES><SEGMENT>dann </SEGMENT></RES>
+                            <F>
+                                <NAI><SEGMENT>natürlich </SEGMENT></NAI>
+                                <SEGMENT>der elektrischen Reichweite zu Gute kommen wird.“</SEGMENT>
+                            </F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+            <QUD string="Was ist mit den Aussichten für den Beetle?"><!-- nicht garantiert, aber fast, weil Kombination aus Hybrid-Hype und Beetle-Nostalgie -->
+                <CON><SEGMENT> Was den Beetle betrifft,</SEGMENT></CON>
+                <F id="1"><SEGMENT> scheint eine solche Version </SEGMENT></F>
+                <RES><SEGMENT>also </SEGMENT></RES>
+                <F id="1"><SEGMENT>beschlossene Sache zu sein.</SEGMENT></F>
+                <QUD string="Was ist der Grund dafür?">
+                    <CON><SEGMENT> Grund dafür </SEGMENT></CON>
+                    <F id="1"><SEGMENT>ist die Vorliebe der Amerikaner</SEGMENT></F>
+                    <RES><SEGMENT> sowohl </SEGMENT></RES>
+                    <F id="1a"><SEGMENT>für das deutsche Kultmobil </SEGMENT></F>
+                    <RES><SEGMENT>als auch </SEGMENT></RES>
+                    <F id="1b"><SEGMENT>für Hybridmodelle.</SEGMENT></F>
+                    <QUD string="Wie begründet sich diese Vorliebe der Amerikaner?">
+                        <F id="1"><SEGMENT> Der Hybrid-Hype,</SEGMENT></F>
+                        <QUD string="Was löste den Hybrid-Hype aus?">
+                            <CON><SEGMENT>den </SEGMENT></CON>
+                            <F><SEGMENT> einst der Toyota Prius in den USA auslöste,</SEGMENT></F>
+                        </QUD>
+                        <F id="2"><SEGMENT> kombiniert mit dem nostalgischen Lebensgefühl,</SEGMENT></F>
+                        <QUD string="Was ist mit dem nostaligischen Lebensgefühl?">
+                            <CON><SEGMENT> den </SEGMENT></CON>
+                            <RES><SEGMENT>eben </SEGMENT></RES>
+                            <F><SEGMENT>nur ein Beetle bieten kann,</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                    <QUD string="Was kann man dank dieser Vorliebe der Amerikaner für Hybride und den VW Beetle schlussfolgern?">
+                        <F id="1-2"><SEGMENT> könnte </SEGMENT></F>
+                        <RES><SEGMENT>fast schon</SEGMENT></RES>
+                        <F id="1-2"><SEGMENT> eine Erfolgsgarantie sein.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+    </QUD>
+</ROOT>

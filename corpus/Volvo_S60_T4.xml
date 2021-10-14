@@ -1,0 +1,348 @@
+<?xml version="1.0"?>
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
+
+
+<ROOT>
+    <QUD string="Was ist mit dem Volvo S60 T4?">
+
+        <!-- DT = Europa-Release -->
+        <QUD>
+            <RES><SEGMENT>Nachdem</SEGMENT></RES>
+            <CON><SEGMENT>der Volvo S60</SEGMENT></CON>
+            <F><SEGMENT>in den USA bereits seit längerem auf den Markt ist</SEGMENT></F>
+            <QUD>
+                <F id="1"><SEGMENT>ist</SEGMENT></F>
+                <QUD string="Was für ein Fahrzeugtyp?">
+                    <F><SEGMENT>die schwedische Mittelklasselimousine</SEGMENT></F>
+                </QUD>
+                <F id="1"><SEGMENT>jetzt auch in Europa unterwegs.</SEGMENT></F>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Abkehr vom Diesel -->
+        <QUD string="Was ist besonders am Volvo S60 T4?">
+            <F><SEGMENT>Als erster Hersteller in diesem Segment verzichtet Volvo auf Dieseltriebwerke.</SEGMENT></F>
+            <QUD string="Wie ist die Akehr vom Diesel zu bewerten?">
+                <QUD string="Wie ist die Akehr vom Diesel einerseits zu bewerten?">
+                    <CON><SEGMENT>Diese Entscheidung</SEGMENT></CON>
+                    <F><SEGMENT>erscheint auf den ersten Blick mutig,</SEGMENT></F>
+                    <QUD>
+                        <RES><SEGMENT>weil</SEGMENT></RES>
+                        <CON><SEGMENT>die Konkurrenz</SEGMENT></CON>
+                        <QUD string="Wer ist die Konkurrenz?">
+                            <F><SEGMENT>von Audi A4,</SEGMENT></F>
+                            <F><SEGMENT>(von) Mercedes C-Klasse</SEGMENT></F>
+                            <RES><SEGMENT>und</SEGMENT></RES>
+                            <F><SEGMENT>(von) BMW 3er</SEGMENT></F>
+                        </QUD>
+                        <F id="1"><SEGMENT>auf vielen Märkten in Europa</SEGMENT></F>
+                        <F id="2">
+                            <SEGMENT>an die</SEGMENT>
+                            <NAI><SEGMENT>geneigten</SEGMENT></NAI>
+                            <SEGMENT>Kunden</SEGMENT>
+                        </F>
+                        <F id="3"><SEGMENT>ganz überwiegend</SEGMENT></F>
+                        <RES><SEGMENT>ebenso</SEGMENT></RES>
+                        <F id="3a"><SEGMENT>drehmomentstarke (Dieselversionen)</SEGMENT></F>
+                        <RES><SEGMENT>wie</SEGMENT></RES>
+                        <F id="3b"><SEGMENT>sparsame Dieselversionen verkauft.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+        
+                <QUD string="Wie ist die Akehr vom Diesel andererseits (auch) zu bewerten?">
+                    <RES><SEGMENT>Auf den zweiten Blick</SEGMENT></RES>
+                    <F id="1"><SEGMENT>ist</SEGMENT></F>
+                    <CON><SEGMENT>die Entscheidung</SEGMENT></CON>
+                    <QUD>
+                        <F><SEGMENT>der chinesischen Schweden</SEGMENT></F>
+                    </QUD>
+                    <RES><SEGMENT>aber</SEGMENT></RES><!-- Kontrastmarker -->
+                    <F id="1"><SEGMENT>sehr gut nachvollziehbar.</SEGMENT></F>
+                    <QUD>
+                        <QUD>
+                            <RES><SEGMENT>Zum einen</SEGMENT></RES>
+                            <F id="1"><SEGMENT>bekommt Volvo bei den großen Flottenkunden ohnehin kaum ein Rad auf den Boden</SEGMENT></F>
+                            <RES><SEGMENT>und</SEGMENT></RES>
+                            <F id="2"><SEGMENT>bei den privaten Nutzern ist der Benzineranteil zumeist deutlich höher.</SEGMENT></F>
+                        </QUD>
+                        <QUD>
+                            <RES><SEGMENT>Zum anderen</SEGMENT></RES>
+                            <F id="1"><SEGMENT>wird die Limousinenversion des Volvo S60 ausschließlich im neuen Werk in South Carolina/USA gefertigt</SEGMENT></F>
+                            <RES><SEGMENT>und</SEGMENT></RES>
+                            <F id="2">in den USA als Hauptmarkt</F>
+                            <QUD string="Wie lang ist die Limousinenversion?">
+                                <F><SEGMENT>des 4,76 Meter langen S60</SEGMENT></F>
+                            </QUD>
+                            <F id="2"><SEGMENT>ist ein Diesel zumindest in dieser Klasse entbehrlich.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        
+
+        <!-- DT = Zielkunden -->
+        <QUD string="Wer sind die Zielkunden?">
+            <F><SEGMENT>Diejenigen, die an sich einen Diesel suchen,</SEGMENT></F>
+            <F><SEGMENT>will Volvo mit dem Plug-In-Hybriden locken,</SEGMENT></F>
+            <QUD string="Was ist mit den Zielkunden des S60 T4?">
+                <RES><SEGMENT>doch</SEGMENT></RES>
+                <RES><SEGMENT>auch</SEGMENT></RES>
+                <CON><SEGMENT>der S60 T4</SEGMENT></CON>
+                <F><SEGMENT>dürfte als erwartetes Volumenmodell seine Kunden bekommen.</SEGMENT></F>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Abkehr vom Diesel/Kompromisse/Abstriche -->
+        <QUD string="Wie macht sich die Abkehr vom Diesel bemerkbar?">
+            <QUD string="Wie macht sich die Abkehr vom Diesel bei der Motorlautstärke bemerkbar?">
+                <QUD string="Was denkt man angesichts der Motorlautstärke?">
+                    <CON id="1"><SEGMENT>Wer den</SEGMENT></CON>
+                    <QUD string="Wieviel Hubraum hat der Volvo S60 T4?">
+                        <F><SEGMENT>zwei Liter großen</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Wie viele Zylinder hat der Volvo S60 T4?">
+                        <F><SEGMENT>Vierzylinder-</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Welche Art von Motor hat der Volvo S60 T4?">
+                        <F><SEGMENT>Benziner</SEGMENT></F>
+                    </QUD>
+                    <CON id="1"><SEGMENT>des Volvo S60 T4 startet,</SEGMENT></CON>
+                    <F><SEGMENT>meint zunächst,</SEGMENT></F>
+                    <QUD string="Was denkt man?">
+                        <RES><SEGMENT>dass</SEGMENT></RES>
+                        <F><SEGMENT>Volvo den S60 doch noch als Diesel anbieten würde,</SEGMENT></F>
+                        <QUD string="Warum denkt man das?">
+                            <RES><SEGMENT>denn</SEGMENT></RES>
+                            <F id="1"><SEGMENT>ein akustischer Leisetreter ist</SEGMENT></F>
+                            <QUD string="Welche Art von Einspritzer ist der S60 T4?">
+                                <F><SEGMENT>der Turbo-Direkteinspritzer</SEGMENT></F>
+                            </QUD>
+                            <F id="1"><SEGMENT>beim besten Willen nicht.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+            <QUD string="Wie macht sich die Abkehr vom Diesel eim Drehmoment bemerkbar?">
+                <RES><SEGMENT>Immerhin</SEGMENT></RES>
+                <F id="1"><SEGMENT>ist</SEGMENT></F>
+                <CON><SEGMENT>das Drehmoment des Zylinderquartetts</SEGMENT></CON>
+                <QUD string="Was ist das Drehmoment?">
+                    <F><SEGMENT>mit 300 Nm ab 1700 U/min</SEGMENT></F>
+                </QUD>
+                <F id="1"><SEGMENT>beinahe auf Dieselniveau.</SEGMENT></F>
+            </QUD>
+            <QUD string="Wie macht sich die Abkehr vom Diesel bei den PS bemerkbar?">
+                <CON><SEGMENT>Das Triebwerk selbst</SEGMENT></CON>
+                <F id="1"><SEGMENT>ist als Einstiegsmotor</SEGMENT></F>
+                <QUD string="Wieviel PS hat der Motor?">
+                    <F><SEGMENT>mit 140 kW/190 PS</SEGMENT></F>
+                </QUD>
+                <F id="1"><SEGMENT>allemal in Ordnung,</SEGMENT></F>
+                <QUD string="Wie sind die PS angesichts des Gewichts zu bewerten?">
+                    <RES><SEGMENT>doch</SEGMENT></RES>
+                    <F id="1"><SEGMENT>weniger sollte es bei der</SEGMENT></F>
+                    <QUD string="Wie schwer ist die Limousine?">
+                        <F><SEGMENT>rund 1,7 Tonnen schweren</SEGMENT></F>
+                    </QUD>
+                    <F id="1"><SEGMENT>Mittelklasselimousine</SEGMENT></F>
+                    <RES><SEGMENT>dann auch</SEGMENT></RES>
+                    <F id="1"><SEGMENT>nicht sein.</SEGMENT></F>
+                </QUD>
+            </QUD>
+            <QUD string="Wie macht sich die Abkehr vom Diesel bei der Beschleunigung bemerkbar?">
+                <QUD string="Wie ist die Beschleunigung?">
+                    <F><SEGMENT>0 auf Tempo 100 beschleunigt der Fronttrieber in 7,1 Sekunden</SEGMENT></F>
+                    <RES><SEGMENT>und</SEGMENT></RES>
+                </QUD>
+            </QUD>
+            <QUD string="Wie macht sich die Abkehr vom Diesel bei der Höchstgeschwindigkeit bemerkbar?">
+                <QUD string="Was ist die Höchstgeschwindigkeit?">
+                    <F><SEGMENT>erreicht eine Höchstgeschwindigkeit von 220 km/h.</SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Verbrauch -->
+        <QUD string="Wie hoch ist der Verbrauch?">
+            <QUD string="Wie ist der Verbrauch zu bewerten?">
+                <F><SEGMENT>Bis zu acht Liter Verbrauch sind zu viel.</SEGMENT></F>
+            </QUD>
+            <F id="1"><SEGMENT>Der Normverbrauch ist mit 7,1 bis 8,0 Litern</SEGMENT></F>
+            <QUD string="Was verbraucht der S60 T4?">
+                <F><SEGMENT>Superkraftstoff</SEGMENT></F>
+            </QUD>
+            <F id="1"><SEGMENT>auf 100 Kilometern</SEGMENT></F>
+            <QUD string="Wie ist der Nromverbrauch zu bewerten?">
+                <F><SEGMENT>nicht gerade sparsam.</SEGMENT></F>
+            </QUD>
+            <QUD string="Was kann man tun um den Verbrauch zu reduzieren?">
+                <CON><SEGMENT>Wer weniger verbrauchen will,</SEGMENT></CON>
+                <F><SEGMENT>müsste zum nicht lieferbaren Diesel greifen</SEGMENT></F>
+                <RES><SEGMENT>und</SEGMENT></RES>
+                <F><SEGMENT>kann sich ohne Markenwechsel aktuell nur für den Plug-In-Hybriden des Volvo S60 T8 entscheiden,</SEGMENT></F>
+                <QUD string="Was bietet der S60 T8?">
+                    <CON><SEGMENT>dessen Vierzylinder</SEGMENT></CON>
+                    <F id="1"><SEGMENT>mit Elektrounterstützung</SEGMENT></F>
+                    <F id="2"><SEGMENT>üppige 390 PS Systemleistung bietet.</SEGMENT></F>
+                    <QUD string="Was bringt die Elektrounterstützung noch?">
+                        <F><SEGMENT>So wird der Schwede zumindest zum Teilzeit-Allradler,</SEGMENT></F>
+                        <QUD string="Wie wird er zum Teilzeit-Allradler?">
+                            <RES><SEGMENT>weil</SEGMENT></RES>
+                            <CON><SEGMENT>der Elektromotor</SEGMENT></CON>
+                            <F><SEGMENT>die Hinterachse mit Kraft versorgt.</SEGMENT></F>
+                        </QUD>
+                        <QUD string="Was sind andere Arten von Allrad-Antrieb bei Volvo?">
+                            <CON><SEGMENT>Ein anderer Allradler</SEGMENT></CON>
+                            <F><SEGMENT>wird anders als bei anderen Volvo-Modellen nicht angeboten.</SEGMENT></F>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT =  -->
+        <QUD string="Für welchen Motor werden sich Kunden entscheiden?">
+            <QUD string="Warum werden sich Kunden wahrscheinlich für den Basisbenziner entscheiden?">
+                <RES><SEGMENT>Da</SEGMENT></RES>
+                <F id="1"><SEGMENT>kein schwächerer Plug-In-Hybrid (im Programm ist)</SEGMENT></F>
+                <RES><SEGMENT>oder</SEGMENT></RES>
+                <F id="1"><SEGMENT>Diesel im Programm ist,</SEGMENT></F>
+            </QUD>
+            <F><SEGMENT>dürfte es für viele Kunden letztlich auf den Basisbenziner des Volvo S60 hinauslaufen.</SEGMENT></F>
+            <QUD string="Was bietet der Basisbenziner?">
+                <CON><SEGMENT>Der</SEGMENT></CON>
+                <F id="1"><SEGMENT>wirkt</SEGMENT></F>
+                <QUD string="Wodurch wird der Basisbenziner zur Sportskanone?">
+                    <F><SEGMENT>besonders mit dem R-Styling-Paket</SEGMENT></F>
+                </QUD>
+                <F id="1"><SEGMENT>wie eine Sportskanone</SEGMENT></F>
+                <QUD string="Was bringt das R-Styling-Paket für die Leistung?">
+                    <F><SEGMENT>mit weit mehr als 400 PS</SEGMENT></F>
+                </QUD>
+                <RES><SEGMENT>und</SEGMENT></RES>
+                <RES><SEGMENT>auch</SEGMENT></RES>
+                <F id="2"><SEGMENT>die überaus straffe Fahrwerksabstimmung gaukelt einem</SEGMENT></F>
+                <QUD string="Was verstärkt diesen Eindruck?">
+                    <F><SEGMENT>nicht zuletzt Dank Tieferlegung</SEGMENT></F>
+                </QUD>
+                <F id="2">
+                    <SEGMENT>vor, mehr als die</SEGMENT>
+                    <NAI><SEGMENT>ausreichenden</SEGMENT></NAI>
+                    <SEGMENT>190 PS im Alltag zu bewegen.</SEGMENT>
+                </F>
+            </QUD>
+        </QUD>
+
+        <!-- DT = (Fahrwerks)Ausstattung-->
+        <QUD string="Was bietet die Fahrwerksausstattung?">
+            <F id="1"><SEGMENT>Vorne gibt es eine Doppelquerlenkeraufhängung</SEGMENT></F>
+            <RES><SEGMENT>und</SEGMENT></RES>
+            <F id="2"><SEGMENT>hinten eine Integralachse mit Querblattfeder aus Verbundmaterial.</SEGMENT></F>
+            <QUD string="Welche Extras gibt es für das Fahrwerk?">
+                <F><SEGMENT>Auf Wunsch gibt es eine adaptive Fahrwerksregelung,</SEGMENT></F>
+                <QUD string="Lohnt sich die adaptive Fahrwerksregelung?">
+                    <CON><SEGMENT>die</SEGMENT></CON>
+                    <F><SEGMENT>man sich bei der Basisversion allemal sparen kann.</SEGMENT></F>
+                </QUD>
+            </QUD>
+            <F id="3"><SEGMENT>Die achtstufige Getriebeautomatik arbeitet</SEGMENT></F>
+            <RES><SEGMENT>derweil</SEGMENT></RES>
+            <F id="3">
+                <SEGMENT></SEGMENT>
+                <NAI><SEGMENT>dezent</SEGMENT></NAI>
+                <SEGMENT>im Hintergrund,</SEGMENT>
+            </F>
+            <F id="4"><SEGMENT>die Lenkung ist leichtgängig,</SEGMENT></F>
+            <RES><SEGMENT>aber</SEGMENT></RES>
+            <F id="4"><SEGMENT>nicht unpräzise</SEGMENT></F>
+            <RES><SEGMENT>und</SEGMENT></RES>
+            <F id="5"><SEGMENT>der Geräuschkomfort ist</SEGMENT></F>
+            <QUD string="Wann ist sind die Motorgeräusche unangenehm?">
+                <F><SEGMENT>abgesehen vom unter Last wenig sonoren Klang des Zweiliter-Triebwerks</SEGMENT></F>
+            </QUD>
+            <F id="5"><SEGMENT>angenehm.</SEGMENT></F>
+        </QUD>
+
+        <!-- DT = Innenraum -->
+        <QUD string="Wie ist der Innenraum?">
+            <QUD string="Ist der Innenraum angenehm?">
+                <CON><SEGMENT>Das</SEGMENT></CON>
+                <F><SEGMENT>gilt auch für den Innenraum.</SEGMENT></F>
+                <QUD string="Was genau ist angenehm am Innenraum?">
+                    <F id="1">
+                        <SEGMENT>Die Sitze sind</SEGMENT>
+                        <NAI><SEGMENT>einmal mehr</SEGMENT></NAI> 
+                    </F>
+                    <F id="1a"><SEGMENT>sehr bequem</SEGMENT></F>
+                    <RES><SEGMENT>und</SEGMENT></RES>
+                    <F id="1b"><SEGMENT>vielfältig zu verstellen</SEGMENT></F>
+                    <QUD string="Was ist die Vorraussetzung dafür, dass sie bequem und vielfältig zu verstellen sind?">
+                        <F><SEGMENT>– voraussetzt, man entscheidet sich für die elektrische Variante.</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Was ist mit der Bequemlichkeit, wenn man nict die elektrischen Sitze nimmt?">
+                        <CON><SEGMENT>Bei einem manuell zu bedienenden Beifahrersitz</SEGMENT></CON>
+                        <F><SEGMENT>wird die Einstellung der Lehnenneigung zu einer nervigen Fummelei am versteckten Drehrad.</SEGMENT></F>
+                        <QUD string="Was wäre in Bezug auf den Beifahrersitz wünschenswert?">
+                            <F><SEGMENT>Sollte in dieser Klasse vollelektrisch sein </SEGMENT></F>
+                            <QUD string="Was bietet die Konkurrenz in Bezug auf elektrische Sitze?">
+                                <F><SEGMENT>– sieht aber auch der bei Konkurrenz nicht besser aus.</SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+            <QUD string="Was ist mit der Heckklappe (in Bezug auf elektrische Verstellbarkeit)?">
+                <QUD string="Was bietet die Konkurrenz?">
+                    <F><SEGMENT>Im Gegensatz zu Modellen wie dem neuen Dreier BMW</SEGMENT></F>
+                </QUD>
+                <F id="1"><SEGMENT>lässt sich</SEGMENT></F>
+                <RES><SEGMENT>jedoch</SEGMENT></RES>
+                <F id="1"><SEGMENT>die S60-Heckklappe nicht elektrisch öffnen oder schließen.</SEGMENT></F>
+                <QUD string="Welcher Volvo bietet eine elektrische Heckklappe?">
+                    <F><SEGMENT>Das bietet nur die Kombiversion Volvo V60.</SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Stauraum/Sitzplatz -->
+        <QUD string="Wie sieht es mit dem Platz aus?">
+            <QUD string="Wieviel Stauraum gibt es?">
+                <CON><SEGMENT>Das Ladevolumen der Limousine</SEGMENT></CON>
+                <F><SEGMENT>liegt zwischen 396 und 470 Litern.</SEGMENT></F>
+            </QUD>
+            <QUD string="Wieviel Platz haben Passagiere?">
+                <CON><SEGMENT>Das Platzangebot im Inneren</SEGMENT></CON>
+                <F><SEGMENT>entspricht dem der üblichen Mittelklassemodelle.</SEGMENT></F>
+                <QUD string="Wieviel Platz hat man vorne und hinten?">
+                    <QUD string="Wieviel Platz hat man vorne?">
+                        <F><SEGMENT>Sitzt es sich vorne sehr bequem,</SEGMENT></F>
+                    </QUD>
+                    <QUD string="Wieviel Platz hat man hinten?">
+                        <F><SEGMENT>darf man im Fond trotz 2,87 Meter langem Radstand keine Platzwunder erwarten.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+
+        <!-- DT = Preis -->
+        <QUD string="Wie ist der Preis?">
+            <CON><SEGMENT>Der Basispreis für den solide ausgestatteten Volvo S60 T4 mit seinem 190 PS starken Vierzylinder und obligatorischer Getriebeautomatik</SEGMENT></CON>
+            <F><SEGMENT>liegt bei 43.200 Euro.</SEGMENT></F>
+            <QUD string="Welche Extras sind im Basispreis enthalten?">
+                <F id="1"><SEGMENT>Serienmäßig sind verschiedene Fahrerassistenten,</SEGMENT></F>
+                <F id="2"><SEGMENT>Navigationssystem,</SEGMENT></F>
+                <F id="3"><SEGMENT>beheizte Sportsitze,</SEGMENT></F>
+                <F id="4"><SEGMENT>Klimaautomatik,</SEGMENT></F>
+                <F id="5"><SEGMENT>LED-Licht</SEGMENT></F>
+                <RES><SEGMENT>und</SEGMENT></RES>
+                <F id="6"><SEGMENT>Touch-Screen in der Mittelkonsole</SEGMENT></F>
+                <QUD string="Wozu dient der Touch-Screen in der Mittelkonsole?">
+                    <F><SEGMENT>für die Bedienung der wichtigsten Fahrzeugfunktionen.</SEGMENT></F>
+                </QUD>
+            </QUD>
+        </QUD>
+    </QUD>
+
+</ROOT>

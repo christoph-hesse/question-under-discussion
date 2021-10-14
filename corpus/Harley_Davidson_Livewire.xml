@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE ROOT SYSTEM "qud2.dtd">
+<ROOT>
+    <QUD string="Technische Daten?">
+        <!-- DT = Motor -->
+        <QUD string="Technische Daten des Motors?">
+            <QUD string = "Was ist mit der Spitzenleistung?">
+                <CON><SEGMENT> Die Spitzenleistung </SEGMENT></CON>
+                <F><SEGMENT> beträgt 78 kW (106 PS),</SEGMENT></F>
+            </QUD>
+            <QUD string = "Was beträgt der maximale Drehmoment?">
+                <CON><SEGMENT> das maximale Drehmoment </SEGMENT></CON>
+                <F><SEGMENT> 116 Newtonmeter.</SEGMENT></F>
+            </QUD>
+            <QUD string="Wie ist die Beschleunigung?">
+                <QUD string="Wie schnell ist die Beschleunigung von 0 auf 60 mph?">
+                    <CON>
+                        <SEGMENT>Die Beschleunigung von 0 auf 60 Meilen in der Stunde</SEGMENT>
+                        <SEGMENT>- knapp 100 km/h -</SEGMENT>
+                    </CON>
+                    <F><SEGMENT> wird mit drei Sekunden angegeben,</SEGMENT></F>
+                    <QUD string="Wie ist diese Beschleunigung im Vergleich zu anderen Fahrzeugen?">
+                        <F><SEGMENT>was nicht viele Fahrzeuge der Welt schaffen.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+                <QUD string = "Was ist mit der Beschleunigung von 60 auf 80 mph?">
+                    <CON><SEGMENT> Von 60 auf 80 mph (97 auf 129 km/h) </SEGMENT></CON>
+                    <F id="1"><SEGMENT> katapultiert sich die Livewire mit einem Fingerschnippen - </SEGMENT></F>
+
+                    <QUD string = "Wie schnell ist die Beschleunigung laut Datenblatt?">
+                        <CON><SEGMENT> dem Datenblatt zufolge </SEGMENT></CON>
+                        <F>
+                            <SEGMENT> vergehen bei dieser Übung </SEGMENT>
+                            <RES id="1"><SEGMENT> nur </SEGMENT></RES>
+                            <SEGMENT> 1,9 Sekunden. </SEGMENT>
+                        </F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+        <!-- DT = Fahrwerk, Getriebe, Bremesen, Assistenzsysteme -->
+        <QUD string ="Was ist mit dem Fahrwerk und der Bremsanlage?">
+            <CON id ="1.1.4.1"><SEGMENT> Fahrwerk </SEGMENT></CON>
+            <RES><SEGMENT> und </SEGMENT></RES>
+            <CON id = "1.1.4.2"><SEGMENT> Bremsanlage </SEGMENT></CON>
+            <F><SEGMENT>sind von aufwendiger Bauart.</SEGMENT></F>
+            <QUD string="Welches Fahrwerk/Getriebe?"><!-- A: Automatik -->
+                <QUD string="Was entfällt bei dem Elektro-Roadster?">
+                    <F id="1.2.2.1"><SEGMENT>Kuppeln</SEGMENT></F>
+                    <RES><SEGMENT> und </SEGMENT></RES>
+                    <F id="1.2.2.2"><SEGMENT>Schalten </SEGMENT></F>
+                    <CON><SEGMENT>entfällt bei dem Elektro-Roadster,</SEGMENT></CON>
+                </QUD>
+            </QUD>
+            <QUD string="Welche Bremsanlage?">
+                <CON id="1.2.3"><SEGMENT> der </SEGMENT></CON>
+                <F><SEGMENT>mit zahlreichen Assistenzsystemen</SEGMENT></F>
+                <CON id="1.2.3"><SEGMENT> ausgestattet wird.</SEGMENT></CON>
+                <QUD string="Welche Assistenzsysteme zählen beispielsweise dazu?">
+                    <CON><SEGMENT>Dazu zählen beispielsweise </SEGMENT></CON>
+                    <F id="1.2.3.1.1"><SEGMENT>ABS-Bremsanlage </SEGMENT></F>
+                    <RES><SEGMENT>und </SEGMENT></RES>
+                    <F id="1.2.3.1.2"><SEGMENT>Traktionskontrolle,</SEGMENT></F>
+                    <QUD string="Was machen die ABS-Bremsanlage und die Traktionskontrolle?">
+                        <CON><SEGMENT> die </SEGMENT></CON>
+                        <F><SEGMENT>die Schräglage der Maschine berücksichtigen.</SEGMENT></F>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+        <!-- DT = elektronische Ausstattung -->
+        <QUD string="Welche Systeme gibt es noch?">
+            <F id="1.2.3.1.2.1"><SEGMENT>Mobilfunk-Modul,</SEGMENT></F>
+            <F id="1.2.3.1.2.2"><SEGMENT> Bluetooth,</SEGMENT></F>
+            <F id="1.2.3.1.2.3"><SEGMENT> Touchscreen,</SEGMENT></F>
+            <F id="1.2.3.1.2.4"><SEGMENT> App </SEGMENT></F>
+            <RES><SEGMENT>und </SEGMENT></RES>
+            <F id="1.2.3.1.2.5"><SEGMENT>Datentransfer zum Smartphone</SEGMENT></F>
+            <QUD string="Was tun diese Systeme?">
+                <F><SEGMENT> stellen Anschluss an die vernetzte weite Welt her.</SEGMENT></F>
+            </QUD>
+        </QUD>
+    </QUD>
+
+    <!-- DT = Einsatzort angesichts limitierter Reichweite -->
+    <QUD string="Wo kann das Motorrad gefahren werden?">
+        <CON><SEGMENT>Das Fahren selbst </SEGMENT></CON>
+        <F><SEGMENT>wird sich vorwiegend auf den urbanen Raum beschränken.</SEGMENT></F>
+        <QUD string="Warum wird sich das Fahren auf den urbanen Raum beschränken?">
+            <QUD string="Was ist mit der Reichweite?">
+                <QUD string = "Wie groß ist der Akku?">
+                    <F><SEGMENT> Mit dem 15,5-kWh-Lithium-Ionen-Akku </SEGMENT></F>
+
+                    <QUD string = "Welche Reichweiten erlaubt der Akku laut Harley im gemischten Betrieb?">
+                        <F id="1.2.2.1.1"><SEGMENT> sind </SEGMENT></F>
+                        <CON><SEGMENT> laut Harley im gemischten Betrieb </SEGMENT></CON>
+                        <F id="1.2.2.1.1"><SEGMENT> Reichweiten von gut 150 Kilometer zu erzielen,</SEGMENT></F>
+                    </QUD>
+
+                    <QUD string = "Welche Reichweiten erlaubt der Akku laut Harley im reinen Stadtbetrieb?">
+                        <QUD string = "Was ist ein Vorteil für den Akku im reinen Stadtbetrieb?">
+                            <CON><SEGMENT> im reinen Stadtbetrieb, wo </SEGMENT></CON>
+                            <F><SEGMENT> im Stop-And-go viel rekuperiert werden kann, </SEGMENT></F>
+
+                            <QUD string = "Welche Reichweiten können dank der Rekuperation erzielt werden?">
+                                <NAI><SEGMENT> immerhin </SEGMENT></NAI>
+                                <F><SEGMENT> zirka 230.</SEGMENT></F>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+
+                    <QUD string = "Was ergab die erste Testfahrt bezüglich der Reichweite?">
+                        <CON id="1.2.2.3.1"><SEGMENT> Während der ersten, gut 100 Kilometer langen Testfahrt </SEGMENT></CON>
+                        <F id="1.2.2.3.2"><SEGMENT> ließ sich </SEGMENT></F>
+                        <CON id="1.2.2.3.1"><SEGMENT> das </SEGMENT></CON>
+                        <F id="1.2.2.3.2"><SEGMENT> noch nicht überprüfen. </SEGMENT></F>
+                    </QUD>
+
+                    <QUD string="Welche Möglichkeit wird es geben, um größere Reichweiten zu erreichen?">
+                        <RES><SEGMENT> Wie dem auch sei, </SEGMENT></RES>
+                        <CON id="1.3.1.1.5.1"><SEGMENT> wer in die Ferne strebt </SEGMENT></CON>
+                        <RES><SEGMENT> und </SEGMENT></RES>
+                        <CON id="1.3.1.1.5.1"><SEGMENT>weiterhin in Richtung Horizont reiten will, den </SEGMENT></CON>
+                        <F id="1.3.1.1.5.2"><SEGMENT> lässt die Motor Company</SEGMENT></F>
+                        <RES><SEGMENT> auch </SEGMENT></RES>
+                        <F id="1.3.1.1.5.2"><SEGMENT> in Zukunft nicht im Stich: </SEGMENT></F>
+                        <QUD string="Was bedeutet 'nicht im Stich lassen'?">
+                            <QUD string = "Was wird für diese Zielgruppe angeboten?">
+                                <F><SEGMENT> Motorräder mit Verbrennungsmotoren </SEGMENT></F>
+                                <CON><SEGMENT> werden auf absehbare Zeit weiter angeboten. </SEGMENT></CON>
+                            </QUD>
+                        </QUD>
+                    </QUD>
+                </QUD>
+            </QUD>
+        </QUD>
+    </QUD>
+</ROOT>
