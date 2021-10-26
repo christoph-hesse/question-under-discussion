@@ -504,7 +504,7 @@
                     <F><SEGMENT>Am Moped-Niu hatten wir einst den allzu ruppigen Anzug bemängelt.</SEGMENT></F>
                     <QUD string="Wie hat sich der Anzug verändert?">
                         <CON><SEGMENT>Unser Flehen wurde in China erhört,</SEGMENT></CON>
-                        <F><SEGMENT> der NGT setzt sich an der Ampel sanft, fast schüchtern in Bewegung</SEGMENT></F>
+                        <F><SEGMENT> der NGT setzt sich an der Ampel sanft, fast schüchtern in Bewegung.</SEGMENT></F>
                         <QUD string="Wie wird diese Veränderung bewertet?">
                             <F id="1.9.2.1.1"><SEGMENT> Wir bitten um Vergebung, </SEGMENT></F>
                             <RES><SEGMENT>aber</SEGMENT></RES>
