@@ -114,35 +114,35 @@
                 <F id="4"><SEGMENT>feineren Oberflächen</SEGMENT></F>
                 <RES><SEGMENT>und</SEGMENT></RES>
                 <F id="5"><SEGMENT>adretteren Schaltern</SEGMENT></F>
-                    <QUD String = "Welcher Eindruck hinterlässt das?">
-                        <F><SEGMENT> deutlich angenehmer wird. </SEGMENT></F>
+                <QUD String = "Welcher Eindruck hinterlässt das?">
+                    <F><SEGMENT> deutlich angenehmer wird. </SEGMENT></F>
+                </QUD>
+            
+
+                <QUD String = "Was ist stattdessen nicht so gut?">
+                    <SEGMENT> Allerdings </SEGMENT>
+                    <F><SEGMENT> zum Preis der Übersichtlichkeit. </SEGMENT></F>
+
+                    <QUD String = "Wie schlecht ist die Übersichtlickeit?">
+                        <F><SEGMENT> Die ist eingeschränkt vom hochkant aufragenden Bildschirm und dem massiven
+                            Innenspiegelgehäuse, nach schräg vorn schlecht und nach schräg hinten sehr schlecht. </SEGMENT></F>
                     </QUD>
                 </QUD>
 
-            <QUD String = "Was ist stattdessen nicht so gut?">
-                <SEGMENT> Allerdings </SEGMENT>
-                <F><SEGMENT> zum Preis der Übersichtlichkeit. </SEGMENT></F>
+                <QUD String = "Was ist mit dem Armaturenbrett?">
+                    <F><SEGMENT>  Das umhüllende Armaturenbrett geht zu Lasten des seitlichen Freiraums an den Knien. </SEGMENT></F>
 
-                <QUD String = "Wie schlecht ist die Übersichtlickeit?">
-                    <F><SEGMENT> Die ist eingeschränkt vom hochkant aufragenden Bildschirm und dem massiven
-                        Innenspiegelgehäuse, nach schräg vorn schlecht und nach schräg hinten sehr schlecht. </SEGMENT></F>
+                    <QUD String = "Wie viele Möglichkeiten Gestaltung stehen zur Verfügung?">
+                        <CON><SEGMENT> Dafür </SEGMENT></CON>
+                        <F><SEGMENT> stehen 18 Möglichkeiten der Gestaltung parat, </SEGMENT></F>
+                        <NAI><SEGMENT> welche die Peinlichkeit violetter Ringe um die Luftdüsen abschütteln. </SEGMENT></NAI>
+                    </QUD>
+
+                    <QUD String = "Wie viele Kombinationen an Farben stehen zur Auswahl?">
+                        <CON><SEGMENT> Außenfarben mitgerechnet, </SEGMENT></CON>
+                        <F><SEGMENT> sind 90 Kombinationen möglich. </SEGMENT></F>
+                    </QUD>
                 </QUD>
-            </QUD>
-
-            <QUD String = "Was ist mit dem Armaturenbrett?">
-                <F><SEGMENT>  Das umhüllende Armaturenbrett geht zu Lasten des seitlichen Freiraums an den Knien. </SEGMENT></F>
-
-                <QUD String = "Wie viele Möglichkeiten Gestaltung stehen zur Verfügung?">
-                    <CON><SEGMENT> Dafür </SEGMENT></CON>
-                    <F><SEGMENT> stehen 18 Möglichkeiten der Gestaltung parat, </SEGMENT></F>
-                    <NAI><SEGMENT> welche die Peinlichkeit violetter Ringe um die Luftdüsen abschütteln. </SEGMENT></NAI>
-                </QUD>
-
-                <QUD String = "Wie viele Kombinationen an Farben stehen zur Auswahl?">
-                    <CON><SEGMENT> Außenfarben mitgerechnet, </SEGMENT></CON>
-                    <F><SEGMENT> sind 90 Kombinationen möglich. </SEGMENT></F>
-                </QUD>
-            </QUD>
 
                 <QUD Sting = "Wie viele Liter passen in den Kofferraum?">
                     <F><SEGMENT> 536 Liter passen in den Kofferraum, </SEGMENT></F>
