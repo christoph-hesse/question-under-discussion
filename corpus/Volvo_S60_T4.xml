@@ -112,7 +112,10 @@
                     <F><SEGMENT>meint zunächst,</SEGMENT></F>
                     <QUD string="Was denkt man?">
                         <RES><SEGMENT>dass</SEGMENT></RES>
-                        <F><SEGMENT>Volvo den S60 doch noch als Diesel anbieten würde,</SEGMENT></F>
+                        <F><SEGMENT>Volvo den S60</SEGMENT></F>
+                        <RES><SEGMENT>doch</SEGMENT></RES>
+                        <RES><SEGMENT>noch</SEGMENT></RES>
+                        <F><SEGMENT>als Diesel anbieten würde,</SEGMENT></F>
                         <QUD string="Warum denkt man das?">
                             <RES><SEGMENT>denn</SEGMENT></RES>
                             <F id="1"><SEGMENT>ein akustischer Leisetreter ist</SEGMENT></F>
