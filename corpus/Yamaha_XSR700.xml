@@ -164,7 +164,8 @@
                 <RES><SEGMENT> Auch </SEGMENT></RES>
                 <CON><SEGMENT> der Rest der XTribute </SEGMENT></CON>
                 <F id="1"><SEGMENT> vermag zu gefallen: </SEGMENT></F>
-                <F id="2"><SEGMENT> Trotz des bescheidenen Aufwands für die Radführungen funktioniert alles dank guter Abstimmung einwandfrei. </SEGMENT></F>
+                <RES> Trotz </SEGMENT></RES>
+                <F id="2"><SEGMENT> des bescheidenen Aufwands für die Radführungen funktioniert alles dank guter Abstimmung einwandfrei. </SEGMENT></F>
             </QUD>
 
             <QUD string = "Was ist mit Federung und Dämpfung?">
