@@ -70,19 +70,18 @@
                 <CON>
                     <SEGMENT>Škoda rechnet damit,</SEGMENT>
                 </CON>
-                <F>
+                <F id="1">
                     <SEGMENT>dass</SEGMENT>
                     <SEGMENT>bis zum Jahr 2025 rund ein Viertel der Produktion auf Elektromodelle entfallen wird,</SEGMENT>
                     <SEGMENT>Plug-in-Hybride mitgerechnet.</SEGMENT>
                 </F>
                 <RES><SEGMENT>Allerdings</SEGMENT></RES>
                 <AT><SEGMENT>muss noch</SEGMENT></AT>
-                <F>
-                    <SEGMENT>bis Anfang 2020 auf den Superb mit Stecker gewartet werden,</SEGMENT>
-                    <SEGMENT>während die Marktpremiere des aufgefrischten Superb</SEGMENT>
-                    <SEGMENT>und</SEGMENT>
-                    <SEGMENT>des Superb Scout schon Ende Juni ist.</SEGMENT>
-                </F>
+                <F id="2"><SEGMENT>bis Anfang 2020 auf den Superb mit Stecker gewartet werden,</SEGMENT></F>
+                <RES><SEGMENT>während </SEGMENT></RES>
+                <F id="2"><SEGMENT>die Marktpremiere des aufgefrischten Superb</SEGMENT></F>
+                <RES><SEGMENT>und</SEGMENT></RES>
+                <F id="2"><SEGMENT>des Superb Scout schon Ende Juni ist.</SEGMENT></F>
             </QUD>
         </QUD>
         <!--DT = Price-->  
