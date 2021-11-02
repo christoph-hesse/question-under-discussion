@@ -104,7 +104,7 @@
                             <F><SEGMENT> im Stop-And-go viel rekuperiert werden kann, </SEGMENT></F>
 
                             <QUD string = "Welche Reichweiten können dank der Rekuperation erzielt werden?">
-                                <NAI><SEGMENT> immerhin </SEGMENT></NAI>
+                                <RES><SEGMENT> immerhin </SEGMENT></RES>
                                 <F><SEGMENT> zirka 230.</SEGMENT></F>
                             </QUD>
                         </QUD>
