@@ -100,8 +100,8 @@
 
                     <QUD string = "Welche Reichweiten erlaubt der Akku laut Harley im reinen Stadtbetrieb?">
                         <QUD string = "Was ist ein Vorteil für den Akku im reinen Stadtbetrieb?">
-                            <CON><SEGMENT> im reinen Stadtbetrieb, wo </SEGMENT></CON>
-                            <F><SEGMENT> im Stop-And-go viel rekuperiert werden kann, </SEGMENT></F>
+                            <CON><SEGMENT> im reinen Stadtbetrieb, </SEGMENT></CON>
+                            <F><SEGMENT> wo im Stop-And-go viel rekuperiert werden kann, </SEGMENT></F>
 
                             <QUD string = "Welche Reichweiten können dank der Rekuperation erzielt werden?">
                                 <RES><SEGMENT> immerhin </SEGMENT></RES>
