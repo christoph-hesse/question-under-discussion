@@ -3,9 +3,9 @@
 <!--Skoda Superb-->	
 
 <ROOT>
-<QUD string="What about the driving report of Skoda Superb?">
+<QUD string="Was ist mit dem Fahrbericht des Skoda Superb?">
 <!--DT = Introduction-->    
-    <QUD string="What about the Superb?">
+    <QUD string="Was ist mit dem Superb?">
         <CON>
             <SEGMENT>Der</SEGMENT>
             <NAI><SEGMENT>große</SEGMENT></NAI>
@@ -17,7 +17,7 @@
             <SEGMENT>kommt als Plug-in-Hybrid.</SEGMENT>
         </F>
 
-        <QUD string="What about the electric cars?">
+        <QUD string="Was gibt es zu Elektroautos zu sagen?">
             <AT>
                 <SEGMENT>Der</SEGMENT>
                 <NAI><SEGMENT>kleine</SEGMENT></NAI>
@@ -32,7 +32,7 @@
                 <SEGMENT>die VW-Tochterfirma aus Tschechien.</SEGMENT>
             </CMT>    
 
-            <QUD string="What about the revision of the Superb?">
+            <QUD string="Welche Änderungen am Superb gibt es?">
                 <AT>
                     <SEGMENT>Anlässlich</SEGMENT>
                 </AT>
@@ -51,7 +51,7 @@
                     <SEGMENT>dem großen Škoda auch eine Version mit Plug-in-Hybrid zu spendieren.</SEGMENT>
                 </F>
 
-                <QUD string="What about this version with Plug-in-Hybrid?">
+                <QUD string="Was ist mit einer Plug-in-Hybrid Version?">
                     <AT>
                         <SEGMENT>Zudem</SEGMENT>
                     </AT>
@@ -63,7 +63,7 @@
                 </QUD>
             </QUD>        
             <!--DT = Launch-->
-            <QUD string="What about the production of electric cars?">
+            <QUD string="Wie werde Elektroautos (bei Skoda) produziert?">
                 <AT>
                     <SEGMENT>Auch</SEGMENT>
                 </AT>
@@ -85,7 +85,7 @@
             </QUD>
         </QUD>
         <!--DT = Price-->  
-        <QUD string="What about the price?">
+        <QUD string="Was kostet der Skoda Superb?">
             <CON>
                 <SEGMENT>Die genauen Preise</SEGMENT>
             </CON>
@@ -101,9 +101,9 @@
             </F>
         </QUD>
         <!--DT = Design--> 
-        <QUD string="What about the space?">
+        <QUD string="Wieviel Platz bietet der Superb?">
 
-            <QUD string="What about the sedan and Kombi?">
+            <QUD string="Was ist mit dem Sedan und dem Kombi?">
                 <CON>
                     <SEGMENT>Limousine und Kombi</SEGMENT>
                 </CON>
@@ -114,7 +114,7 @@
                 </F>
             </QUD>
 
-            <QUD string="What about the dimensions?">
+            <QUD string="Wie sind die Abmessungen?">
                 <CON>
                     <SEGMENT>Die Abmessungen</SEGMENT>
                 </CON>
@@ -122,9 +122,9 @@
                     <SEGMENT>sind fast identisch zum Vorgänger.</SEGMENT>
                 </F>
 
-                <QUD string="What are the sedan dimensions?">
+                <QUD string="Wie sind die Abmessungen des Sedan?">
 
-                    <QUD string="Why the new dimensions">
+                    <QUD string="Warum haben sich die Abmessungen des Sedan geändert?">
                         <F>
                             <SEGMENT>Bedingt durch die neue Frontschürze,</SEGMENT>
                         </F>
@@ -135,7 +135,7 @@
                     </F>
                 </QUD>
 
-                <QUD string="What about the kombi dimensions?">
+                <QUD string="Wie sind die Abmessungen des Kombis?">
                     <CON>
                         <SEGMENT>der Kombi</SEGMENT>
                     </CON>
@@ -146,7 +146,7 @@
             </QUD>
         </QUD>
 
-        <QUD string="What about the innovations?">
+        <QUD string="Welche Innovationen gibt es?">
             <CON>
                 <SEGMENT>Innovationen</SEGMENT>
             </CON>
@@ -154,7 +154,7 @@
                 <SEGMENT>stecken vor allem unterm Blech.</SEGMENT>
             </F>
 
-            <QUD string="What about the full-LED matrix headlights?">
+            <QUD string="Was ist mit den Voll-LED-Matrix-Scheinwerfer?">
                 <F>
                     <SEGMENT>Erstmals</SEGMENT>
                     <SEGMENT>kommen</SEGMENT>
@@ -175,7 +175,7 @@
                 <SEGMENT>neue Assistenzsysteme</SEGMENT>
             </F>
 
-            <QUD string="What are the assistance systems?">
+            <QUD string="Was ist mit Assistanzsystemen?">
                 <AT>
                     <SEGMENT>wie beispielsweise</SEGMENT>
                 </AT>
@@ -186,7 +186,7 @@
                 </F>
             </QUD>
 
-            <QUD string="What about the power source?">
+            <QUD string="Welche Kraftquelle hat der Skoda Superb?">
                 <CON>
                     <SEGMENT>Als Kraftquelle</SEGMENT>
                 </CON>
@@ -197,7 +197,7 @@
                 </F>
             </QUD>
 
-            <QUD string="What about the Scout variant with subtle plastic planking?">
+            <QUD string="Was bietet die Scout Variante mit dezenter Plastik-Beplankung?">
                 <CON>
                     <SEGMENT>Die Scout-Variante mit dezenter Plastik-Beplankung,</SEGMENT>
                 </CON>
@@ -216,7 +216,7 @@
                 </F>
             </QUD>
 
-            <QUD string="What do expect the Škoda company?">
+            <QUD string="Was erwartet Skoda (die Firma)?">
                 <CON>
                     <SEGMENT>Škoda Deutschland erwartet,</SEGMENT>
                 </CON>
@@ -225,7 +225,7 @@
                 </F>
             </QUD>
 
-            <QUD string="What is the most important innovation?">
+            <QUD string="Was ist die wichtigste Innovation?">
                 <CON>
                     <SEGMENT>Wichtigste Neuerung</SEGMENT>
                     <SEGMENT>ist</SEGMENT>
@@ -238,7 +238,7 @@
             </QUD>
         </QUD>
 
-        <QUD string="What are the versions?">
+        <QUD string="Welche Versionen gibt es?">
             <CON>
                 <SEGMENT>Es</SEGMENT>
                 <SEGMENT>ist</SEGMENT>
@@ -249,9 +249,9 @@
                 <SEGMENT>erhältlich.</SEGMENT>
             </F>
 
-            <QUD string="What about the Hybrid drive?">
+            <QUD string="Was ist mit Hybrid-Antrieb?">
                 
-                <QUD string="What about the Plug-in-Hybrid">
+                <QUD string="Was ist mit dem Plug-in-Hybrid?">
                     <CON>
                         <SEGMENT>Der Plug-in-Hybrid</SEGMENT>
                     </CON>
@@ -262,7 +262,7 @@
                         <SEGMENT>einen 116 PS starken Elektromotor.</SEGMENT>
                     </F>
     
-                    <QUD string="What about the power?">
+                    <QUD string="Was ist mit der Kraft?">
                         <CON>
                             <SEGMENT>Die Kraft</SEGMENT>
                         </CON>
@@ -270,7 +270,7 @@
                             <SEGMENT>wird mittels eines Sechs-Gang-DSG-Getriebes auf die Räder gebracht.</SEGMENT>
                         </F>
     
-                        <QUD string="What about the system performance?">
+                        <QUD string="Was ist die Gesamtsystemleistung?">
                             <CON>
                                 <SEGMENT>Die Gesamtsystemleistung</SEGMENT>
                             </CON>
@@ -281,7 +281,7 @@
                     </QUD>
                 </QUD>   
 
-                <QUD string="What about the electrical range?">
+                <QUD string="Was ist die rein elektrische Reichweite?">
                     <CON>
                         <SEGMENT>Die rein elektrische Reichweite</SEGMENT>
                     </CON>
@@ -294,7 +294,7 @@
                     </F>
                 </QUD>
 
-                <QUD string="What is it possible with the 50-liter tank in the Hybrid?">
+                <QUD string="Was ist dank des 50-Liter-Tanks mit dem Hybrid möglich?">
                     <CON>
                         <SEGMENT>Dank des 50-Liter-Tanks</SEGMENT>
                     </CON>
@@ -308,7 +308,7 @@
                 </QUD>
             </QUD>
 
-            <QUD string="What can the driver choose?">
+            <QUD string="Was kann der Fahrer wählen?">
                 <CON>
                     <SEGMENT>Der Fahrer hat die Wahl</SEGMENT>
                 </CON>
@@ -317,7 +317,7 @@
                 </F>
             </QUD>
             
-            <QUD string="What about the lithium-ion battery?">
+            <QUD string="Wie groß ist die Lithium-Ionen-Batterie?">
                 <CON>
                     <SEGMENT>Die Lithium-Ionen-Batterie</SEGMENT>
                 </CON>
@@ -325,7 +325,7 @@
                     <SEGMENT>hat eine Kapazität von 13 kWh,</SEGMENT>
                 </F>
 
-                <QUD string="How to charge the battery?">
+                <QUD string="Wie läd man die Lithium-Ionen-Batterie?">
                     <DT>
                         <SEGMENT>sie</SEGMENT>
                     </DT>
@@ -335,7 +335,7 @@
                         <SEGMENT>in dreieinhalb Stunden an einer Wallbox laden.</SEGMENT>
                     </F>
 
-                    <QUD string="How is it for Škoda Citigo?">
+                    <QUD string="Wie verhält es sich für den Škoda Citigo?">
                         <F>
                             <SEGMENT>Nur mit Strom fährt</SEGMENT>
                             <SEGMENT>künftig</SEGMENT>
@@ -350,7 +350,7 @@
                             <SEGMENT>Alle anderen Citigo-Modelle werden vom Markt genommen.</SEGMENT>
                         </AT>
                         
-                        <QUD string="How different are the both models?">
+                        <QUD string="Wie verschieden sind beide Modelle?">
                             <CON>
                                 <SEGMENT>Er unterscheidet sich von seinen Geschwistern</SEGMENT>
                             </CON>
@@ -358,7 +358,7 @@
                                 <SEGMENT>mit Verbrennungsmotor durch seinen geschlossenen Kühlergrill.</SEGMENT>
                             </F>
 
-                            <QUD string="How is the power of the electrical motor?">
+                            <QUD string="Wieviel Leistung hat der Elektromotor?">
                                 <CON>
                                     <SEGMENT>Der Elektromotor</SEGMENT>
                                 </CON>
@@ -368,7 +368,7 @@
                                     <SEGMENT>bietet einen Drehmoment-Bestwert von 210 Nm.</SEGMENT>
                                 </F>
 
-                                <QUD string="What is the highest speed?">
+                                <QUD string="Was ist die Höchstgeschwindigkeit?">
                                     <CON>
                                         <SEGMENT>Die Höchstgeschwindigkeit</SEGMENT>
                                     </CON>
@@ -381,7 +381,7 @@
                     </QUD>
                 </QUD>
 
-                <QUD string="Where is the 36,8 kWh Lithium-Ionen-Batterie?">
+                <QUD string="Wo befindet sich die 36,8 kWh Lithium-Ionen-Batterie?">
                     <F>
                         <SEGMENT>Im Wagenboden des 3,60 Meter kurzen Stadtwägelchens</SEGMENT>
                         <SEGMENT>sitzt</SEGMENT>
@@ -390,12 +390,12 @@
                         <SEGMENT>eine 36,8 kWh starke Lithium-Ionen-Batterie,</SEGMENT>
                     </CON>
 
-                    <QUD string="How long does it take to be charged?">
+                    <QUD string="Wie lange dauert das Laden der Batterie?">
                         <F>
                             <SEGMENT>die an einer Haushaltssteckdose in zwölfeinhalb Stunden aufgeladen werden kann.</SEGMENT>
                         </F>
 
-                        <QUD string="How is it in a rapid charging station?">
+                        <QUD string="Wie lange dauert das Laden der Batterie an der Schnellladestation?">
                             <CON>
                                 <SEGMENT>An der Schnellladestation</SEGMENT>
                             </CON>
@@ -409,7 +409,7 @@
             </QUD>
         </QUD>
 
-        <QUD string="What about the range?">
+        <QUD string="Welche Reichweite hat der Superb?">
             <CON>
                 <SEGMENT>Die Reichweite</SEGMENT>
             </CON>
@@ -420,7 +420,7 @@
             </F>
         </QUD>
 
-        <QUD string="What about the start price?">
+        <QUD string="Was ist der Basispreis?">
             <CON>
                 <SEGMENT>Der Basispreis</SEGMENT>
             </CON>
@@ -428,12 +428,12 @@
                 <SEGMENT>von 20.000 Eur</SEGMENT>
             </F>
 
-            <QUD string="How is this price compared to others models">
+            <QUD string="Wie ist der Basispreis im Vergleich?">
                 <F>
                     <SEGMENT>ist absolut hoch und relativ niedrig.</SEGMENT>
                 </F>
 
-                <QUD string="How is it compared to the Citigo?">
+                <QUD string="Wie ist der Basispreis verglichen mit dem Citigo?">
                     <AT>
                         <SEGMENT>Allerdings</SEGMENT>
                     </AT>

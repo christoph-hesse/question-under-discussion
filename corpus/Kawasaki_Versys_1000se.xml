@@ -3,11 +3,11 @@
 <!--Kawasaki Versys 1000 SE-->	
 
 <ROOT>
-<QUD string="What about the driving report of Kawasaki Versys 1000 SE?">
+<QUD string="Was ist mit dem Fahrbericht dder Kawasaki Versys 1000 SE?">
 <!--Introduction-->
-    <QUD string="What about the marketing of Kawasaki?">
+    <QUD string="Wie ist das Marketing von Kawasaki?">
 
-        <QUD string="What about the marketing people?">
+        <QUD string="Wie sind die Marketing Leute von Kawasaki?">
             <CON>
                 <SEGMENT>Sie</SEGMENT>
             </CON>
@@ -15,7 +15,7 @@
                 <SEGMENT>sind ganz schön listig bei Kawasaki:</SEGMENT>
             </F>
 
-            <QUD string="What do marketing people avoid to speak about?">
+            <QUD string="Was vermeiden die Marketing Leute anzusprechen?">
                 <F>
                     <NAI><SEGMENT>Sorgfältig</SEGMENT></NAI>
                     <SEGMENT>vermeiden es</SEGMENT>
@@ -31,7 +31,7 @@
                     <SEGMENT>im Falle der neuen Versys 1000 von einem Abenteuermotorrad zu reden.</SEGMENT>
                 </F>
 
-                <QUD string="What do they suggest instead?">
+                <QUD string="Was suggerieren die Marketing Leute stattdessen?">
                     <CON>
                         <SEGMENT>Doch gleichzeitig suggerieren sie</SEGMENT>
                     </CON>
@@ -39,7 +39,7 @@
                         <SEGMENT>mit dem Slogan „Adventure calling!“,</SEGMENT>
                     </F>
 
-                    <QUD string="What should the client expect?">
+                    <QUD string="Was sollten Kunden erwarten?">
                         <RES>
                             <SEGMENT>dass</SEGMENT>
                         </RES>
@@ -51,11 +51,11 @@
                             <SEGMENT>darauf wartet,ins staubige Abenteuer zu starten.</SEGMENT>
                         </F>
 
-                        <QUD string="How was the kawasaki Versys presentation?">
+                        <QUD string="Wie war die Kawasaki Versys Präsentation?">
                             <CON>
                                 <SEGMENT>Bei der Präsentation</SEGMENT>
                             </CON>
-                            <QUD string="Where was the presentation?">
+                            <QUD string="Wo war die Präsentation?">
                                 <F><SEGMENT>auf der sanddominierten Kanareninsel Fuerteventura</SEGMENT></F>
                             </QUD>
                             <F>
@@ -63,19 +63,19 @@
                                 <SEGMENT>wie auf der lavadurchsetzen Nachbarinsel Lanzarote,</SEGMENT>
                             </F>
 
-                            <QUD string="What does Kawasaki Versys show?">
+                            <QUD string="Was zeigt die Kawasaki Versys?">
                                 <RES><SEGMENT>Aber</SEGMENT></RES>
                                 <RES><SEGMENT>dennoch</SEGMENT></RES>
                                 <F>
                                     <SEGMENT>zeigte sich auf den mehr als 400 zurückgelegten Kilometern,</SEGMENT>
                                 </F>
-                                <QUD string="What shows?">
+                                <QUD string="Was zeigt das?">
                                     <RES><SEGMENT>dass</SEGMENT></RES>
                                     <CON><SEGMENT>die neueste Auflage der Versys 1000:</SEGMENT></CON>
                                     <F><SEGMENT>eine Art Allzweckwaffe geworden ist:</SEGMENT></F>
                                 </QUD>
 
-                                <QUD string="What does it dominate? ">
+                                <QUD string="Was dominatiert die Versys? ">
                                     <F>
                                         <NAI><SEGMENT>Selbstverständlich</SEGMENT></NAI>
                                         <SEGMENT>beherrscht</SEGMENT>
@@ -88,7 +88,7 @@
                                         <SEGMENT>das Rasen,</SEGMENT>
                                     </F>    
 
-                                    <QUD string="Why does it dominate?">
+                                    <QUD string="Warum dominiert die Versys?">
                                         <RES><SEGMENT>aber nicht zuletzt</SEGMENT></RES>
                                         <F id="1">
                                             <SEGMENT>dank einer sehr kompletten Ausstattung</SEGMENT>
@@ -112,12 +112,12 @@
         </QUD>
     </QUD>   
 <!--Price & Technical: Beginn Hauptteil (Synonymelist führen)-->
-    <QUD string="What about the price of Kawasaki Versys 1000?">
+    <QUD string="Wieviel kostet die Kawasaki Versys 1000?">
         <F>
             <SEGMENT>Mit einem Preis von 16.395 Euro</SEGMENT>
         </F>
 
-        <QUD string="Who is this not for?">
+        <QUD string="Für wen ist die Kawasaki Versys nicht?">
             <F id="1">
                 <SEGMENT>ist</SEGMENT>
             </F>
@@ -128,9 +128,9 @@
                 <SEGMENT>kein Motorrad für Jedermann mehr;</SEGMENT>
             </F>
 
-            <QUD string="Why is this not for everyone?">
+            <QUD string="Warum ist die Kawasaki Versys nicht für jeden?">
 
-                <QUD string="What about the weight of Kawasaki Versys 1000?">
+                <QUD string="Was ist mit dem Gewicht der Kawasaki Versys 1000?">
                     <RES>
                         <SEGMENT>auch</SEGMENT>
                     </RES>
@@ -141,7 +141,7 @@
                         <SEGMENT>von 257 Kilogramm</SEGMENT>
                     </F>
 
-                    <QUD string="What about the engine power?">
+                    <QUD string="Was ist die Motorleistung?">
                         <RES>
                             <SEGMENT>wie auch</SEGMENT>
                         </RES>
@@ -152,7 +152,7 @@
                             <SEGMENT>von 88 kW/120 PS</SEGMENT>
                         </F>
 
-                        <QUD string="What does it require?">
+                        <QUD string="Was benötigt man?">
                             <F>
                                 <SEGMENT>verlangen nach einem Piloten mit Erfahrung</SEGMENT>
                                 <NAI><SEGMENT>– insbesondere wenn sich auf geräumigen Passagiersitz die Dame des Herzens aufhält.</SEGMENT></NAI>
@@ -163,7 +163,7 @@
             </QUD>
         </QUD>
     </QUD>
-    <QUD string="What about the accommodation?">
+    <QUD string="Wie ist der Innenraum/der Komfort?">
         <RES><SEGMENT>Sowohl</SEGMENT></RES>
         <F id="1"><SEGMENT> für sie </SEGMENT></F>
         <RES><SEGMENT>wie</SEGMENT></RES>
@@ -173,7 +173,7 @@
         <F id="1-2"><SEGMENT>erstklassig:</SEGMENT></F>
         <F id="3"><SEGMENT>Sitze, Windschutz und Ergonomie gefallen.</SEGMENT></F>
 
-        <QUD string="What does it offer more?">
+        <QUD string="Was bietet der Innenraum?">
             <CON>
                 <NAI><SEGMENT>Für ihren durchaus selbstbewusst angesetzten Preis</SEGMENT></NAI>
                 <SEGMENT>bietet die Tausender aber noch mehr: </SEGMENT>
@@ -194,12 +194,12 @@
                 <SEGMENT>mit dem Höhepunkt eines semiaktiv arbeitenden Fahrwerkssystems.</SEGMENT>
             </F>
 
-            <QUD string="What does the other motorcycles in the market offer?">
+            <QUD string="Was bietet die Versys im Marktvergleich?">
                 <F>
                     <SEGMENT>Solches offeriert kein anderer japanischer Hersteller in dieser Klasse.</SEGMENT>
                 </F>
 
-                <QUD string="What about the greens motorcycles">
+                <QUD string="Was ist mit Kawasaki Motorrädern (im Allgemeinen)?">
                     <RES><SEGMENT>Insofern</SEGMENT></RES>
                     <F id="1"><SEGMENT>sind</SEGMENT></F>
                     <CON><SEGMENT>„die Grünen“</SEGMENT></CON>
@@ -208,7 +208,7 @@
                         <SEGMENT>den Ducati Multistradas wie auch Triumphs Explorern.</SEGMENT>
                     </F>
 
-                    <QUD string="Why is that?">
+                    <QUD string="Warum ist das so?">
                         <CON><SEGMENT>Dies</SEGMENT></CON>
                         <RES><SEGMENT> auch </SEGMENT></RES>
                         <RES><SEGMENT> deshalb, weil</SEGMENT></RES>
@@ -217,7 +217,7 @@
                             <SEGMENT>auch die weiteren Ingredienzien für ein hochklassiges Menü an Bord sind:</SEGMENT>
                         </F>
 
-                        <QUD string="What are the other options on bord?">
+                        <QUD string="Welche weiteren Ingredienzien gibt es?">
                             <F id="1"><SEGMENT>elektronische Traktionskontrolle,</SEGMENT></F>
                             <F id="2"><SEGMENT>Quickshifter,</SEGMENT></F>
                             <F id="3"><SEGMENT>Kurvenlicht,</SEGMENT></F>
@@ -226,7 +226,7 @@
                             <F id="5"><SEGMENT>ein prima ablesbares TFT-Display</SEGMENT></F>
                             <RES><SEGMENT>beispielsweise.</SEGMENT></RES>
 
-                            <QUD string="What else?">
+                            <QUD string="Welche weiteren Ingredienzien gibt es noch?">
                                 <CON>
                                     <SEGMENT>Weiterhin</SEGMENT>
                                 </CON>
@@ -241,7 +241,7 @@
                             </QUD>
                         </QUD>
                     </QUD>
-                    <QUD string="What is not popular for green motorcylces?">
+                    <QUD string="Wofür stehen Kawasaki Motorräder nicht?">
                         <F>
                             <SEGMENT>Beschauliches „Retro“</SEGMENT>
                             <SEGMENT>ist</SEGMENT>
@@ -251,35 +251,35 @@
                             <SEGMENT>Sache der Grünen nicht</SEGMENT>
                         </CON>
 
-                        <QUD string="What are popular for green motorcycles?">
+                        <QUD string="Wofür stehen Kawasaki Motorräder (dann)?">
                             <F>
                                 <SEGMENT>die lassen’s lieber krachen.</SEGMENT>
                             </F>
 
-                            <QUD string="How is it in the case of the Versys?">
+                            <QUD string="Wofür steht die Kawasaki Versys (im Speziellen)?">
                                 <F>
                                     <NAI><SEGMENT>Angenehmerweise,</SEGMENT></NAI>
                                     <SEGMENT>ohne deshalb im Falle der Versys</SEGMENT>
                                     <SEGMENT>mit übertriebener Lautstärke auf sich aufmerksam zu machen.</SEGMENT>
                                 </F>
 
-                                <QUD string="How is it by driving?">
+                                <QUD string="Wie fährt sich die Kawasaki Versys?">
                                     <RES><SEGMENT>Aber</SEGMENT></RES>
                                     <CON> <SEGMENT>beim Fahren</SEGMENT></CON>
                                     <F><SEGMENT>animiert die Tausender durchaus zu flotter Gangart,</SEGMENT></F>
-                                    <QUD string="What is the result of driving fast?">
+                                    <QUD string="Was ist das Resultat schnellen Fahrens?">
                                         <RES><SEGMENT>sodass</SEGMENT></RES>
                                         <F><SEGMENT>die serienmäßige Schräglagenanzeige im Cockpit gerne Werte jenseits der 40 Grad auflistet.</SEGMENT></F>
                                     </QUD>
 
-                                    <QUD string="What can be seen from the front?">
+                                    <QUD string="Was sieht man von vorne?">
                                         <CON><SEGMENT>Von vorne erkennbar ist</SEGMENT></CON>
                                         <F><SEGMENT>solches Treiben am Aufleuchten des intensiven LED-Kurvenlichtes;</SEGMENT></F>
 
-                                        <QUD string="What else?">
+                                        <QUD string="Was sieht man noch von vorne?">
                                             <F><SEGMENT>auch Abblend- und Fernlicht</SEGMENT></F>
 
-                                            <QUD string="What do they have?">
+                                            <QUD string="Was haben Abblend- und Fernlicht?">
                                                 <F id="1"><SEGMENT>verfügen über neueste Lichttechnologie</SEGMENT></F>
                                                 <RES><SEGMENT>und</SEGMENT></RES>
                                                 <F id="2"><SEGMENT>machen die Nacht (fast) zum Tage.</SEGMENT></F>
@@ -294,24 +294,24 @@
             </QUD>
         </QUD>
     </QUD>
-    <QUD string="What about the driving?">
+    <QUD string="Wie fährt sich die Kawasaki Versys?">
          
-        <QUD string="What about the chassis of the Versys?">
+        <QUD string="Wie ist das Fahrwerk der Versys?">
             <CON> <SEGMENT>Das Fahrwerk der Versys</SEGMENT></CON>
             <F><SEGMENT>ist ausgewogen;</SEGMENT></F>
 
-            <QUD string="Why is it balanced?">
+            <QUD string="Warum ist das Fahrwerk ausgewogen?">
                 <CON><SEGMENT>sie</SEGMENT></CON>
                 <F id="1"><SEGMENT>lenkt leicht ein,</SEGMENT></F>
                 <F id="2"><SEGMENT>bleibt stets stabil auf Kurs</SEGMENT></F>
                 <RES><SEGMENT>und</SEGMENT></RES>
                 <F id="3"><SEGMENT>bietet guten Komfort.</SEGMENT></F>
 
-                <QUD string="What about the semi-active control function?">
+                <QUD string="Was ist mit der semiaktive Regelungsfunktion?">
                     <CON><SEGMENT>Die semiaktive Regelungsfunktion</SEGMENT></CON>
                     <F><SEGMENT>zeigt sich jeder Situation gewachsen.</SEGMENT></F>
 
-                    <QUD string="What about the three-disc brake system?">
+                    <QUD string="Was ist mit der Bremsanlage?">
                         <F>
                             <SEGMENT>Dieselben guten Noten erhält</SEGMENT>
                         </F>
@@ -319,7 +319,7 @@
                             <SEGMENT>das Dreischeiben-Bremssystem,</SEGMENT>
                         </CON>
 
-                        <QUD string="What does it bring in the SE-Version?">
+                        <QUD string="Was bietet die SE-Version?">
                             <CON>
                                 <SEGMENT>das im Fall der SE-Version </SEGMENT>
                             </CON>
@@ -328,14 +328,14 @@
                                 <SEGMENT>über eine Kurvenfunktion verfügt.</SEGMENT>
                             </F>
 
-                            <QUD string="What about all these details?">
+                            <QUD string="Welche Details fallen dabei auf?">
                                 <F>
                                     <SEGMENT>Es sind eher Kleinigkeiten,</SEGMENT>
                                     <SEGMENT>in denen dieser grüne „Stelzentourer“</SEGMENT>
                                     <SEGMENT>noch ein Quäntchen souveräner auftreten könnte:</SEGMENT>
                                 </F>
 
-                                <QUD string="What about the windshield adjustments?">
+                                <QUD string="Was ist mit der Windschildverstellung?">
                                     <CON>
                                         <SEGMENT>Die Windschildverstellung</SEGMENT>
                                     </CON>
@@ -343,24 +343,24 @@
                                     <RES><SEGMENT>und</SEGMENT></RES>
                                     <F id="2"><SEGMENT>ist deshalb nicht einhändig bedienbar,</SEGMENT></F>
 
-                                    <QUD string="What would also be nice to have?">
+                                    <QUD string="Welche Extras wären noch schön?">
                                         <CON><SEGMENT>schön wäre auch</SEGMENT></CON>
                                         <F><SEGMENT>eine Blinker-Rückstellautomatik</SEGMENT></F>
                                         <RES><SEGMENT>wie auch</SEGMENT></RES>
                                         <F><SEGMENT>eine elektronische Reifendruckkontrolle.</SEGMENT></F>
 
-                                        <QUD string="What about the top spped?">
+                                        <QUD string="Was ist die Höchstgeschwindigkeit?">
                                             <CON>
                                                 <SEGMENT>Das Höchsttempo mit montierten Seitenkoffern</SEGMENT>
                                                 <NAI><SEGMENT>– die Behälter sind ausreichend groß und funktional tadellos –</SEGMENT></NAI>
                                             </CON>
                                             <F><SEGMENT>ist auf 130 km/h limitiert.</SEGMENT></F>
 
-                                            <QUD string="What about the top case?">
+                                            <QUD string="Was ist mit dem Topcase?">
                                                 <CON><SEGMENT>Ein sehr geräumiges Topcase</SEGMENT></CON>
                                                 <F id="1"><SEGMENT>ist Bestandteils des zusätzlichen,</SEGMENT></F>
 
-                                                <QUD string="How much does it costs?">
+                                                <QUD string="Wieviel kostet das Topcase?">
                                                     <F><SEGMENT>1.100 Euro Aufpreis kostenden</SEGMENT></F>
                                                 </QUD>
                                                 <F id="1"><SEGMENT>„Grand-Tourer“-Angebots.</SEGMENT></F>
@@ -374,12 +374,12 @@
                 </QUD>
             </QUD>
         </QUD>
-        <QUD string="What cannot die Kawasaki Versys 1000 offer?">
+        <QUD string="Was bietet die Kawasaki Versys 1000 nicht/was fehlt?">
             <RES><SEGMENT>Auch wenn</SEGMENT></RES>
             <CON><SEGMENT>die Kawasaki Versys 1000</SEGMENT></CON>
             <F><SEGMENT>die extreme Nutzungs-Bandbreite einer echten Reiseenduro nicht zu offerieren vermag,</SEGMENT></F>
 
-            <QUD string="What can the Kawasaki Versys 1000 offer?">
+            <QUD string="Was bietet die Kawasaki Versys 1000?">
                 <RES id="1"><SEGMENT>so </SEGMENT></RES>
                 <CON><SEGMENT>liefert sie</SEGMENT></CON>
                 <RES id="1"><SEGMENT>doch</SEGMENT></RES>
@@ -388,19 +388,19 @@
                     <SEGMENT>anspruchsvolle Grundlage</SEGMENT>
                 </F>
 
-                <QUD string="What is it good for?">
+                <QUD string="Wofür/Für welche Nutzung eignet sich die Versys?">
                     <F> <SEGMENT>für vergnügliches Reisen auf Straßen aller Art über lange Distanzen.</SEGMENT></F>
 
-                    <QUD string="What else?">
+                    <QUD string="Was ist noch positiv?">
                         <RES><SEGMENT>Zudem</SEGMENT></RES>
                         <F><SEGMENT>macht die Anmutung hinterm breiten Rohrlenker echt Laune:</SEGMENT></F>
 
-                        <QUD string="What about four-cylinder?">
+                        <QUD string="Was ist mit dem Vierzylinder?">
                             <CON><SEGMENT>Der Vierzylinder</SEGMENT></CON>
                             <F><SEGMENT>ist ein feiner,</SEGMENT></F>
 
-                            <QUD string="Why is it better?">
-                                <QUD string="What's the gas consumption?">
+                            <QUD string="Warum ist der Vierzylinder besser?">
+                                <QUD string="Wieviel verbraucht die Versys?">
                                     <F><SEGMENT>mit 5,5 Litern pro 100 Kilometer </SEGMENT></F>
                                 </QUD>
                                 <F id="1"><SEGMENT>keineswegs übertrieben durstiger Geselle,</SEGMENT></F>
@@ -410,7 +410,7 @@
                                 <F id="2c"><SEGMENT>Ausstattung</SEGMENT></F>
                                 <F id="2"><SEGMENT>befinden sich auf sehr hohem Niveau.</SEGMENT></F>
 
-                                <QUD string="What will the driver also enjoy?">
+                                <QUD string="Was wird dem Fahrer noch gefallen?">
                                     <RES><SEGMENT>Und</SEGMENT></RES>
                                     <CON id="1">
                                         <SEGMENT>wer</SEGMENT>
