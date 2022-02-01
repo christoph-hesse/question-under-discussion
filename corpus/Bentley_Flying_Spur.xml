@@ -142,7 +142,7 @@
     </QUD>
 
     <QUD string="Wie lang ist die Limousine?">
-        <F><SEGMENT>5,32 Metermisst </SEGMENT></F>
+        <F><SEGMENT>5,32 Meter misst </SEGMENT></F>
         <CON>
             <SEGMENT>die</SEGMENT>
             <NAI>
