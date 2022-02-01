@@ -162,12 +162,11 @@
         <CON><SEGMENT>der Wendekreis</SEGMENT></CON>
         <RES><SEGMENT>dennoch</SEGMENT></RES>
         <F><SEGMENT>mit straßenbaulichen Gegebenheiten harmoniert,</SEGMENT></F>
-    </QUD>
-
-    <QUD string="Was bekommt der Flying Spur dafür?">
-        <F id="1"><SEGMENT>bekommt</SEGMENT></F>
-        <CON><SEGMENT>der Flying Spur</SEGMENT></CON>
-        <F id="1"><SEGMENT> eine Allradlenkung.</SEGMENT></F>
+        <QUD string="Was bekommt der Flying Spur dafür?">
+            <F id="1"><SEGMENT>bekommt</SEGMENT></F>
+            <CON><SEGMENT>der Flying Spur</SEGMENT></CON>
+            <F id="1"><SEGMENT> eine Allradlenkung.</SEGMENT></F>
+        </QUD>
     </QUD>
 
     <QUD string="Wie lenken die Räder bei Rangiertempo?">
