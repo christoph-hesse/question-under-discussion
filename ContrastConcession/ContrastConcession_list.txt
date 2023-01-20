@@ -1,1 +1,195 @@
 % LIST OF CONTRASTS & CONCESSIONS IN THE CORPUS %
+Marker	Contrast/Concession	QUD_Structure	Anaphoric/Cataphoric	Example
+aber	Contrast	Coordinate	NA	Die sind zwar perfekt verarbeitet, fühlen sich aber nicht so hochwertig an wie sonst üblich und holen einen schnell in die plastikharte Kleinwagen-Realität zurück.
+aber	Contrast	Coordinate	NA	Fakt aber ist: Wer sich für den A1 40 TFSI entscheidet, sollte das monatliche Tankbudget aufstocken.
+aber	Concession	Subordinate	Anaphoric	Für die Fahrt abseits der Straße gibt es zusätzlich eine Achssperre hinten, eine Geländereduktion und vier Modi, welche die für die Straße wählbaren Programme Normal und Sport ergänzen, aber leider erst auf Knopfdruck im Display angezeigt werden: Gras/Schotter/Schnee, Schlamm/Sand, Fels und Baja.
+aber	Contrast	Coordinate	NA	Vorn sitzen die Passagiere ausgezeichnet, aber wer auf der Rücksitzbank Platz nehmen muss, ärgert sich über den klassenüblich knappen Beinraum der Doppelkabiner – sonst bliebe für die Ladefläche noch weniger übrig als 156 × 157 Zentimeter.
+aber	Concession	Subordinate	Anaphoric	Der Raptor braucht die Hälfte mehr Zylinder und Hubraum, denn die Konkurrenz von Volkswagen und Mercedes kommt mit wuchtigen Sechszylindern daher, und beide laufen mit rund 200 km/h deutlich schneller als die 170, die Ford dem Raptor zugesteht – nicht, dass man das brauchte, aber wenn das Auto schon als Spaßmobil angeboten wird, fehlt gegenüber den anderen etwas.
+aber	Concession	Subordinate	Anaphoric	Die für Letztere erhältliche Option des elektronischen Fahrwerks (1600 Euro extra) geht noch feinfühliger zur Sache, aber der Unterschied wird nicht für jedermann erfahrbar sein.
+aber	Concession	Subordinate	Anaphoric	Dank Erfüllung sämtlicher Euro-5-Vorgaben und eines speziellen Ventils im Schalldämpfer klingt die Honda nach wie vor gut, ist aber nicht mehr so prollig laut wie die alte Adventure Sports.
+aber	Concession	Subordinate	Cataphoric	Die Doppelstrategie ist aber gar nicht dumm, weil der Fahrer auf diese Weise sein spezielles Asphalt-Programm und ein ebenso spezielles Offroad-Programm hinterlegen kann.
+aber	Contrast	Coordinate	NA	Beide haben sehr üppige Federwege, sinnvolle Reifendimensionierungen auch für Offroad-Fahrten und sind zudem etwas leichter geworden, auch wenn das Ausstattungsplus gewichtstreibend wirkt: 250 Extra-Kilo gibt Honda für die Sport Adventure mit allem, aber noch ohne Gepäcksystem an.
+aber	Concession	Subordinate	Anaphoric	Das ist aber auch schon die einzige Kritik an diesem sonst ansehnlichen Motorrad.
+aber	Contrast	Coordinate	NA	Wichtiger aber noch ist die Schlankheitskur, die der CB 1000 R widerfuhr.
+aber	Contrast	Coordinate	NA	Das macht sich auf ebenen Landstraßen kaum bemerkbar, könnte aber bergauf und nach engen Kehren – etwa in den Bergen – durchaus spürbar werden. 
+aber	Contrast	Coordinate	NA	Dann liegt man bei 14.495 Euro, bekommt dafür aber ein wertiges, schickes und stilvolles Fahrgerät für fast alle Lebenslagen. 
+aber	Contrast	Coordinate	NA	Nicht, dass der Ioniq schlecht verarbeitet wäre, aber die Architektur mutet für hiesige Verhältnisse doch eine Spur zu trist an.
+aber	Contrast	Coordinate	NA	Aber so ganz elektrisiert ist der Fahrer erstmal nicht.
+aber	Contrast	Coordinate	NA	Aber der Boost ist nicht das einzige variable Element beim iPace. Neben der mechanischen Verstellung des Rennfahrwerks bietet er mit seinem halben Dutzend Drehschaltern am Lenkrad obendrein ein paar elektronische Spielereien, die es so nur beim Elektroauto gibt. 
+aber	Concession	Subordinate	Anaphoric	Aber dennoch zeigte sich auf den mehr als 400 zurückgelegten Kilometern, dass die neueste Auflage der Versys 1000: eine Art Allzweckwaffe geworden ist:
+aber	Concession	Subordinate	Anaphoric	Aber beim Fahren animiert die Tausender durchaus zu flotter Gangart, sodass die serienmäßige Schräglagenanzeige im Cockpit gerne Werte jenseits der 40 Grad auflistet.
+aber	Contrast	Coordinate	NA	Zum anderen aber, weil der RX auch trotz neu abgestimmter Dämpfer, optimierter Stabilisatoren und höherer Karosseriesteifigkeit, die vor allem durch zusätzliche Schweißpunkte und mehr Klebeverbindungen realisiert wurde, noch immer kein Sportwagen ist, der sich mit Lust und Laune in die Kurve stürzt. 
+aber	Contrast	Coordinate	NA	Fürs rein elektrische Fahren ist der RX auch nach dem Facelift nicht geeignet, das entspricht aber auch gar nicht der Toyota- und Lexus-Philosophie des „selbst-aufladenden Hybrids“: Statt einen großen Akku mit Steckdosenanschluss herumzuschleppen, setzen die Japaner auf einen kleinen Stromspeicher, der gerade mal genug Energie zum Anfahren und Segeln bereit hält und allein durch Energierückgewinnung geladen wird.
+aber	Contrast	Coordinate	NA	Vereinfacht ausgedrückt „läuft“ das Licht quasi von links nach rechts über die Straße, aufgrund der hohen Geschwindigkeit sieht es für das menschliche Auge aber aus, wie ein einziger Lichtkegel.
+aber	Contrast	Coordinate	NA	Anfangs gab es diesen zwar schon mal, man hat ihn aber vor etwa zwei Jahren aus dem Programm genommen.
+aber	Concession	Subordinate	Anaphoric	Serienmäßig an Bord ist jetzt aber die Klimaautomatik und das Infotainment erlaubt die Einbindung des Smartphones über Apple CarPlay und Android Auto.
+aber	Concession	Subordinate	Anaphoric	dazu wäre eine Bedienung vom Lenker aus erforderlich, die es aber nicht gibt.
+aber	Contrast	Coordinate	NA	Zum Sparen taugt die XSR700 XTribute also nicht. Aber fürs Gefühl...
+aber	Concession	Subordinate	Anaphoric	Dem e-Up könnte jetzt zügig der Durchbruch gelingen - zwei kleine Unsicherheiten gibt es dabei aber noch.
+aber	Concession	Subordinate	Anaphoric	Erst bei flotter Autobahnfahrt - bei 130 Stundenkilometern wird abgeregelt - gehen die Verbrauchswerte Richtung 18 kWh. Aber das ist ja nicht die Domäne des Kleinen.
+aber	Concession	Subordinate	Anaphoric	Es geht also zügig voran, bei allzu beherztem Tritt auf das Strompedal in der Kurve ringen sogar die Hinterreifen (auch) mal hörbar um Fahrbahnkontakt. Aber dank straffem Fahrwerk und der üblichen Elektronik-Helferlein liegt der e-Up immer sicher auf der Straße.
+aber	Concession	Subordinate	Anaphoric	Die Rekuperation lässt sich in vier Stufen einstellen, allein mit dem Strompedal ist der Up aber nicht zu verzögern.
+aber	Concession	Subordinate	Anaphoric	Die City-Notbremsfunktion musste dafür aber leider weichen, weil die Kamera nicht beides bieten kann.
+aber	Concession	Subordinate	Anaphoric	Das wird manchen potenziellen e-Up-Fahrer nochmal zögern lassen. Aber dafür kann das Auto wirklich nichts.
+aber	Contrast	Coordinate	NA	Einen genauen Verbrauch des Versuchsträgers nennt VW nicht, er dürfte aber ähnlich wie beim Jetta nach geltender Norm um die 4 Liter auf 100 Kilometer liegen.
+aber	Concession	Subordinate	Cataphoric	Fließt der Verkehr, ist der leise Spaß aber bald vorbei, dann meldet sich der Verbannte mit wohligem Brummen zurück, auch die Nadel des Drehzahlmessers strebt wieder nach oben.
+aber	Contrast	Coordinate	NA	Aber wie gesagt: Dieses Auto wird so nie in Serie gehen.
+aber	Contrast	Coordinate	NA	Auf den zweiten Blick ist die Entscheidung der chinesischen Schweden aber sehr gut nachvollziehbar.
+aber	Contrast	Coordinate	NA	Die achtstufige Getriebeautomatik arbeitet derweil dezent im Hintergrund, die Lenkung ist leichtgängig, aber nicht unpräzise und der Geräuschkomfort ist abgesehen vom unter Last wenig sonoren Klang des Zweiliter-Triebwerks angenehm.
+aber	Concession	Subordinate	Anaphoric	Sollte in dieser Klasse vollelektrisch sein – sieht aber auch der bei Konkurrenz nicht besser aus.
+aber	Contrast	Coordinate	NA	Erste kurze Testfahrten mit der recht konventionell, aber durchgestylt anmutenden Limousine beweisen:
+aber	Contrast	Coordinate	NA	Die Front erinnert ein bisschen an den neuen Mazda6, aber es gibt mehr verspielte Details als bei den meisten bisher bekannten Serienautos:
+aber	Contrast	Coordinate	NA	Verarbeitung und Materialanmutung sind verhältnismäßig ordentlich, aber Großserienstandard hat sich noch nicht eingestellt.
+aber	Concession	Subordinate	Anaphoric	Verarbeitung und Materialanmutung sind verhältnismäßig ordentlich, aber Großserienstandard hat sich noch nicht eingestellt. Aber bereits nach den ersten Kilometern entschädigt der Punch etwaige Patzer bei der Solidität der Türverkleidungen.
+aber	Contrast	Coordinate	NA	Wer Zweiräder fährt, möchte spontan daran ziehen, um die Fuhre zum Stehen zu bringen, greift aber ins Leere.
+aber	Contrast	Coordinate	NA	Der Ryker ist der kleine Bruder des Spyder, der seit einem Jahrzehnt im Angebot, aber ein seltener Gast auf unseren Straßen ist.
+aber	Concession	Subordinate	Anaphoric	Obacht, gleich landet das Insekt auf dem Rücken, es fehlt ja das äußere Hinterrad, an dem es sich abstützen kann. Es kippt aber nicht.
+aber	Concession	Subordinate	Anaphoric	Der Eindruck liegt irgendwo zwischen Schneemobil, Motorrad mit Seitenwagen und starkem Quad, der Ryker ist aber (vorn) breiter und länger als jenes.
+aber	Contrast	Coordinate	NA	Mit der Zeit wird der Pilot mutiger, aber selbst in der flott angefahrenen Haarnadel ist der Reifen kaum dazu zu bewegen, den Bodenkontakt zu verlieren, vorher schiebt das Dreirad über die Vorderräder nach außen.
+aber	Contrast	Coordinate	NA	Den Knick an der C-Säule kupiert, die Muskeln angespannt und der Luft Angriffsfläche genommen, das sieht scharf trainiert und angriffslustig aus, aber seinen Charakter als Unschuld vom Bande gibt der Captur auf.
+aber	Contrast	Coordinate	NA	...an der Steckdose aufladbarer Plug-in-Hybrid... Für Allradantrieb wird aber auch der nicht sorgen, es bleibt stets beim Frontantrieb.
+aber	Concession	Subordinate	Anaphoric	Auf Wunsch gibt es sogar eine Art künstlichen Motorsound. Leise in der Stadt dahin Rollen ist aber nicht mehr.
+aber	Contrast	Coordinate	NA	Das ist verdammt flott,fühlt sich in dem SUV aber nicht so brachial an, wie in einem kleinen, engen Sportwagen.
+aber	Concession	Subordinate	Anaphoric	Man kann die Angabe des kombinierten Verbrauchs von 3,7 Litern je 100 km natürlich belächeln und die Berechnungsgrundlage schmähen, aber unter der Voraussetzung, den Allradler fleißig elektrisch zu fahren, kann dieser Wert auch real zustande kommen.
+aber	Contrast	Coordinate	NA	Ob sie aber glücklich werden ob (angesichts/in Anbetracht) so vieler Fahrmodi, bleibt abzuwarten.
+aber	Contrast	Coordinate	NA	Umfassend renoviert hat Piaggio den 278-Kubik-Einzylinder, der nun den Namen 300 hpe trägt. Das Kürzel steht für High Performance Engine, was beeindruckend klingt, aber auch ein wenig großspurig anmutet angesichts einer Maximalleistung von 17,5 kW (23,8 PS) und der Tatsache, dass Motorräder inzwischen mit 200 PS unterwegs sind.
+aber	Contrast	Coordinate	NA	Das gilt auch für den nach wie vor zu kleinen Stauraum unterm Sitz, in den nur sehr flach bauende Helme hineinpassen, nicht aber gewöhnliche Jet- und schon gar keine Integralhelme.
+aber	Contrast	Coordinate	NA	Es ist kaum größer (als das vor zwei Jahren gefahrene Modell N1S) und mit 110 Kilo nur wenig schwerer als das vor zwei Jahren gefahrene Modell N1S aber stärker und schneller.
+aber	Contrast	Coordinate	NA	Wenn der Zündschlüssel gedreht ist, erwacht das Mäusekino, es zeigt unter anderem den Zustand der zwei Batterien getrennt an, hat aber keinen Tageskilometerzähler.
+aber	Contrast	Coordinate	NA	Falls das Popogefühl des Fahrers nicht trügt, nimmt der Niu aber schon ab etwa 30 Prozent Restkapazität die Leistungsaufnahme beim Beschleunigen dezent zurück.
+aber	Concession	Subordinate	Anaphoric	E-Safe reicht gerade, um einen frisierten Krankenfahrstuhl zu überholen, wehe dem, der auf der Autobahn in den Notmodus muss. Aber dort ist der NGT ohnehin fehl am Platz und der Schrecken der Lastwagenfahrer.
+aber	Contrast	Coordinate	NA	Die sorgen für feinen Klang, plärren einem beim Schulterblick aber recht laut ins Ohr.
+aber	Concession	Subordinate	Anaphoric	Hier und da finden sich weiche Oberflächen, der Rest ist Hartplastik, das aber gut ausschaut und sich auch ordentlich anfühlt.
+aber	Contrast	Coordinate	NA	Dass er dabei dreizylindertypisch knurrt ist ok, der Turbolader aber müsste nicht unbedingt so lautstark dazu säuseln.
+aber	Contrast	Coordinate	NA	Noch immer lässt sich mit dem Juke, der eine steifere Karosserie bekommen hat, ein präziser Kurvenstrich ziehen, gleichzeitig aber federt der Unterbau merklich geschmeidiger über den Asphalt.
+aber	Contrast	Coordinate	NA	Auf den etwas trägeren Eco-Betrieb könnte man verzichten, im Sport-Modus aber reagiert der kleine Japaner dagegen tatsächlich spürbar direkter.
+aber	Contrast	Coordinate	NA	Mehr Details über weitere Motoren und alternative Antriebe verraten die Japaner derzeit aber noch nicht.
+aber auch	Contrast	Coordinate	NA	Aus der XSR700, der Retro-Version des Mega-Erfolgsbikes MT-07 entwickelt, leitet man nun eine Art Über-Retro ab, die farblich, aber auch in einigen Ausstattungsdetails an die legendäre XT 500 erinnert, die XSR700 Xtribute.
+aber nicht zuletzt	Contrast	Coordinate	NA	Selbstverständlich beherrscht sie, quasi im Familienerbe, das Rasen, aber nicht zuletzt dank einer sehr kompletten Ausstattung auch das genussvolle Reisen.
+allerdings	Contrast	Coordinate	NA	Der ist allerdings weniger imposant und eindrucksvoll als erwartet. 
+allerdings	Contrast	Subordinate	NA	Ihren vollen Charme entfaltet sie freilich erst mit dem auf der rechten Fahrzeugseite scramblerartig hochgelegten Akrapovic-Auspuff, der allerdings fast 1.300 Euro zusätzlich verschlingt.
+allerdings	Contrast	Coordinate	NA	Der mit allen nötigen Funktionen aufwartende Bordcomputer gibt seine Geheimnisse während der Fahrt allerdings nicht Preis;
+allerdings	Contrast	Coordinate	NA	Was der e-Up allerdings nicht bieten kann ist die Armada an radar- und sensorgestützen Assistenzssystemen,
+allerdings	Contrast	Coordinate	NA	Auch Škoda rechnet damit, dass bis zum Jahr 2025 rund ein Viertel der Produktion auf Elektromodelle entfallen wird, Plug-in-Hybride mitgerechnet. Allerdings muss noch bis Anfang 2020 auf den Superb mit Stecker gewartet werden, während die Marktpremiere des aufgefrischten Superb und des Superb Scout schon Ende Juni ist.
+allerdings	Concession	Subordinate	Anaphoric	Der Basispreis von 20.000 Eur ist absolut hoch und relativ niedrig. Allerdings kostet der scheidende Citigo-Benziner weniger als die Hälfte.
+allerdings	Contrast	Coordinate	NA	...deutlich angenehmer wird. Allerdings zum Preis der Übersichtlichkeit.
+allerdings	Contrast	Coordinate	NA	Der ist freilich auch turbogeladen, allerdings wird das Dreiliter-Triebwerk von nur einem einzigen Lader mit Frischluft versorgt.
+allerdings	Contrast	Coordinate	NA	Allerdings erfordert das ressourcenschonende Fahren mit dem Boliden viel Disziplin.
+allerdings	Concession	Subordinate	Anaphoric	Selbst erfahrene Berufs-Autospezialisten müssen sich dann erst einmal sammeln, der konventionelle Einsteiger alias Endkunde wird ein paar Tage brauchen, dann dürften die Handgriffe allerdings sitzen.
+allerdings	Contrast	Coordinate	NA	Nissan geht allerdings davon aus, dass das Gros der Kunden zur N-Connecta-Ausstattung greift (ab 22.290 Euro).
+dafür	Contrast	Coordinate	NA	Dafür verrieten sie, dass die schon in wenigen Wochen verfügbare und 20.355 Euro kostende Low Rider S außer in „Vivid Black“ gegen 350 Euro Aufpreis auch in einem hellen Nicht-Schwarz erhältlich sein wird.
+dafür	Contrast	Coordinate	NA	Dafür wirken Bremse und Lenkung ein wenig synthetisch, aber wir reden ja nicht von einem Sportwagen.
+dafür	Contrast	Coordinate	NA	Dafür hätte Hyundai beim Interieur-Finish ruhig eine Schippe drauflegen können.
+dafür	Contrast	Coordinate	NA	Die Motorleistung der Grundversion steht noch nicht fest, dafür macht potenziellen Interessenten den Mund mit der Spitzenversion wässrig.
+dafür aber	Contrast	Coordinate	NA	In der expliziten Turbo-Version sinkt der Hubraum um 100 Kubikzentimer, dafür aber sorgt ein zweiter Turbolader für Druck.
+dafür allerdings	Contrast	Coordinate	NA	In der praktischen Außenhaut des 3,60 kurzen Fünftürers war der Antrieb erstmal kaum zu erkennen. Dafür allerdings bei zwei anderen Maßstäben für Kleinstwagenkäufer:
+dagegen	Contrast	Coordinate	NA	Das dagegen serienmäßige Radio kann dann nur vom Fahrer über das Kombi-Instrument bedient werden.
+dagegen	Contrast	Coordinate	NA	Nichts zu meckern gibt’s dagegen am Platzangebot, zumindest in Reihe eins. 
+dagegen	Contrast	Coordinate	NA	Hier sitzen selbst übergroße Fahrer tadellos, auf der dreisitzigen Rückbank geht’s dagegen eng wie ehe und je zu. 
+dagegen	Contrast	Coordinate	NA	Für die Hitzeschilde der Auspuffanlage kommt „Jet Black“ zum Einsatz, für Luftfiltergehäuse, Kupplungs- und Zylinderkopfdeckel dagegen „Gloss Black“. 
+dagegen	Contrast	Coordinate	NA	Dass die Spitzengeschwindigkeit auf wenig mehr als 200 km/h limitiert ist, schadet dagegen nichts.
+dagegen	Contrast	Coordinate	NA	Der Kollege Motorradfahrer will sich gar nicht erst daraufsetzen, ... Der Kollege, der sich für fast alles begeistern kann, findet dagegen sein Gutes:
+dagegen	Contrast	Coordinate	NA	Richtig laut dagegen gibt er sich nur selten:
+dagegen	Contrast	Coordinate	NA	Auf den etwas trägeren Eco-Betrieb könnte man verzichten, im Sport-Modus aber reagiert der kleine Japaner dagegen tatsächlich spürbar direkter.
+dagegen	Contrast	Coordinate	NA	Allradantrieb, den es beim Vorgänger gab, ist dagegen weder gegen Geld (zu haben) noch gute Worte zu haben, eine potente Nismo-Version ist dafür wahrscheinlich.
+dann aber	Contrast	Coordinate	NA	Und wer Allradantrieb ankreuzt, sollte mindestens 28.890 Euro bereithalten, ist dann aber automatisch schon in der höheren Ausstattungslinie Plus.
+dann doch	Contrast	Coordinate	NA	Während der munteren, aber nicht hitzigen Fahrt durch die provenzalischen Alpen zeigte der Bordcomputer dann doch 17,7 Liter an.
+dennoch	Contrast	Subordinate	NA	Damit der Wendekreis dennoch mit straßenbaulichen Gegebenheiten harmoniert, bekommt der Flying Spur eine Allradlenkung.
+dennoch	Concession	Subordinate	Anaphoric	Sie fährt sich dennoch ebenso fein und fast so feinfühlig wie die einen halben Zentner leichtere Basisversion, und zwar nicht nur auf Asphalt, sondern auch jenseits davon.
+dennoch	Contrast	Coordinate	NA	Beim Windschutz überzeugt sie dennoch nicht völlig: Der höhere Windschild ist für Menschen, die kleiner als 1,85 Meter sind, zu hoch geraten, um in der tiefsten Position gut über ihn hinwegsehen zu können.
+dennoch	Contrast	Coordinate	NA	Dennoch sollte man im ASX jetzt keine sportlichen Ambitionen aufkommen lassen.
+dennoch	Contrast	Coordinate	NA	Dennoch: vor allem dank des stark verbesserten Preis-Leistungsverhältnisses, der uneingeschränkt guten Platzverhältnisse und des vergnüglichen Fahrerlebnisses ist der e-Up jetzt ein wirklich starkes Stromer-Angebot für den City-, Pendel- oder Zweitwageneinsatz.
+dennoch	Concession	Subordinate	Anaphoric	Dennoch könnten die Kunden weiter zögern, in Massen Kaufverträge zu zeichnen, wenn der VW im November in die Showrooms kommt.
+dennoch	Contrast	Coordinate	NA	Reichweiten von rund 300 Kilometern sind in diesem Umfeld dennoch durchaus realistisch.
+dennoch	Concession	Subordinate	Anaphoric	Damit wird die Privatnutzung beim stärksten Cayenne im Rahmen der Dienstwagen-Regelung weiterhin mit einem statt einem halben Prozent besteuert. Dennoch sind auch 32 Kilometer rein elektrische Fahrt eine gute Sache,
+doch	Contrast	Coordinate	NA	Über einen möglichen Diesel verliert Audi keine Worte, seinen Bruder Polo gibt es zwar mit Selbstzünder, doch seine Zukunft ist ungewiss;
+doch	Contrast	Coordinate	NA	Der Fahrer merkt von der ausgeklügelten Technik wenig und doch irgendwie auch wieder viel.
+doch	Contrast	Coordinate	NA	Zwar ist der ab 67.750 Euro erhältliche SQ5 unter anderem mit 20-Zoll-Alus, einer markanten Frontschürze, Spiegelgehäuse in Aluminiumoptik, Leder-Sportsitzen und einer elektrisch öffnenden und schließenden Heckklappe ordentlich ausgestattet, doch gibt es noch reichlich Gelegenheit zu weiteren Ausgaben.
+doch	Contrast	Coordinate	NA	Doch der Reihe nach: Ab sofort ist die Africa Twin in der Version Adventure Sports mit größerem 25-Liter-Tank, höherem Windschild, Kurvenlicht, Griffheizung und allerlei anderen zusätzlichen Merkmalen auch mit einem semi-aktiven Fahrwerk lieferbar, wie es BMW, Ducati, KTM und Triumph schon längst vormachen.
+doch	Contrast	Coordinate	NA	Neben dem Styling hat auch der Motor Änderungen erfahren, basiert er nun doch auf dem des Supersportlers Fireblade des Jahres 2004. Wichtiger aber noch ist die Schlankheitskur, die der CB 1000 R widerfuhr. 
+doch	Contrast	Coordinate	NA	Nicht, dass der Ioniq schlecht verarbeitet wäre, aber die Architektur mutet für hiesige Verhältnisse doch eine Spur zu trist an.
+doch	Contrast	Coordinate	NA	Doch ohne das übliche Gebrüll und so ganz ohne Vibrationen wirkt der Spurt vergleichsweise nüchtern, kühl und künstlich. 
+doch	Contrast	Coordinate	NA	Doch für sentimentale Betrachtungen ist jetzt nicht die richtige Zeit, schließlich nähert sich bereits die erste Kurve, und die geht nur ganz langsam. 
+doch	Concession	Subordinate	Anaphoric	Auch wenn die Kawasaki Versys 1000 die extreme Nutzungs-Bandbreite einer echten Reiseenduro nicht zu offerieren vermag, so liefert sie doch eine solide, anspruchsvolle Grundlage für vergnügliches Reisen auf Straßen aller Art über lange Distanzen.
+doch	Contrast	Coordinate	NA	Freilich hätte ein semiaktiv arbeitendes Fahrwerkssystem noch besser zu dieser in so vielen Details extrem aufwendig gemachten technischen Speerspitze gepasst, doch Herr Watanabe beteuert, dafür sei es noch zu früh: "Erst muss unser semiaktives System im Superbike ZX-10 RR seine überzeugende Wirksamkeit rundum unter Beweis gestellt haben, dann ist eine Adaption an die H2SX möglich."
+doch	Contrast	Coordinate	NA	Ein Wort noch zum "Baumstamm"": Einerseits ist die Ultra-Kawa im Highspeed-Bereich absolut stabil, doch dies kostet zwangsläufig ein Stück Agilität. 
+doch	Contrast	Coordinate	NA	Doch statt mit Sondermodellen und Geburtstagseditionen feiern die Japaner das Jubiläum vornehm-zurückhaltend mit einem kleinen Facelift für ihr großes SUV RX.
+doch	Contrast	Coordinate	NA	Doch wirkt die Motorenkombination nicht so durchzugsfreudig wie ein Diesel oder so spritzig wie manch ein Turbo-Benziner. 
+doch	Concession	Coordinate	NA	Apropos Alltag: Auf der Straße dürften wohl die meisten Passanten den Unterschied zwischen Vor- und Nach-Facelift-Modell nicht erkennen; tun sich doch ohnehin viele schwer, den RX als solchen zu bestimmen – in Anbetracht von rund 600 verkauften Einheiten pro Jahr in Deutschland kein Wunder.
+doch	Concession	Coordinate	NA	Doch mittlerweile ist reichlich Konkurrenz auf der Straße.
+doch	Contrast	Coordinate	NA	Zwar gibt es ein Auffahrwarnsystem mit Fußgängererkennung und eine City-Notbremsfunktion, doch für den fast alltäglichen Kolonnenverkehr und für die nicht minder häufigen Stop&Go-Situationen zum Feierabend wäre ein adaptiver Abstandsradar schon wünschenswert.
+doch	Contrast	Coordinate	NA	Doch die Designer haben noch mehr optische Zitate in die XTribute gepackt:
+doch	Concession	Subordinate	Anaphoric	Nicht wirklich gut erkennbar ist alleine der Drehzahlmesser, doch das ist im Grunde egal:
+doch	Concession	Subordinate	Anaphoric	Diejenigen, die an sich einen Diesel suchen, will Volvo mit dem Plug-In-Hybriden locken, doch auch der S60 T4 dürfte als erwartetes Volumenmodell seine Kunden bekommen.
+doch	Concession	Subordinate	NA	Wer den zwei Liter großen Vierzylinder-Benziner des Volvo S60 T4 startet, meint zunächst, dass Volvo den S60 doch noch als Diesel anbieten würde, denn ein akustischer Leisetreter ist der Turbo-Direkteinspritzer beim besten Willen nicht.
+doch	Concession	Subordinate	Anaphoric	Das Triebwerk selbst ist als Einstiegsmotor mit 140 kW/190 PS allemal in Ordnung, doch weniger sollte es bei der rund 1,7 Tonnen schweren Mittelklasselimousine dann auch nicht sein.
+doch	Contrast	Coordinate	NA	Die Vmax gibt Porsche mit 270 km/h an. Das ist ohne Frage mehr als genug, doch reicht es nicht, um den Turbo zum schnellsten Macan zu machen:
+doch	Concession	Subordinate	Cataphoric	Das prägnante V8-Bollern des Verbrenners löst zumindest bei einschlägigen Autofans eben doch Gänsehaut aus, und damit kalkuliert Porsche natürlich.
+doch	Concession	Coordinate	NA	Das Kürzel steht für High Performance Engine, was beeindruckend klingt, aber auch ein wenig großspurig anmutet angesichts einer Maximalleistung von 17,5 kW (23,8 PS) und der Tatsache, dass Motorräder inzwischen mit 200 PS unterwegs sind. Doch tatsächlich ist diese Vespa die stärkste aller Zeiten, wie die Italiener stolz hervorheben.
+doch	Contrast	Subordinate	NA	Und da wäre noch ein Makel: Am Moped-Niu hatten wir einst den allzu ruppigen Anzug bemängelt. Unser Flehen wurde in China erhört, der NGT setzt sich an der Ampel sanft, fast schüchtern in Bewegung. Wir bitten um Vergebung, aber das ist nun doch zu viel Zurückhaltung.
+doch	Contrast	Coordinate	NA	Damit kommt der rund 1,2 Tonnen schwere Nissan zwar nicht in unter zehn Sekunden auf Tempo 100 und schafft maximal 180 km/h, doch fühlt sich der Benziner recht spritzig an, und mit einem beherzten Tritt aufs Gas macht er sogar bergauf noch eine gute Figur.
+im Unterschied dazu	Contrast	Coordinate	NA	Im Unterschied dazu werden Motor, Tankkonsole und die Abdeckung des Primärantriebs in „Wrinkle Black“ getaucht, was sich mit Runzel-Schwarz übersetzen lässt.
+immerhin	Contrast	Coordinate	NA	Denn auch wenn die Abteilung SVO bei Jaguar immerhin acht Zentner Gewicht aus dem Auto geholt hat, wiegt der iPace auch in der Trophy-Version noch gute zwei Tonnen, die man auf der Strecke leider deutlich spüren kann.
+immerhin	Contrast	Coordinate	NA	Immerhin: Das laute Aufbrausen des Verbrenners bei starker Leistungsabfrage haben die Ingenieure inzwischen gut weggedämmt.
+immerhin	Contrast	Coordinate	NA	Immerhin spendiert VW dem e-Up nun einen aktiven Spurhalteassistenten.
+immerhin	Contrast	Coordinate	NA	Immerhin ist das Drehmoment des Zylinderquartetts mit 300 Nm ab 1700 U/min beinahe auf Dieselniveau.
+immerhin	Contrast	Coordinate	NA	Immerhin: In Sachen Infotainment hatte Porsche beim Facelift nochmal kräftig aufgerüstet und extra die Lüftungsdüsen in der Mittelkonsole versetzt, um einen 11-Zoll-Touchscreen unterzubringen.
+immerhin	Concession	Subordinate	Anaphoric	Mit dem 15,5-kWh-Lithium-Ionen-Akku sind laut Harley im gemischten Betrieb Reichweiten von gut 150 Kilometer zu erzielen, im reinen Stadtbetrieb, wo im Stop-And-go viel rekuperiert werden kann, immerhin zirka 230. 
+jedoch	Contrast	Coordinate	NA	Die genauen Preise verschweigt Škoda noch, sie sollen jedoch auf dem Niveau des Vorgängers liegen.
+jedoch	Contrast	Coordinate	NA	Wendigkeit, solider Geradeauslauf, tapfere Federung, in der Dosierung stumpf wirkende, jedoch fest zupackende Bremsanlage, beste Sicht in den Rückspiegeln – alles wie gehabt.
+jedoch	Contrast	Coordinate	NA	Zuvor muss jedoch gestartet werden, und das geht so:
+jedoch/im Gegensatz zu	Contrast	Coordinate	NA	Im Gegensatz zu Modellen wie dem neuen Dreier BMW lässt sich jedoch die S60-Heckklappe nicht elektrisch öffnen oder schließen.
+sondern	Contrast	Coordinate	NA	In der Basis-Version sitzt in der Mittelkonsole allerdings auch keine Günstig-Version, sondern nur ein schnödes Ablagefach! 
+sondern	Contrast	Coordinate	NA	Der wuchtige Bentley Flying Spur ist kein Monument der Beharrung, sondern die schnellste Limousine der Welt.
+sondern	Contrast	Coordinate	NA	Nicht in Schwarz, sondern in „Matte Dark Bronze“ sind die Leichtmetallräder der Maschine gehalten, was ein Bronzeton ist, wie man ihn sich schwärzer kaum vorstellen kann. 
+sondern	Contrast	Coordinate	NA	Wer sich intensiv mit der Bedienlogik beschäftigt, kommt irgendwann dahinter, dass nichts an dieser Baugruppe zufällig, sondern alles stringent ist.
+sondern	Contrast	Coordinate	NA	Hier und heute ist die Balance schnell gefunden und der iPace dreht eine Runde nach der anderen. Und mit jeder kommt nicht nur das Auto näher ans Limit, sondern vor allem der Fahrer. 
+sondern	Contrast	Coordinate	NA	Es geht nicht ums Runden fahren,sondern um das gefahrlose Ausloten des ungeheuerlichen Beschleunigungsvermögens dieses 210 PS starken und samt Serien-Hauptständer 260 Kilogramm schweren Boliden.
+sondern	Contrast	Coordinate	NA	Es handelt sich nämlich – man muss es wiederholen – bei der H2SX nicht um ein Racebike, sondern um einen Sporttourer.
+sondern	Contrast	Coordinate	NA	Natürlich, der Kardantunnel entfällt, die bullige Antriebseinheit ist kompakt in Hinterachs-Nähe installiert. Das sorgt für ordentliche Raumverhältnisse nicht nur für die menschliche Fracht, sondern ebenso für das mitreisende Gepäck.
+sondern	Contrast	Coordinate	NA	So ist ausgerechnet das Topmodell nicht mehr der gefräßige Buhmann, sondern schlägt sich bei entsprechender Nutzung ökologisch wacker.
+sondern	Contrast	Coordinate	NA	Dank einer gewitzt gewählten Spurbreite von 465 Millimeter gilt der Dreiradroller nicht als Ein-, sondern als Mehrspurfahrzeug und darf daher mit dem Autoführerschein gefahren werden, wobei die Regeln in Europa nicht ganz einheitlich sind.
+sondern	Contrast	Coordinate	NA	Auf Platz zwei folgt Deutschland, auf Rang drei noch immer nicht Italien, sondern Spanien.
+sondern	Contrast	Coordinate	NA	Anders als eine Vespa aus demselben Konzern legt man sich einen MP3 nicht zu, um Geschmackssicherheit zu demonstrieren, sondern aus Notwehr beziehungsweise der Notwendigkeit, im Verkehrsgewühl voran- und anzukommen.
+sondern	Contrast	Coordinate	NA	Das Heck wirkt mit den kantigen Rücklichtern deutlich weniger verspielt als bisher, außerdem hat Nissan nicht nur die Optik der Leuchten verändert, sondern gönnt sich jetzt sogar teurere, zweigeteilte Lichter.
+sondern	Contrast	Coordinate	NA	Der hält nicht nur den Abstand zum Vordermann, sondern lenkt auch noch selbstständig mit.
+sonst	Concession	Subordinate	Anaphoric	Vorn sitzen die Passagiere ausgezeichnet, aber wer auf der Rücksitzbank Platz nehmen muss, ärgert sich über den klassenüblich knappen Beinraum der Doppelkabiner – sonst bliebe für die Ladefläche noch weniger übrig als 156 × 157 Zentimeter.
+stattdessen	Contrast	Coordinate	NA	Kaum Bezug zur Vergangenheit gibt’s im sportlich eingerichteten Cockpit: Analoge Instrumente haben ausgedient, stattdessen informiert immer ein 10,25-Zoll-Display über Tempo, Drehzahl und mehr.
+stattdessen	Contrast	Coordinate	NA	Der markanteste Unterschied des Softail-Fahrwerks zur damaligen Dyna-Konstruktion: keine Stereo-Federbeine am Heck, stattdessen ein raffiniert unterm Sattel verstecktes Federelement, das den klassischen Starrrahmen-Look mit der Illusion eines ungefederten Hinterrads ermöglicht.
+stattdessen	Contrast	Coordinate	NA	Stattdessen wird ein TFT-Display mit Touchscreen-Funktion geliefert, das Honda selbst entwickelt hat.
+stattdessen	Contrast	Coordinate	NA	Stattdessen gibt es ein Pedal, auf das der rechte Fuß trampeln muss, um Wirkung zu erzielen, und sonst nichts.
+trotzdem	Contrast	Subordinate	NA	Trotzdem sind die Preise erreichbarer, so sich das in diesen Klassen überhaupt behaupten lässt.
+trotzdem	Contrast	Coordinate	NA	Trotzdem versucht das System, den Verbrenner so oft wie möglich abzustellen – das gelingt je nach Fahrprofil auf rund 30 Prozent aller Wege; im Stadtverkehr wahrscheinlich sogar noch häufiger. 
+trotzdem	Contrast	Coordinate	NA	Trotzdem saugt das stete Anfahren und Abbremsen die Batterie schnell leer.
+trotzdem	Contrast	Subordinate	NA	Das weist schon auf die Zielgruppe hin, der Ryker möchte von Autofahrern gekauft werden, die ihn mit ihrem Führerschein fahren dürfen, eine Handbremse zusätzlich wäre uns trotzdem lieber.
+trotzdem	Concession	Subordinate	Cataphoric	Mehr noch macht sich die Neigesystem-Verriegelung beim Parken nützlich: Weil der Scooter nicht auf einen – trotzdem vorhandenen – Ständer gehievt werden muss, lässt er sich in die schmalste Lücke schieben und per Handbremse sichern.
+trotzdem	Concession	Subordinate	Anaphoric	Wer nicht möchte, dass sämtliche Aktionen und Wege über die Cloud bei Konfuzius landen, kann manche Funktionen deaktivieren ob die Daten trotzdem irgendwo gesammelt werden, wissen wir nicht.
+wobei	Contrast	Coordinate	NA	Griffige und gut dosierbare Vierkolben-Bremsen stehen dem Vortrieb bei Bedarf wirksam entgegen, wobei dem ABS die Schräglagentauglichkeit abgeht. 
+wobei	Concession	Subordinate	Anaphoric	Die XTribute lässt sich insgesamt sehr leicht fahren, geradeaus wie in Kurven, wobei sich der blockmusterartige Pirelli-Pneu als sehr gute Wahl darstellt.
+wobei	Concession	Subordinate	Anaphoric	Antrittsstark lässt die neue GTS an der Ampel die Automeute im Rückspiegel schrumpfen, wobei sich unser Exemplar beim Lossprinten mehrere Male die Merkwürdigkeit eines kurzen Aussetzers erlaubte.
+wobei	Concession	Subordinate	Anaphoric	Dank einer gewitzt gewählten Spurbreite von 465 Millimeter gilt der Dreiradroller nicht als Ein-, sondern als Mehrspurfahrzeug und darf daher mit dem Autoführerschein gefahren werden, wobei die Regeln in Europa nicht ganz einheitlich sind.
+indes	Contrast	Coordinate	NA	Gleichgültig in welchem Modus man sich befindet, ein wenig abgehärtet sollte man indes schon sein, wenn man auf den Bordcomputer blickt.
+statt	Contrast	Coordinate	NA	Und dass man in einer absolut leeren und deshalb umso geräumigeren SUV-Kabine sitzt statt in einem Flachmann, macht die Sache nicht eben besser. 
+statt	Concession	Subordinate	Anaphoric	Als Ausgangsbasis für den Benziner-Stromer-Strang dient der Achtstufenautomat, nur dass statt Wandler das so genannte Hybridmodul samt E-Maschine montiert wird.
+statt	Contrast	Coordinate	NA	Damit wird die Privatnutzung beim stärksten Cayenne im Rahmen der Dienstwagen-Regelung weiterhin mit einem statt einem halben Prozent besteuert.
+statt	Contrast	Coordinate	NA	Aus den zwei Akkus mit 60 Volt Spannung, die für die höhere Leistungsaufnahme gebraucht werden, darf der Radnabenmotor von Bosch bis zu 70 Ampere saugen (statt 40 im kleinen Modell), als Dauerleistung werden 3 kW angegeben.
+trotz	Contrast	Coordinate	NA	Trotz des bescheidenen Aufwands für die Radführungen funktioniert alles dank guter Abstimmung einwandfrei.
+trotz	Contrast	Coordinate	NA	Sitzt es sich vorne sehr bequem, darf man im Fond trotz 2,87 Meter langem Radstand keine Platzwunder erwarten.
+doch während	Contrast	Coordinate	NA	Doch während die zweitstärkste Turbo-Version ohne „S“ bei einem spontanen, lediglich mittelschweren Gasstoß noch nach passenden Übersetzungen fahndet, liefert der Hybrid punktgenau Vortrieb.
+doch während	Contrast	Coordinate	NA	Der Wolfsburger stellt immer noch die technische Basis bereit, doch während die jüngste VW-Polo-Generation nur leicht aufgehübscht wurde, hat sich der Ingolstädter Chef-Designer Marc Lichte ausgetobt.
+während	Contrast	Coordinate	NA	Während die nun 226 Kilogramm wiegende Basisversion der Africa Twin für 14 165 Euro mit knapp 19 Liter fassendem, etwas schlankerem Tank, Tempomat und niedrigem Windschild zwar mit Doppelkupplungsgetriebe angereichert werden kann, ist das semi-aktive Fahrwerk der Adventure-Sports-Version als Extra vorbehalten.
+während	Contrast	Coordinate	NA	Harmonisch geschwungene Bergstraßen wie die über den Großglockner oder über die Bernina dürften durchaus freudvoll zu fahren sein, während man vom Stilfser Joch oder dem Hahntennjoch in Tirol wohl besser die Finger lässt.
+während	Contrast	Coordinate	NA	Während die meisten Hersteller gerade erst im großen Stil LED-Matrix-Scheinwerfer ausrollen, mit denen sich die Straße gezielt ausleuchten und einzelne Bereiche abblenden lassen, gehen die Japaner einen Schritt weiter: Statt auf ein mehr oder weniger feines Netz aus Lichtpunkten vertraut Lexus auf die BladeScan-Technik. 
+während	Contrast	Coordinate	NA	Auch Škoda rechnet damit, dass bis zum Jahr 2025 rund ein Viertel der Produktion auf Elektromodelle entfallen wird, Plug-in-Hybride mitgerechnet. Allerdings muss noch bis Anfang 2020 auf den Superb mit Stecker gewartet werden, während die Marktpremiere des aufgefrischten Superb und des Superb Scout schon Ende Juni ist.
+während	Contrast	Coordinate	NA	Während man sich im Innenraum, beim Top-Modell, für eines von drei Farbkonzepten entscheiden kann und bei der Außenhaut die Wahl zwischen elf Karosserie- und drei Dachfarben hat, braucht man sich über den Motor keine Gedanken machen.
+jedoch/im Gegensatz zu	Contrast	Coordinate	NA	Im Gegensatz zu Modellen wie dem neuen Dreier BMW lässt sich jedoch die S60-Heckklappe nicht elektrisch öffnen oder schließen.
+im Gegensatz zu	Contrast	Coordinate	NA	Im Gegensatz zu Harleys neuer Tourer-Generation (Fahrbericht folgt in Kürze) werden Low Rider S und die anderen Softail-Typen des Modelljahrs 2020 nicht mit Kurven-ABS sowie einer Traktionskontrolle mit Schräglagenerkennung ausgerüstet.
+im Gegensatz zu	Contrast	Coordinate	NA	Im Gegensatz zum Toyota Prius muss der Akku nicht nur auf das Rollen oder Bremsen warten, um die dabei entstehende Energie zum Laden zu nutzen.
+eher	Contrast	Coordinate	NA	Außer vielleicht, dass die für die teureren Baureihen vorgesehenen Sportsitze mit integrierter (nicht verstellbarer) Kopfstütze eher durchschnittlich großen Fahrern auf den Leib geschnitten sind.
+eher	Contrast	Coordinate	NA	Man muss eher aufpassen, die schon bei leichter Berührung des Gaspedals stürmisch los eilenden Pferde im Stadtverkehr oder auf limitierten Strecken im Zaum und innerhalb der Straßenverkehrsvorschriften zu halten.
+zwar	Contrast	Coordinate	NA	Damit kommt der rund 1,2 Tonnen schwere Nissan zwar nicht in unter zehn Sekunden auf Tempo 100 und schafft maximal 180 km/h, doch fühlt sich der Benziner recht spritzig an, und mit einem beherzten Tritt aufs Gas macht er sogar bergauf noch eine gute Figur.
+zwar	Contrast	Coordinate	NA	Zwar ist der ab 67.750 Euro erhältliche SQ5 unter anderem mit 20-Zoll-Alus, einer markanten Frontschürze, Spiegelgehäuse in Aluminiumoptik, Leder-Sportsitzen und einer elektrisch öffnenden und schließenden Heckklappe ordentlich ausgestattet, doch gibt es noch reichlich Gelegenheit zu weiteren Ausgaben.
+andererseits	Contrast	Coordinate	NA	Andererseits offeriert der Hersteller jede Menge Auto für die avisierten 35.000 Euro.
+obwohl	Concession	Subordinate	Anaphoric	Die Modellpflege des Einstiegs-SUV geriet so umfangreich, dass Mitsubishi selbst von „neuer Generation“ spricht, obwohl die Grundarchitektur die alte blieb.
+obwohl	Contrast	Coordinate	NA	Und obwohl bei der Modellpflege eine induktive Ladeschale fürs Handy noch ausgeschlossen wurde, hat Porsche in den vergangenen Monaten auch hier nochmal nachgelegt: Versteckt unter der Mittelarmlehne tankt das Smartphone jetzt kabellos Strom und sogar Apple CarPlay ist inzwischen ohne Stecker nutzbar.
+obwohl	Concession	Coordinate	NA	Die SUV-Welle war absehbar, und obwohl es noch immer Kunden gibt, die dem Modus nachtrauern, ist die Erfolgsgeschichte amtlich.
